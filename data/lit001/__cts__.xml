@@ -1,0 +1,5 @@
+
+<ti:textgroup xmlns:ti="http://chs.harvard.edu/xmlns/cts" urn="urn:cts:mayanLit:lit001">
+  <ti:groupname xml:lang="eng">Mayan Literature</ti:groupname>
+  <!-- Provides the name of the textgroup in each of the languages used in the works. -->
+ </ti:textgroup>
