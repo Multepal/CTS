@@ -1,20 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xml="http://www.w3.org/XML/1998/namespace" xml:lang="eng">
-    <teiHeader>
+    <teiHeader xml:lang="eng">
         <fileDesc>
             <titleStmt>
-                <title>Arte de las tres lenguas kakchiquel, quiché y ꜩutuhil, 
+                <title xml:lang="spa">Arte de las tres lenguas kakchiquel, quiché y ꜩutuhil, 
                 v.2 Popol vuh; and Escolios a la historia de el origen de los Indios.</title>
                 <author>Ximénez, Francisco</author>
-                <author>Nim Chokoj k'ut chuwach Kaweqib' (gran maestro de la palabra ante los Kaweq)</author>
+                <author xml:lang="quc">Nim Chokoj k'ut chuwach Kaweqib' (gran maestro de la palabra ante los Kaweq)</author>
                 <author>chuwach Nija'ib', ukab' k'u ri' (gran maestro de la palabra ante los Nija'ib era el segundo)</author>
                 <author>Nim Chokoj Ajaw chuwach Ajaw K'iche', rox Nim Chokoj (gran maestro de la palabra era el tercer Señor ante los Ajaw K'iche)</author>
+                <respStmt>
+                    <resp>Worked on transitioning the TEI paragraphs edition to be CTS-compliant</resp>
+                    <orgName ref="http://multepal.spanitalport.virginia.edu/">Multepal</orgName>
+                    <persName role="principal">Aldo Barriente</persName> 
+                    <persName role="editor">Allison Bigelow</persName>
+                    <persName role="editor">Rafael Alvarado</persName>
+                </respStmt>
+                <!--I believe we can add another respStmt for all the people who have worked on the site creating temas and such.-->
             </titleStmt>
                 <publicationStmt>
                 <publisher>The Newberry Library</publisher>
-                <publisher>le winaq</publisher>
+                <publisher>Le winaq</publisher>
                 <pubPlace>Chicago, Illinois, USA</pubPlace>
                 <pubPlace>Iximulew</pubPlace>
+                <idno type="filename">lit001.pw001.popolwuj-quc.xml</idno>
+                <availability>
+                    <license><!-- Still being resolved --></license>
+                </availability>
             </publicationStmt>
             <sourceDesc>
                 <p>An encoded transciption of the Newberry Library's VAULT Ayer MS 1515, volume 2, Folio , Side .
@@ -23,7 +35,15 @@
                 https://library.osu.edu/projects/popolwuj/pdfs/NotesOnTransPW_Jn_Jl_2007.</p>
             </sourceDesc>
         </fileDesc>
+
         <encodingDesc>
+            <editorialDecl>
+            <p>This text is the K'iche' column of the Ximenez edition of the Popol Wuj. Because of nature of CTS's unique identifiers
+            us to separate it from the Castellano column, which is stored as another "edition" of the text according to CTS structure.</p>
+            </editorialDecl>
+        
+            <p>The following text is encoded in accordance with TEI standards and with the CTS/CITE Architecture</p>
+
             <refsDecl n="CTS">
                 <cRefPattern n="section" 
                              matchPattern="(\w+)" 
@@ -35,6 +55,7 @@
                 <refState unit="section"/>
             </refsDecl>
         </encodingDesc>
+
         <profileDesc>
             <langUsage>
                 <language ident="quc">K'iche'</language>
@@ -45,7 +66,12 @@
                 <date instant="false">Spring 2017</date>
             </creation>
         </profileDesc>
+
+        <revisionDesc>
+            <change when="2020-07-15" who="Aldo Barriente">Initial finalization of CTS edition</change> 
+        </revisionDesc>
     </teiHeader>
+    
     <text n="urn:cts:mayanLit:lit001.pw001.popolwuj-quc:" xml:id="MS1515v2">
         <body xml:lang="quc" n="urn:cts:mayanLit:lit001.pw001.popolwuj-quc:">
             <div type="column">
