@@ -18,7 +18,8 @@
                 </respStmt>
                 <!--note (Aldo): I believe we can add another respStmt for all the people who have worked on the site creating temas and such.-->
             </titleStmt>
-                <publicationStmt>
+            
+            <publicationStmt>
                 <publisher>The Newberry Library</publisher>
                 <publisher>Le winaq</publisher>
                 <pubPlace>Chicago, Illinois, USA</pubPlace>
@@ -71,8 +72,9 @@
             <change when="2020-07-15" who="Aldo Barriente">Initial finalization of CTS edition</change> 
         </revisionDesc>
     </teiHeader>
-    <text n="urn:cts:mayanLit:lit001.pw001.popolwuj-spa:" > 
-        <body xml:lang="spa" n="urn:cts:mayanLit:lit001.pw001.popolwuj-spa:">  
+
+    <text n="urn:cts:mayaLit:lit0001.pw0001.popolwuj-spa:" > 
+        <body xml:lang="spa" n="urn:cts:mayaLit:lit0001.pw0001.popolwuj-spa:">  
             <div type="column">
                 <div type="section" subtype="paragraph" n="1">
                     <!-- <p corresp="#p01">         -->
