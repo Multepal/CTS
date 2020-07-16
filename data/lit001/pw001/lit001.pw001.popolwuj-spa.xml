@@ -6,9 +6,9 @@
                 <title xml:lang="spa">Arte de las tres lenguas kakchiquel, quiché y ꜩutuhil, 
                 v.2 Popol vuh; and Escolios a la historia de el origen de los Indios.</title>
                 <author>Ximénez, Francisco</author>
-                <author xml:lang="quc">Nim Chokoj k'ut chuwach Kaweqib' (gran maestro de la palabra ante los Kaweq)</author>
+                <author xml:lang="quc">Nim CH'OKOJ k'ut chuwach Kaweqib' (gran maestro de la palabra ante los Kaweq)</author>
                 <author>chuwach Nija'ib', ukab' k'u ri' (gran maestro de la palabra ante los Nija'ib era el segundo)</author>
-                <author>Nim Chokoj Ajaw chuwach Ajaw K'iche', rox Nim Chokoj (gran maestro de la palabra era el tercer Señor ante los Ajaw K'iche)</author>
+                <author>Nim CH'OKOJ Ajaw chuwach Ajaw K'iche', rox Nim CH'OKOJ (gran maestro de la palabra era el tercer Señor ante los Ajaw K'iche)</author>
                 <respStmt>
                     <resp>Worked on transitioning the TEI paragraphs edition to be CTS-compliant</resp>
                     <orgName ref="http://multepal.spanitalport.virginia.edu/">Multepal</orgName>
@@ -5328,7 +5328,7 @@
                     <lb n="18"/>y estos son los nombres de los <choice><abbr>SS<hi rend="superscript">es</hi></abbr><expan instant="false">Señores</expan></choice> de <rs ana="KOKAIB">ca<pc> –</pc>
                     <lb n="19"/>uíquíb</rs>, y el prímero de los <choice><abbr>SS<hi rend="superscript">es</hi></abbr><expan instant="false">Señores</expan></choice> era: <rs ana="AJPOP">ah<pc> –</pc>
                     <lb n="20"/>pop</rs>, <rs ana="AJPOP_KAMJA">ahpop camha</rs>. 2. <rs ana="AJTOJIL">ahtohíl</rs>. 3. <rs ana="AJQUKUMATZ">ahcucu<pc> –</pc>
-                    <lb n="21"/>maꜩ</rs>. 4. <rs ana="NIM_CHOKOJ_KAWEQ">ním chocoh cuec</rs>. 5. <rs ana="POPOL_WINAQ_PA_JOM_TZALATZ">popol vínac</rs>.
+                    <lb n="21"/>maꜩ</rs>. 4. <rs ana="NIM_CH'OKOJ_KAWEQ">ním chocoh cuec</rs>. 5. <rs ana="POPOL_WINAQ_PA_JOM_TZALATZ">popol vínac</rs>.
                     <lb n="22"/>6. <rs ana="LOLMET_KEJNAY">chítuy Lolmet. 7. queh nayí</rs>. 8. <rs ana="POPOL_WINAQ_PA_JOM_TZALATZ">po<pc> –</pc>
                     <lb n="23"/>pol vínac pahom ꜩalaꜩ</rs>. 9. <rs ana="UCHUCH_KAMJA">uchuch
                     <lb n="24"/>camha</rs>.
@@ -5347,7 +5347,7 @@
                     <lb n="29"/>y estos son los <choice><abbr>SS<hi rend="superscript">es.</hi></abbr><expan instant="false">Señores</expan></choice> de los de <rs ana="NIJAIB">níhaí<pc> –</pc>
                     <lb n="30"/>bab</rs> el prímero <rs ana="AJAW_QALEL">ahau ealel</rs>. 2. <rs ana="AJAW_AJTZIK_WINAQ">ahau
                     <lb n="31"/>ahꜩíc vínac</rs>. 3. <rs ana="QALEL_KAMJA">calecamha</rs>. 4. <rs ana="UCHUCH_KAMJA">vchuch
-                    <lb n="32"/>camha</rs>. 5. <rs ana="NIM_CHOKOJ_NIJAIB">ním chocoh níhaíb</rs>. 6. <rs ana="AJAW_AWILIX">aha<pc> –</pc>
+                    <lb n="32"/>camha</rs>. 5. <rs ana="NIM_CH'OKOJ_NIJAIB">ním chocoh níhaíb</rs>. 6. <rs ana="AJAW_AWILIX">aha<pc> –</pc>
                     <lb n="33"/>u auílix</rs>. 7 <rs ana="YAKOLATAM_UTZAM_POP_SAQLATOL">yacolatam. 8. vꜩam
                     <lb n="34"/>pop o, zaclatol.</rs> 9. <rs ana="NIMA_LOLMET_YEOLTUX">níma lolmet yeol<pc> –</pc>
                     <lb n="35"/>tux</rs>. nueue <choice><abbr>SS<hi rend="superscript">es</hi></abbr><expan instant="false">Señores</expan></choice> ante los de <rs ana="NIJAIB">níha<pc> –</pc>
@@ -5359,7 +5359,7 @@
                     <!-- <p corresp="#p79"> -->
                     <lb n="37"/>y de los de <rs ana="AJAW_K'ICHE'">ahauquíche</rs> estos son
                     <lb n="38"/>los nombres de los <choice><abbr>SS<hi rend="superscript">es.</hi></abbr><expan instant="false">Señores</expan></choice> el prímero:
-                    <lb n="39"/><rs ana="AJTZIK_WINAQ">ahꜩíc vínac</rs>, 2. <rs ana="AJAW_LOLMET">ahau lolmet</rs>. 3. <rs ana="AJAW_NIM_CHOKOJ">ahau
+                    <lb n="39"/><rs ana="AJTZIK_WINAQ">ahꜩíc vínac</rs>, 2. <rs ana="AJAW_LOLMET">ahau lolmet</rs>. 3. <rs ana="AJAW_NIM_CH'OKOJ">ahau
                     <lb n="40"/>ním chocoh</rs> 4. <rs ana="AJAW_JAQAWITZ">ahau hacauíꜩ</rs>. estos
                     <lb n="41"/>son los quatro <choice><abbr>SS<hi rend="superscript">es.</hi></abbr><expan instant="false">Señores</expan></choice> ante los de <rs ana="AJAW_K'ICHE'">ahau
                     <lb n="42"/>quiche</rs>.
@@ -5878,7 +5878,7 @@
                     <lb n="33"/><abbr>q’</abbr>íquínaha.
                     <!-- </p> -->
                     <!-- <p> -->
-                    <lb n="34"/><rs ana="NIM_CHOKOJ_KAWEQ"><hi rend="large">N</hi>ím choch cauec</rs>. vna casa grande.
+                    <lb n="34"/><rs ana="NIM_CH'OKOJ_KAWEQ"><hi rend="large">N</hi>ím choch cauec</rs>. vna casa grande.
                     <!-- </p> -->
                     <!-- <p> -->
                     <lb n="35"/><hi rend="large">A</hi>hau ahtohíl. <choice><abbr>S<hi rend="superscript">or.</hi></abbr><expan instant="false">Señor</expan></choice> de vna casa grande.
@@ -5975,7 +5975,7 @@
                     <lb n="28"/><rs ana="NIMA_KAMJA"><hi rend="large">N</hi>íma camha</rs><choice><abbr type="superscription">Sor</abbr><expan instant="false">Señor</expan></choice> de vna casa <choice><abbr type="superscription">gre.</abbr><expan instant="false">grande</expan></choice>
                     <lb n="29"/><rs ana="UCHUCH_KAMJA"><hi rend="large">V</hi>chuch camha</rs>.<choice><abbr type="superscription">Sor</abbr><expan instant="false">Señor</expan></choice> de vna casa <choice><abbr type="superscription">gre.</abbr><expan instant="false">grande</expan></choice>
                     <lb n="30"/><rs ana="NIMA_KAMJA"><hi rend="large">N</hi>íma camha</rs>.<choice><abbr type="superscription">Sor</abbr><expan instant="false">Señor</expan></choice> de vna casa <choice><abbr type="superscription">gre.</abbr><expan instant="false">grande</expan></choice>&gt;
-                    <lb n="31"/><rs ana="NIM_CHOKOJ_NIJAIB"><hi rend="large">N</hi>ímchocoh níhaíb</rs><choice><abbr type="superscription">Sor</abbr><expan instant="false">Señor</expan></choice> de vna casa <choice><abbr type="superscription">grane.</abbr><expan instant="false">grande</expan></choice>
+                    <lb n="31"/><rs ana="NIM_CH'OKOJ_NIJAIB"><hi rend="large">N</hi>ímchocoh níhaíb</rs><choice><abbr type="superscription">Sor</abbr><expan instant="false">Señor</expan></choice> de vna casa <choice><abbr type="superscription">grane.</abbr><expan instant="false">grande</expan></choice>
                     <lb n="32"/><rs ana="AJAW_AWILIX"><hi rend="large">A</hi>hau auílíx</rs><choice><abbr type="superscription">Sor</abbr><expan instant="false">Señor</expan></choice> de vna casa <choice><abbr type="superscription">grane.</abbr><expan instant="false">grande</expan></choice>
                     <lb n="33"/><rs ana="YAKOLATAM"><hi rend="large">Y</hi>acolatam</rs>. <choice><abbr type="superscription">Sor</abbr><expan instant="false">Señor</expan></choice> de vna casa grande.
                     <!-- </p> -->
@@ -6022,7 +6022,7 @@
                     <lb n="11"/>de vna grande casa.
                     <lb n="12"/><rs ana="AJAW_LOLMET"><hi rend="large">L</hi>olmet ahau</rs>. el segundo <choice><abbr type="superscription">Sor</abbr><expan instant="false">Señor</expan></choice> de vna
                     <lb n="13" rend="indent"/>casa grande.
-                    <lb n="14"/><rs ana="AJAW_NIM_CHOKOJ"><hi rend="large">N</hi>ím chocoh</rs> el tercero <choice><abbr type="superscription">Sor</abbr><expan instant="false">Señor</expan></choice> de vna ca<pc> –</pc>
+                    <lb n="14"/><rs ana="AJAW_NIM_CH'OKOJ"><hi rend="large">N</hi>ím chocoh</rs> el tercero <choice><abbr type="superscription">Sor</abbr><expan instant="false">Señor</expan></choice> de vna ca<pc> –</pc>
                     <lb n="15" rend="indent"/>sa grande.
                     <lb n="16"/><rs ana="AJAW_JAQAWITZ"><hi rend="large">H</hi>acauíꜩ</rs>. el quarto <choice><abbr type="superscription">Sor</abbr><expan instant="false">Señor</expan></choice> de vna casa
                     <lb n="17"/>grande. queeran solo <rs ana="CUATRO_CASAS_GRANDES">quatro casas

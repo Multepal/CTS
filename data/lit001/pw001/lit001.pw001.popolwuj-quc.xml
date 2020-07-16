@@ -6,9 +6,9 @@
                 <title xml:lang="spa">Arte de las tres lenguas kakchiquel, quiché y ꜩutuhil, 
                 v.2 Popol vuh; and Escolios a la historia de el origen de los Indios.</title>
                 <author>Ximénez, Francisco</author>
-                <author xml:lang="quc">Nim Chokoj k'ut chuwach Kaweqib' (gran maestro de la palabra ante los Kaweq)</author>
+                <author xml:lang="quc">Nim CH'OKOJ k'ut chuwach Kaweqib' (gran maestro de la palabra ante los Kaweq)</author>
                 <author>chuwach Nija'ib', ukab' k'u ri' (gran maestro de la palabra ante los Nija'ib era el segundo)</author>
-                <author>Nim Chokoj Ajaw chuwach Ajaw K'iche', rox Nim Chokoj (gran maestro de la palabra era el tercer Señor ante los Ajaw K'iche)</author>
+                <author>Nim CH'OKOJ Ajaw chuwach Ajaw K'iche', rox Nim CH'OKOJ (gran maestro de la palabra era el tercer Señor ante los Ajaw K'iche)</author>
                 <respStmt>
                     <resp>Worked on transitioning the TEI paragraphs edition to be CTS-compliant</resp>
                     <orgName ref="http://multepal.spanitalport.virginia.edu/">Multepal</orgName>
@@ -5345,7 +5345,7 @@
                     <lb n="18" rend="indent" /><hi rend="large">V</hi>ae cute quibi ahauab chu
                     <lb n="19"/>vach <rs ana="KAWEQ">caui quib</rs> are nabe ahau
                     <lb n="20"/>va, <rs ana="AJPOP">ahpop</rs> <rs ana="AJPOP_KAMJA">ahpop camha</rs>, <rs ana="AJTOJIL">ah to<pc> –</pc>
-                    <lb n="21"/>hil</rs>, <rs ana="AJQUKUMATZ">ah cueumaꜩ</rs>, <rs ana="NIM_CHOKOJ_KAWEQ">nim chocoh ca
+                    <lb n="21"/>hil</rs>, <rs ana="AJQUKUMATZ">ah cueumaꜩ</rs>, <rs ana="NIM_CH'OKOJ_KAWEQ">nim chocoh ca
                     <lb n="22"/>vec</rs>, <rs ana="POPOL_WINAQ_CHI_TUY">popol vinac, chituy</rs> <rs ana="LOLMET_KEJNAY">lolmet,
                     <lb n="23"/>queh nay</rs>. <rs ana="POPOL_WINAQ_PA_JOM_TZALATZ">popol vinac, pahom
                     <lb n="24"/>ꜩalaꜩ</rs>, vchuch cam ha.
@@ -5376,7 +5376,7 @@
                     <!-- <p xml:id="p79"> -->
                     <lb n="38" rend="indent" /><hi rend="large">A</hi>re chicut ahau quiche va
                     <lb n="39"/>vae quibi ahauab. ahꜩic vinac
-                    <lb n="40"/><rs ana="AJAW_LOLMET">ahau lolmet</rs>, <rs ana="AJAW_NIM_CHOKOJ">ahau nim chocoh</rs>
+                    <lb n="40"/><rs ana="AJAW_LOLMET">ahau lolmet</rs>, <rs ana="AJAW_NIM_CH'OKOJ">ahau nim chocoh</rs>
                     <lb n="41"/>ahau, <rs ana="AJAW_JAQAWITZ">ahau hacaviꜩ</rs>. cahib a<pc> –</pc>
                     <lb n="42"/>hauab chuvach <rs ana="AJAW_K'ICHE'">ahau quiche</rs><pc> –</pc>
                     <lb n="43"/>eb colehe vnim ha.
@@ -5897,7 +5897,7 @@
                     <lb n="34" rend="hanging" />vnimha
                     <!-- </p> -->
                     <!-- <p> -->
-                    <lb n="35"/><rs ana="NIM_CHOKOJ_KAWEQ"><hi rend="large">N</hi>im chocoh cavec</rs> hun vnimha ah<pc> –</pc>
+                    <lb n="35"/><rs ana="NIM_CH'OKOJ_KAWEQ"><hi rend="large">N</hi>im chocoh cavec</rs> hun vnimha ah<pc> –</pc>
                     <!-- </p> -->
                     <!-- <p> -->
                     <lb n="36"/><hi rend="large">A</hi>hau ahtohil hun vnimha.
@@ -6011,7 +6011,7 @@
                     <lb n="29"/><note place="margin-left" anchored="true"><hi rend="handwriting;color:pencil"><num>6</num></hi></note><rs ana="NIMA_KAMJA"><hi rend="large">N</hi>ima camha</rs> hun vnim ha.
                     <!-- </p> -->
                     <!-- <p> -->
-                    <lb n="30"/><note place="margin-left" anchored="true"><hi rend="handwriting;color:pencil"><num>7</num></hi></note><rs ana="NIM_CHOKOJ_NIJAIB"><hi rend="large">N</hi>im chocoh nihaib</rs> hun vnim ha.
+                    <lb n="30"/><note place="margin-left" anchored="true"><hi rend="handwriting;color:pencil"><num>7</num></hi></note><rs ana="NIM_CH'OKOJ_NIJAIB"><hi rend="large">N</hi>im chocoh nihaib</rs> hun vnim ha.
                     <!-- </p> -->
                     <!-- <p> -->
                     <lb n="31"/><note place="margin-left" anchored="true"><hi rend="handwriting;color:pencil"><num>8</num></hi></note><rs ana="AJAW_AWILIX"><hi rend="large">A</hi>hau auilix</rs> hun vnim ha.
@@ -6062,7 +6062,7 @@
                     <lb n="12" rend="indent"/>hun vnim ha
                     <lb n="13"/><rs ana="AJAW_LOLMET"><hi rend="large">L</hi>olmet ahau</rs> ucabahau hun
                     <lb n="14" rend="indent"/>vnimha
-                    <lb n="15"/><rs ana="AJAW_NIM_CHOKOJ"><hi rend="large">N</hi>im chocoh</rs> ahau roxahau hun
+                    <lb n="15"/><rs ana="AJAW_NIM_CH'OKOJ"><hi rend="large">N</hi>im chocoh</rs> ahau roxahau hun
                     <lb n="16" rend="indent"/>unimha.
 
                     <lb n="17"/><rs ana="AJAW_JAQAWITZ"><hi rend="large">H</hi>acaviꜩ</rs> cut vcah ahau hun
@@ -6084,7 +6084,7 @@
                 <div type="section" subtype="paragraph" n="103">
                     <!-- <p xml:id="p97"> -->
                     <lb n="27" rend="indent"/><hi rend="large">N</hi>im chocohcut chuvach <rs ana="NIJAIB">nihaib</rs>
-                    <lb n="28"/>vcab curi. <rs ana="AJAW_NIM_CHOKOJ">nimchocoh ahau</rs> chuva<pc> –</pc>
+                    <lb n="28"/>vcab curi. <rs ana="AJAW_NIM_CH'OKOJ">nimchocoh ahau</rs> chuva<pc> –</pc>
                     <lb n="29"/>ch <rs ana="AJAW_K'ICHE'">ahau quiche</rs> rox nim chocoh
                     <lb n="30"/>chi oxibcut ri chocohib huhun
                     <lb n="31"/>chivach chinamit. xere cut v
