@@ -5172,7 +5172,7 @@
                     <lb n="9"/>zahcab chucahle oc ahauab
                     <lb n="10"/>xeqha curi <rs ana="BALAM_KONACHE_KQTRES">conache</rs> xu<rs ana="BELEJEB_KEJ_NJCUATRO">be<add place="above" instant="false" status="unremarkable">+</add>heb
                     <note place="margin-left" anchored="true">t/e</note>
-                    <lb n="11"/>queh</rs> ruqpuch <rs ana="AJAW_QALEL">ealelahau</rs> ta
+                    <lb n="11"/>queh</rs> ruqpuch <rs ana="AJAW_Q'ALEL">ealelahau</rs> ta
                     <lb n="12"/>xahauar cutahau <rs ana="K'OTUJA_KQCUATRO">cotuha</rs> ruq
                     <lb n="13"/><rs ana="ISTAYUL_KQCUATRO">iztayul</rs> quibi <rs ana="AJPOP">ahpop</rs> <rs ana="AJPOP_KAMJA">ahpopcam
                     <lb n="14"/>ha</rs> xe ahauar chiri <rs ana="CHI_ISMACHI">chiizmachi</rs>
@@ -5363,8 +5363,8 @@
                     <!-- <p xml:id="p78"> -->
                     <lb n="29" rend="indent" /><hi rend="large">A</hi>re chicu ahavab va chu
                     <lb n="30"/>vach <rs ana="NIJAIB">nihaibab</rs> are nabe aha<pc> –</pc>
-                    <lb n="31"/>u va <rs ana="AJAW_QALEL">ahau ealel</rs>, <rs ana="AJAW_AJTZIK_WINAQ">ahau ahꜩic vi<pc> –</pc>
-                    <lb n="32"/>nac</rs>, <rs ana="QALEL_KAMJA">cale camha</rs>, <rs ana="NIMA_KAMJA">nima camha</rs>, <rs ana="UCHUCH_KAMJA">v
+                    <lb n="31"/>u va <rs ana="AJAW_Q'ALEL">ahau ealel</rs>, <rs ana="AJAW_AJTZIK_WINAQ">ahau ahꜩic vi<pc> –</pc>
+                    <lb n="32"/>nac</rs>, <rs ana="Q'ALEL_KAMJA">cale camha</rs>, <rs ana="NIMA_KAMJA">nima camha</rs>, <rs ana="UCHUCH_KAMJA">v
                     <lb n="33"/>chuch camha</rs>, <rs ana="NIJAIB">nimchocoh nihaib,</rs><pc> –</pc>
                     <lb n="34"/><rs ana="AJAW_AWILIX">aulix</rs>, <rs ana="YAKOLATAM_UTZAM_POP_SAQLATOL">yacolatam, vꜩam pop
                     <lb n="35"/>zaclatol</rs>, <rs ana="NIMA_LOLMET_YEOLTUX">nima lolmet yeoltux</rs>.
@@ -5386,7 +5386,7 @@
                     <!-- <p xml:id="p80"> -->
                     <lb n="44"/>Ca<gap reason="deletion" unit="character" instant="false"/>ib chinamit chi na ipuch
                     <lb n="45"/>ca quiquib au<add place="above" instant="false" status="unremarkable">ha</add>ab <rs ana="TZUTUJA">ꜩutuha</rs>
-                    <unclear reason="illegible" instant="false">y</unclear> <rs ana="QALEL_SAQIK">ealel
+                    <unclear reason="illegible" instant="false">y</unclear> <rs ana="Q'ALEL_SAQIK">ealel
                     <lb n="46"/>'zaquic</rs> xahun chi nim ha ecaib
                     <lb n="47"/>chiahauab.
                     <!-- </p> -->
@@ -5549,7 +5549,7 @@
                     <lb n="43"/>camizai ive anim chul ibÿh chi<pc> –</pc>
                     <lb n="44"/>be nu <add>ca</add> camizah xqhacut <rs ana="KIKAB_KQSIETE">quicab</rs>
                     <lb n="45"/>chiquech, ta xepixabaxic cono<pc> –</pc>
-                    <lb n="46"/>hel vach ruq <rs ana="QALEL">ealel</rs><rs ana="AJTZIK_WINAQ">aꜩih vinac</rs>
+                    <lb n="46"/>hel vach ruq <rs ana="Q'ALEL">ealel</rs><rs ana="AJTZIK_WINAQ">aꜩih vinac</rs>
                     <lb n="47"/>ta xbeiheic ri vchi qha, vchi cam
                     <pb xml:id="xom-f53-s1"/>
                     <lb n="1"/>chuqhaxic taxpaxin rib vmamvca<pc> –</pc>
@@ -5568,7 +5568,7 @@
                     <lb n="14"/>huyub rixelic varai labal cha<pc> –</pc>
                     <lb n="15"/>hal vleu ta xbec rumal <rs ana="KIKAB_KQSIETE">qui cab</rs>
                     <lb n="16"/><rs ana="KAWISIMAJ_KQSIETE">cauizimah</rs> <rs ana="AJPOP">ahpop</rs> ahpop camha
-                    <lb n="17"/><rs ana="QALEL">ealel</rs> <rs ana="AJTZIK_WINAQ">ahꜩic vinac</rs> ecahib chi a<pc> –</pc>
+                    <lb n="17"/><rs ana="Q'ALEL">ealel</rs> <rs ana="AJTZIK_WINAQ">ahꜩic vinac</rs> ecahib chi a<pc> –</pc>
                     <lb n="18"/>hauab xetaconic xevaran puch
                     <lb n="19"/>ah labal <rs ana="KIKAB_KQSIETE">quicab</rs> <rs ana="KAWISIMAJ_KQSIETE">cavizimah</rs> vbi
                     <lb n="20"/>ahau chuvach <rs ana="KAWEQ">caviquib</rs> e caib
@@ -5580,7 +5580,7 @@
                     <lb n="26"/>hol pahuyub pahuhun chi huyub
                     <lb n="27"/>xbena cu nabe xulna canab
                     <lb n="28"/>xulna pu teleche chuvach <rs ana="KIKAB_KQSIETE">quicab</rs>
-                    <lb n="29"/><rs ana="KAWISIMAJ_KQSIETE">cauizimah</rs> <rs ana="QALEL">ealel</rs> <rs ana="AJTZIK_WINAQ">ah ꜩic vina</rs> x<pc> –</pc>
+                    <lb n="29"/><rs ana="KAWISIMAJ_KQSIETE">cauizimah</rs> <rs ana="Q'ALEL">ealel</rs> <rs ana="AJTZIK_WINAQ">ah ꜩic vina</rs> x<pc> –</pc>
                     <lb n="30"/>quiban chivi labal ri vchi qha
                     <lb n="31"/>vchi caam, xecanab chic xetele<pc> –</pc>
                     <lb n="32"/>cheen chic ꜫaꜫhih xevx chic ri
@@ -5589,12 +5589,12 @@
                     <lb n="35"/>tachul qui ya quicanab qui tele<pc> –</pc>
                     <lb n="36"/>che ronohel catecut ta xcuch
                     <lb n="37"/>naoh cumal ahauab <rs ana="AJPOP">ahpop</rs> ahpop<pc> –</pc>
-                    <lb n="38"/>camha <rs ana="QALEL">ealel</rs> <rs ana="AJTZIK_WINAQ">ahꜩic vinac</rs> taxel
+                    <lb n="38"/>camha <rs ana="Q'ALEL">ealel</rs> <rs ana="AJTZIK_WINAQ">ahꜩic vinac</rs> taxel
                     <lb n="39"/>cunaoh xa cachapa quinabe chi<pc> –</pc>
                     <lb n="40"/>qohe ta que calem vachin el chi<pc> –</pc>
                     <lb n="41"/>namit choc vi in<rs ana="AJPOP">ahpop</rs> in ahpop<pc> –</pc>
                     <lb n="42"/>camha ahpop chire caleh ve choc
-                    <lb n="43"/>chicu aue at <rs ana="AJAW_QALEL">ahau ealel</rs> ealel
+                    <lb n="43"/>chicu aue at <rs ana="AJAW_Q'ALEL">ahau ealel</rs> ealel
                     <lb n="44"/>ri calem xchuxic xeqhacut ro<pc> –</pc>
                     <lb n="45"/>nohel ahauab taxcam quinaoh
                     <lb n="46"/>xavi cu quehe xubano <rs ana="TAMUB">tamub</rs>, <rs ana="ILOKAB">i
@@ -5627,7 +5627,7 @@
                     <lb n="14"/>pop ahpop camha rumal puch ea<pc> –</pc>
                     <lb n="15"/>lel ah ꜩic vinac xoc queealem ro<pc> –</pc>
                     <lb n="16"/>nohel ealel ahpop hulahuh nim
-                    <lb n="17"/>chocoh <rs ana="AJAW_QALEL">ealel ahau</rs> <rs ana="QALEL_SAQIK">ealel zaquic</rs>, <rs ana="QALEL_ACHIJ">v
+                    <lb n="17"/>chocoh <rs ana="AJAW_Q'ALEL">ealel ahau</rs> <rs ana="Q'ALEL_SAQIK">ealel zaquic</rs>, <rs ana="Q'ALEL_ACHIJ">v
                     <lb n="18"/>ealel achih</rs>, <rs ana="RAJPOP_ACHIJ">rahpop achih</rs>, <rs ana="RAJTZALAM_ACHIJ">rahꜩa<pc> –</pc>
                     <lb n="19"/>lam achih</rs>, <rs ana="UTZAM_ACHIJ">vꜩam achih</rs>, quibi a
                     <lb n="20"/>chihab xoquic taxecobic xebina<pc> –</pc>
@@ -5639,7 +5639,7 @@
                     <lb n="26"/>cu quehe xubano <rs ana="TAMUB">tamub</rs><rs ana="ILOKAB">ilocab</rs>
                     <lb n="27"/>xuqhapo xucobizah puch vnabe
                     <lb n="28"/>ral vqahol qopa huhun chi huyub.
-                    <lb n="29"/>are cut, vxenahic <rs ana="QALEL">ealel</rs> <rs ana="AJPOP">ahpop</rs> ré
+                    <lb n="29"/>are cut, vxenahic <rs ana="Q'ALEL">ealel</rs> <rs ana="AJPOP">ahpop</rs> ré
                     <lb n="30"/>ealem pahuhun chi huyub vacamic.
                     <lb n="31"/>quehe relic ri ta xeelic chirih <rs ana="AJPOP">ah
                     <lb n="32"/>pop</rs> ahpop camha chirih puchca<pc> –</pc>
@@ -5750,7 +5750,7 @@
                     <lb n="30"/>ban quipatan hu hun chiahauab
                     <lb n="31"/>are locbal zac qazlem locbal pu<pc> –</pc>
                     <lb n="32"/>ch ahauarem are rahauarem
-                    <lb n="33"/><rs ana="AJPOP">ahpop</rs> ahpop camha <rs ana="QALEL">ealel</rs> <rs ana="AJTZIK_WINAQ">ah<pc> –</pc>
+                    <lb n="33"/><rs ana="AJPOP">ahpop</rs> ahpop camha <rs ana="Q'ALEL">ealel</rs> <rs ana="AJTZIK_WINAQ">ah<pc> –</pc>
                     <lb n="34"/>ꜩic vinac</rs> e ca cab ta queoquic
                     <lb n="35"/>quehalou quib chireealixic a
                     <lb n="36"/>mac ruq ronohel queche vinac
@@ -5777,7 +5777,7 @@
                     <lb n="9"/>ronohelamac xul chiquivach na<pc> –</pc>
                     <lb n="10"/>ual ahauab <rs ana="QUKUMATZ_KQCINCO">cucumaꜩ</rs> <rs ana="K'OTUJA_KQCINCO">cotuh</rs> chu<pc> –</pc>
                     <lb n="11"/>vach puch <rs ana="KIKAB_KQSIETE">quicab</rs> <rs ana="KAWISIMAJ_KQSIETE">cavizimah</rs> ri
-                    <lb n="12"/><rs ana="AJPOP">ahpop</rs> ahpop camha <rs ana="QALEL">ꜫalel</rs> <rs ana="AJTZIK_WINAQ">ahzic
+                    <lb n="12"/><rs ana="AJPOP">ahpop</rs> ahpop camha <rs ana="Q'ALEL">ꜫalel</rs> <rs ana="AJTZIK_WINAQ">ahzic
                     <lb n="13"/>vinac</rs> mauixachutin xquibano
                     <lb n="14"/>manai pu xata zcaquin chi amac
                     <lb n="15"/>xquicazah quia chob chi amac
@@ -5978,28 +5978,28 @@
                     <lb n="19" rend="indent"/>nac
                     <!-- </p> -->
                     <!-- <p> -->
-                    <lb n="20"/><rs ana="DON_PEDRO_DE_ROBLES_NJDOCE"><hi rend="large">z<choice><abbr>D</abbr><expan instant="false">Don</expan></choice></hi>. Pedro de robles</rs> <rs ana="AJAQ_QALEL_NJDOCE">ahau ꜫalel</rs>
+                    <lb n="20"/><rs ana="DON_PEDRO_DE_ROBLES_NJDOCE"><hi rend="large">z<choice><abbr>D</abbr><expan instant="false">Don</expan></choice></hi>. Pedro de robles</rs> <rs ana="AJAQ_Q'ALEL_NJDOCE">ahau ꜫalel</rs>
                     <lb n="21"/>vacamic.
                     <!-- </p> -->
                 </div>
                 <div type="section" subtype="paragraph" n="96">
                     <!-- <p xml:id="p92"> -->
                     <lb n="22" rend="indent"/><hi rend="large">A</hi>re curi chi ronobel ahavab
-                    <lb n="22.1"/>elenac chirih ri <rs ana="AJAW_QALEL">ahau ꜫalel</rs> are
+                    <lb n="22.1"/>elenac chirih ri <rs ana="AJAW_Q'ALEL">ahau ꜫalel</rs> are
                     <lb n="22.2"/>chic xchicabÿh rahaual huhun
                     <lb n="22.3"/>chinim ha.
                     <!-- </p> -->
                 </div>
                 <div type="section" subtype="list" n="97">
                     <!-- <p> -->
-                    <lb n="23"/><note place="margin-left" anchored="true"><hi rend="handwriting;color:pencil"><num>1</num></hi></note><rs ana="AJAW_QALEL"><hi rend="large">A</hi>hau ꜫalel</rs> vnabe ahau chuva<pc> –</pc>
+                    <lb n="23"/><note place="margin-left" anchored="true"><hi rend="handwriting;color:pencil"><num>1</num></hi></note><rs ana="AJAW_Q'ALEL"><hi rend="large">A</hi>hau ꜫalel</rs> vnabe ahau chuva<pc> –</pc>
                     <lb n="24" rend="indent"/>ch <rs ana="NIJAIB">nihaibab</rs> hun vnim ha.
                     <!-- </p> -->
                     <!-- <p> -->
                     <lb n="25"/><note place="margin-left" anchored="true"><hi rend="handwriting;color:pencil"><num>2</num></hi></note><rs ana="AJAW_AJTZIK_WINAQ"><hi rend="large">A</hi>hau ah ꜩic vinac</rs> hun vnim ha
                     <!-- </p> -->
                     <!-- <p> -->
-                    <lb n="26"/><note place="margin-left" anchored="true"><hi rend="handwriting;color:pencil"><num>3</num></hi></note><rs ana="QALEL_KAMJA"><hi rend="large">A</hi>hau ꜫalel camha</rs> hun vnim ha.
+                    <lb n="26"/><note place="margin-left" anchored="true"><hi rend="handwriting;color:pencil"><num>3</num></hi></note><rs ana="Q'ALEL_KAMJA"><hi rend="large">A</hi>hau ꜫalel camha</rs> hun vnim ha.
                     <!-- </p> -->
                     <!-- <p> -->
                     <lb n="27"/><note place="margin-left" anchored="true"><hi rend="handwriting;color:pencil"><num>4</num></hi></note><rs ana="NIMA_KAMJA"><hi rend="large">N</hi>ima camha</rs> hun vnim ha.
