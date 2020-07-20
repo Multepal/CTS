@@ -1295,7 +1295,7 @@
                     <lb n="30"/>nohel yaol vpatan rahauarem
                     <lb n="31"/>puch huhunchi ahauab rumal
                     <lb n="32"/><rs ana="JUN_KAME">hun came</rs>, <rs ana="WUQUB_KAME">vvcub came</rs>. are curi
-                    <lb n="33"/><rs ana="XIKIRI_PAT">xiquiripat</rs>, <rs ana="KUCHUMA_KIK">cuchumaquic</rs> vbi aha<pc> –</pc>
+                    <lb n="33"/><rs ana="XIKIRI_PAT">xiquiripat</rs>, <rs ana="KUCHUMA_KIK'">cuchumaquic</rs> vbi aha<pc> –</pc>
                     <lb n="34"/>u, are cut quipatan riquic chuya<pc> –</pc>
                     <lb n="35"/>bihvinac. are chicuri <rs ana="AJAL_PUJ">ahal puh</rs>,
                     <lb n="36"/><rs ana="AJAL_Q'ANA">ahal eana</rs> chic, qui ahauab are
@@ -1388,7 +1388,7 @@
                     <lb n="22"/>xere vcholic vꜩih <rs ana="JUN_KAME">hun came</rs>, <rs ana="WUQUB_KAME">v<pc> –</pc>
                     <lb n="23"/>vcub came</rs> <rs ana="AJAL_PUJ">ahal puh</rs>, <rs ana="AJAL_Q'ANA">ahal cana</rs>
                     <lb n="24"/><rs ana="CH'AMIYA_BAQ">chamia bac</rs>, <rs ana="CH'AMIYA_JOLOM">chamia holom</rs>, <rs ana="XIKIRI_PAT">xi<pc> –</pc>
-                    <lb n="25"/>quiripat</rs>, <rs ana="KUCHUMA_KIK">cuchumaquic</rs>, <rs ana="AJAL_MES">ahal<pc> –</pc>
+                    <lb n="25"/>quiripat</rs>, <rs ana="KUCHUMA_KIK'">cuchumaquic</rs>, <rs ana="AJAL_MES">ahal<pc> –</pc>
                     <lb n="26"/>mez</rs>, <rs ana="AJAL_TOQ'OB">ahal tocob</rs>, <rs ana="XIKIRI_PAT">xic</rs> <rs ana="PATAN">patan</rs> qui<pc> –</pc>
                     <lb n="27"/>bi conohel ahauab xꜩac qui<pc> –</pc>
                     <lb n="28"/>ꜩih cumal tucur. maquiꜩih ca<pc> –</pc>
@@ -1583,14 +1583,14 @@
                 <div type="section" subtype="paragraph" n="20">
                     <!-- <p xml:id="p20"> -->
                     <lb n="16" rend="indent"/><hi rend="large">V</hi>a chi cute vꜩihoxic hun capoh
-                    <lb n="17"/><rs ana="IXKIK'">vmeal</rs> hun ahau <rs ana="KUCHUMA_KIK">cuchumaquic</rs>
+                    <lb n="17"/><rs ana="IXKIK'">vmeal</rs> hun ahau <rs ana="KUCHUMA_KIK'">cuchumaquic</rs>
                     <lb n="18"/>vbi.
                     <!-- </p> -->
                 </div>
                 <div type="section" subtype="paragraph" n="21">
                     <!-- <p xml:id="p21"> -->
                     <lb n="19" rend="indent"/><hi rend="large">A</hi>re cut ta xuta hun <rs ana="IXKIK'">capoh vme<pc> –</pc>
-                    <lb n="20"/>al</rs> hun ahau <rs ana="KUCHUMA_KIK">cuchumaquic</rs> vbi v
+                    <lb n="20"/>al</rs> hun ahau <rs ana="KUCHUMA_KIK'">cuchumaquic</rs> vbi v
                     <lb n="21"/>cahau <rs ana="IXKIK'">xquic</rs> cut vbi ri capoh ta
                     <lb n="22"/>xuta cut vꜩihoxic ri vvach che
                     <lb n="23"/>ta chiꜩihox chic rumal vcahau
@@ -1656,7 +1656,7 @@
                     <lb n="29"/><rs ana="XBALAMKE">xbalanque</rs> ta xopon cut chi ro<pc> –</pc>
                     <lb n="30"/>choch ri <rs ana="IXKIK'">capoh</rs> xzacat cut va<pc> –</pc>
                     <lb n="31"/>caquib ic ta xnauachil rumal
-                    <lb n="32"/>vcahau ri <rs ana="KUCHUMA_KIK">cuchumaquic</rs> vbi v
+                    <lb n="32"/>vcahau ri <rs ana="KUCHUMA_KIK'">cuchumaquic</rs> vbi v
                     <lb n="33"/>cahau
                     <!-- </p> -->
                 </div>
@@ -1666,9 +1666,9 @@
                     <lb n="35"/>mal vcahau ta xil ri ral cochic
                     <lb n="36"/>ta <rs ana="IXKIK'">xquicuch</rs> cut qui naoh cono<pc> –</pc>
                     <lb n="37"/>hel ahauab <rs ana="JUN_KAME">hun came</rs> <rs ana="WUQUB_KAME">vvcub
-                    <lb n="38"/>came</rs> ruc ri <rs ana="KUCHUMA_KIK">cuchumaquic</rs> are
+                    <lb n="38"/>came</rs> ruc ri <rs ana="KUCHUMA_KIK'">cuchumaquic</rs> are
                     <lb n="39"/>ri numeal qochi ral ixahauab
-                    <lb n="40"/>xa vhoxbal xqha curi <rs ana="KUCHUMA_KIK">cuchuma
+                    <lb n="40"/>xa vhoxbal xqha curi <rs ana="KUCHUMA_KIK'">cuchuma
                     <lb n="41"/>quic</rs> ta xoponic cuq ahauab vꜩ<pc> –</pc>
                     <lb n="42"/>bala chacoto vchi ri tama cubÿh
                     <lb n="43"/>chipuz cut chinaht chibe puzu vi
@@ -2496,10 +2496,10 @@
                     <lb n="14"/>na <rs ana="XIKIRI_PAT">xiquiripat</rs>, xqha <rs ana="WUQUB_KAME">vvcub came</rs>
                     <lb n="15"/>chire naquila mi xitiouic xcha chic
                     <lb n="16"/>xtiic vvacac culel ahi, na qui
-                    <lb n="17"/><rs ana="KUCHUMA_KIK">cuchumaquic</rs> xqha <rs ana="XIKIRI_PAT">xiquiripat</rs> chi<pc> –</pc>
+                    <lb n="17"/><rs ana="KUCHUMA_KIK'">cuchumaquic</rs> xqha <rs ana="XIKIRI_PAT">xiquiripat</rs> chi<pc> –</pc>
                     <lb n="18"/>re naquila mi xitiouic xqha chic
                     <lb n="19"/>ta xti vvc culel ahi xqha chic. na
-                    <lb n="20"/>qui <rs ana="AJAL_PUJ">ahal puh</rs> xqha <rs ana="KUCHUMA_KIK">cuchumaquic</rs>
+                    <lb n="20"/>qui <rs ana="AJAL_PUJ">ahal puh</rs> xqha <rs ana="KUCHUMA_KIK'">cuchumaquic</rs>
                     <lb n="21"/>chire naquila mi xitiouic xqha
                     <lb n="22"/>chic ta xti chic v vahxac culel ahi
                     <lb n="23"/>xqha chic. naqui <rs ana="AJAL_Q'ANA">ahalcana</rs> xqha
@@ -2552,7 +2552,7 @@
                     <lb n="14"/>qha ta xeoponic cate cut ta xeca<pc> –</pc>
                     <lb n="15"/>lainic calata <rs ana="JUN_KAME">hun came</rs>, calata
                     <lb n="16"/><rs ana="WUQUB_KAME">vvcub came</rs>, calata <rs ana="XIKIRI_PAT">xiquiritap</rs>
-                    <lb n="17"/>calata <rs ana="KUCHUMA_KIK">cuchumaquic</rs>. calata <rs ana="AJAL_PUJ">a
+                    <lb n="17"/>calata <rs ana="KUCHUMA_KIK'">cuchumaquic</rs>. calata <rs ana="AJAL_PUJ">a
                     <lb n="18"/>hal puh</rs>, calata <rs ana="AJAL_Q'ANA">ahalcana</rs>, cala
                     <lb n="19"/>ta <rs ana="CH'AMIYA_BAQ">chamia baca</rs>, calata <rs ana="CH'AMIYA_JOLOM">chamia
                     <lb n="20"/>holom</rs>, calata cala <rs ana="XIKIRI_PAT">xic</rs>, cala
