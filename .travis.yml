@@ -13,7 +13,7 @@ before_deploy:
 - export GIT_TAG=$major_version.$minor_version.$TRAVIS_BUILD_NUMBER
 - git add -A
 - git tag $GIT_TAG -a -m "$DATE" -m "PASSING FILES" -m "$results"
-- git push -q https://$GITPERM@github.com/aldobarriente/multepalctstest2 --tags
+- git push -q https://$GITPERM@github.com/Multepal/CTS --tags
 - ls -R
 
 deploy:
@@ -21,10 +21,10 @@ deploy:
   api_key: $GITPERM
   skip_cleanup: true
   on:
-    repo: aldobarriente/multepalctstest2
+    repo: Multepal/CTS
     branch: master
 
 env:
   global:
     major_version: 2
-    minor_version: 0
+    minor_version: 2
