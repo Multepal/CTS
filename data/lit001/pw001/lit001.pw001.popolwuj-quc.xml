@@ -24,7 +24,6 @@
                 <publisher>Le winaq</publisher>
                 <pubPlace>Chicago, Illinois, USA</pubPlace>
                 <pubPlace>Iximulew</pubPlace>
-                <idno type="filename">lit001.pw001.popolwuj-quc.xml</idno>
                 <availability>
                     <license><!-- Still being resolved --></license>
                 </availability>
@@ -67,12 +66,7 @@
                 <date instant="false">Spring 2017</date>
             </creation>
         </profileDesc>
-
-        <revisionDesc>
-            <change when="2020-07-15" who="Aldo Barriente">Initial finalization of CTS edition</change> 
-        </revisionDesc>
     </teiHeader>
-
     <text n="urn:cts:mayaLit:lit0001.pw0001.popolwuj-quc:" xml:id="MS1515v2">
         <body xml:lang="quc" n="urn:cts:mayaLit:lit0001.pw0001.popolwuj-quc:">
             <div type="column">
