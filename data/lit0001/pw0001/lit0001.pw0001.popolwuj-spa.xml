@@ -68,8 +68,8 @@
         </profileDesc>
     </teiHeader>
 
-    <text n="urn:cts:mayaLit:lit0001.pw0001.popolwuj-spa:" > 
-        <body xml:lang="spa" n="urn:cts:mayaLit:lit0001.pw0001.popolwuj-spa:">  
+    <text n="urn:cts:mayaLit:lit0001.pw0001.popolwuj-spa" > 
+        <body xml:lang="spa" n="urn:cts:mayaLit:lit0001.pw0001.popolwuj-spa">  
             <div type="column">
                 <div type="section" subtype="paragraph" n="1">
                     <!-- <p corresp="#p01">         -->

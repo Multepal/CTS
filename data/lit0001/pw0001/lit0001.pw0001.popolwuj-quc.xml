@@ -67,8 +67,8 @@
             </creation>
         </profileDesc>
     </teiHeader>
-    <text n="urn:cts:mayaLit:lit0001.pw0001.popolwuj-quc:" xml:id="MS1515v2">
-        <body xml:lang="quc" n="urn:cts:mayaLit:lit0001.pw0001.popolwuj-quc:">
+    <text n="urn:cts:mayaLit:lit0001.pw0001.popolwuj-quc" xml:id="MS1515v2">
+        <body xml:lang="quc" n="urn:cts:mayaLit:lit0001.pw0001.popolwuj-quc">
             <div type="column">
                 <div type="section" subtype="paragraph" n="1">
                   <lb n="1" /><hi rend="very-large">ARE V XE OHER</hi>
