@@ -70,7 +70,7 @@
 
     <text n="urn:cts:mayaLit:lit0001.pw0001.popolwuj-spa" > 
         <body xml:lang="spa" n="urn:cts:mayaLit:lit0001.pw0001.popolwuj-spa">  
-            <div type="edition">
+            <div type="translation">
                 <div type="textpart" subtype="paragraph" n="1">
                     <!-- <p corresp="#p01">         -->
                     <pb corresp="xom-f01-s1"/>
