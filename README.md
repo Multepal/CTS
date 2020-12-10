@@ -6,18 +6,10 @@ From our [Multepal Project website](http://multepal.spanitalport.virginia.edu/):
 
 ## What is CTS?
 From "A New Implementation for Canonical Text Services" (Tiepmar et. al 2014: 1): Canonical Text Services (CTS) (Smith, 2009) is a standard that resulted from research in the Digital Humanities community on citation in a digital context. It consists of two parts: an URN scheme that is used to express citations and a protocol for the interaction of a client and a server to identify text passages and retrieve them.
-CTS is an attempt to formalize citation practices which allow for a persistent identi-
-fication of text passages and citations which express an ontology of texts as well as links be-
-tween texts (Smith and Blackwell, 2012). The same citation scheme can be used across dif-
-ferent versions of a text, even across language borders.
-All these properties make CTS attractive
-as an approach to the presentation of large, structured collections of texts. The frame-
-work will have little impact however as long as there is no implementation that can scale
-to the amount of texts currently available for
-Digital Humanities research and still perform
-at a level that makes automatic processing of texts attractive. Therefore the implementa-
-tion of the scheme presented here allows for large repositories without becoming infeasibly
-slow.
+
+CTS is an attempt to formalize citation practices which allow for a persistent identification of text passages and citations which express an ontology of texts as well as links between texts (Smith and Blackwell, 2012). The same citation scheme can be used across different versions of a text, even across language borders.
+
+All these properties make CTS attractive as an approach to the presentation of large, structured collections of texts. The frame-work will have little impact however as long as there is no implementation that can scale to the amount of texts currently available for Digital Humanities research and still perform at a level that makes automatic processing of texts attractive. Therefore the implementation of the scheme presented here allows for large repositories without becoming infeasibly slow.
 
 ## How is CTS presented?
 (Information TBA)
