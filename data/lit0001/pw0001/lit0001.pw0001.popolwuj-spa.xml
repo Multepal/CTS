@@ -45,14 +45,14 @@
             <p>The following text is encoded in accordance with TEI standards and with the CTS/CITE Architecture</p>
 
             <refsDecl n="CTS">
-                <cRefPattern n="section" 
+                <cRefPattern n="paragraph" 
                              matchPattern="(\w+)" 
                              replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])">
                 <p>pointer pattern extracting paragraph</p>
                 </cRefPattern>
             </refsDecl>
             <refsDecl>
-                <refState unit="section"/>
+                <refState unit="paragraph"/>
             </refsDecl>
         </encodingDesc>
 
@@ -68,17 +68,17 @@
         </profileDesc>
     </teiHeader>
 
-    <text n="urn:cts:mayaLit:lit0001.pw0001.popolwuj-spa:" > 
-        <body xml:lang="spa" n="urn:cts:mayaLit:lit0001.pw0001.popolwuj-spa:">  
-            <div type="column">
-                <div type="section" subtype="paragraph" n="1">
+    <text n="urn:cts:mayaLit:lit0001.pw0001.popolwuj-spa" > 
+        <body xml:lang="spa" n="urn:cts:mayaLit:lit0001.pw0001.popolwuj-spa">  
+            <div type="translation">
+                <div type="textpart" subtype="paragraph" n="1">
                     <!-- <p corresp="#p01">         -->
                     <pb corresp="xom-f01-s1"/>
                     <lb n="1"/><hi rend="very-large">ESTE ES EL PRINCIPIO DE LAS</hi><note place="margin-right" type="pagination" anchored="true"><num rend="large">1</num></note>
                     <lb n="2" rend="indent"/>antiguas historias aqui en el quiche.
                     <!-- </p> -->
                  </div>
-                <div type="section" subtype="paragraph" n="2">
+                <div type="textpart" subtype="paragraph" n="2">
                     <!-- <p corresp="#p02"> -->
                     <lb n="3" rend="indent"/><hi rend="large">A</hi>quí escribiremos y empezaremos las
                     <lb n="4"/>antiguas historias, su principio, y comien<pc> –</pc>
@@ -129,7 +129,7 @@
                     <lb n="2"/>erra, lagunas y mar.
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="3">
+                <div type="textpart" subtype="paragraph" n="3">
                     <!-- <p corresp="#p03"> -->
                     <lb n="3" rend="center"/><hi rend="large">ESTE ES SV SER DICHO QVANDO</hi>
                     <lb n="4" rend="center"/>estaba en suspenso, en calma, en silenzío, sin
@@ -138,7 +138,7 @@
                     <lb />
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="4">
+                <div type="textpart" subtype="paragraph" n="4">
                     <!-- <p corresp="#p04"> -->
                     <lb n="6"/><hi rend="large">I</hi> esta es la primera palabra, y eloquençía.
                     <lb n="7"/>aun no avía hombres, animales, pajaros, pes<pc> –</pc>
@@ -165,7 +165,7 @@
                     <lb n="28"/>a aquel ídolo.
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="5">
+                <div type="textpart" subtype="paragraph" n="5">
                     <!-- <p corresp="#p05"> -->
                     <lb n="29" rend="indent"/><hi>Y</hi> entonzes vino aquí su palabra, víno
                     <lb n="30"/>con los <choice><abbr>S<hi rend="superscript">es.</hi></abbr><expan instant="false">Señores</expan></choice><rs ana="TEPEW_Q'UKUMATZ">tepeu, gucumaꜩ</rs> aquí en obs<pc> –</pc>
@@ -236,7 +236,7 @@
                     <lb />
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="6">
+                <div type="textpart" subtype="paragraph" n="6">
                     <!-- <p corresp="#p06"> -->
                     <pb corresp="xom-f02-s2"/>
                     <lb/>
@@ -273,7 +273,7 @@
                     <lb />
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="7">
+                <div type="textpart" subtype="paragraph" n="7">
                     <!-- <p corresp="#p07"> -->
                     <lb n="28"/><hi rend="large">E</hi>ntonzes seles dixo otra vez por <rs ana="TZ'AQOL">el criador</rs>
                     <lb n="29"/>y <rs ana="BITOL">formador</rs> alos venados, y alas aves: ha
@@ -379,7 +379,7 @@
                     <lb />
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="8">
+                <div type="textpart" subtype="paragraph" n="8">
                     <!-- <p corresp="#p08"> -->
                     <lb n="32"/>y díxeron aquel <rs ana="JUN_RAQAN">huracan</rs>, con <rs ana="TEPEW_Q'UKUMATZ">tepeu
                     <lb n="33"/>y gucumaꜩ</rs> <choice><abbr>q<hi rend="superscript">o</hi></abbr><expan instant="false">cuando</expan></choice> ledixeron al de el sol, o
@@ -464,7 +464,7 @@
                     <lb />
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="9">                
+                <div type="textpart" subtype="paragraph" n="9">                
                     <!-- <p corresp="#p09"> -->
                     <lb n="12"/>y despues fueron acabados, y destruídos, y
                     <lb n="13"/>muertos, todos estos hombres de palo.
@@ -565,7 +565,7 @@
                     <lb/>
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="10">
+                <div type="textpart" subtype="paragraph" n="10">
                     <!-- <p corresp="#p10"> -->
                     <lb n="10" rend="indent"/>Y entonzes avía poca clarídad sobre
                     <lb n="11"/>la haz de la tíerra, y aun no auía sol. y en<corr instant="false"><pc> –</pc></corr>
@@ -616,7 +616,7 @@
                     <lb/>
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="11">
+                <div type="textpart" subtype="paragraph" n="11">
                     <!-- <p corresp="#p11"> -->
                     <lb n="12"/>Esta es, o fue la causa, de la destruccíon de
                     <lb n="13"/><rs ana="WUQUB_KAKIX">vvcubcaquix</rs> por <rs ana="KA'IB_K'AJOLAB">los dos muchachos</rs>, <rs ana="JUNAJPU">hun
@@ -675,7 +675,7 @@
                     <lb/>
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="12">
+                <div type="textpart" subtype="paragraph" n="12">
                     <!-- <p corresp="#p11.5"> -->
                     <note resp="editor">THIS PARAGRAPH IS NOT SIGNIFIED IN THE QUC </note>
                     <note resp="editor">Note also that it serves as a header </note>
@@ -848,7 +848,7 @@
                     <lb />
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="13">
+                <div type="textpart" subtype="paragraph" n="13">
                     <!-- <p corresp="#p13"> -->
                     <lb n="25"/>y aquívan las obras de <rs ana="SIPAKNA">zípacna</rs>, el primer
                     <lb n="26"/>hijo de <rs ana="WUQUB_KAKIX">vvcubcaquíx</rs>. yo soy el hazedor de
@@ -991,7 +991,7 @@
                     <lb />
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="14">
+                <div type="textpart" subtype="paragraph" n="14">
                     <!-- <p corresp="#p14"> -->
                     <lb n="27"/><hi>A</hi> quí sígue como fue venzído, y muerto 
                     <lb n="28"/><rs ana="SIPAKNA">zípacna</rs>, y <choice><abbr>qo</abbr><expan instant="false">quando</expan></choice> otra vez fue venzido por los <rs ana="KA'IB_K'AJOLAB">dos 
@@ -1094,7 +1094,7 @@
                     <lb />
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="15">
+                <div type="textpart" subtype="paragraph" n="15">
                     <!-- <p corresp="#p15"> -->
                     <lb n="31"/><hi>I</hi> el terzero <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> seensoberbezío <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>era elsegundo
                     <lb n="32"/>hijo de <rs ana="WUQUB_KAKIX">vvcubcaquíx</rs> <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>sellamaba <rs ana="KABRAQAN">cabra<pc> –</pc>
@@ -1226,7 +1226,7 @@
                     <lb/>
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="16">
+                <div type="textpart" subtype="paragraph" n="16">
                     <!-- <p corresp="#p16a"> -->
                     <lb n="15"/>Y agora díremos el nombre de el <choice><abbr>Pe.</abbr><expan instant="false">Padre.</expan></choice> de
                     <lb n="16"/><rs ana="JUNAJPU">hun ahpu</rs> y <rs ana="XBALAMKE">xbalanque</rs> muy obscuro
@@ -1237,7 +1237,7 @@
                     <lb/>
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="17">
+                <div type="textpart" subtype="paragraph" n="17">
                     <!-- <p> -->
                     <lb n="21"/><hi rend="large">Y</hi>aquesto eslo<choice><abbr>q’</abbr><expan instant="false">que</expan></choice> se parla el nombre de
                     <lb n="22"/>sus <choice><abbr>Pes.</abbr><expan instant="false">Padres.</expan></choice> de ellos es <rs ana="JUN_JUNAJPU">hunhunahpu</rs> (esto es
@@ -1347,7 +1347,7 @@
                     <lb/>
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="18">
+                <div type="textpart" subtype="paragraph" n="18">
                     <!-- <p corresp="#p18"> -->
                     <lb n="31"/>Y luego fue la venida delos mensage<pc> –</pc>
                     <lb n="32"/>ros de <rs ana="JUN_KAME">hun came</rs>, y <rs ana="WUQUB_KAME">vvcubcame</rs>. andad
@@ -1420,7 +1420,7 @@
                     <lb n="6"/>pu</rs>.
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="19">
+                <div type="textpart" subtype="paragraph" n="19">
                     <!-- <p corresp="#p19"> -->
                     <lb n="7"/><hi>Y</hi> luego <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>se fueron <rs ana="JUN_JUNAJPU">hunhunahpu</rs>, y <rs ana="WUQUB_JUNAJPU">vv<pc> –</pc>
                     <lb n="8"/>cub hunahpu</rs>, tomaron la delantera los
@@ -1584,14 +1584,14 @@
                     <lb n="15"/>mos como fue alla.
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="20">
+                <div type="textpart" subtype="paragraph" n="20">
                     <!-- <p corresp="#p20"> -->
                     <lb n="16"/>Aquí se trata de vna <rs ana="IXKIK'">donzella</rs> hija de
                     <lb n="17"/>un <choice><abbr>Sor.</abbr><expan instant="false">Señor</expan></choice> <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>se llama <rs ana="KUCHUMA_KIK'">cuchumaquíc</rs>.
                     <lb/>
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="21">
+                <div type="textpart" subtype="paragraph" n="21">
                     <!-- <p corresp="#p21"> -->
                     <lb n="18"/>Oyendo pues vna <rs ana="IXKIK'">donzella</rs> híja de
                     <lb n="19"/>un <choice><abbr>Sor.</abbr><expan instant="false">Señor</expan></choice> <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>se llamaba <rs ana="KUCHUMA_KIK'">cuchumaquic</rs>, y ella
@@ -1661,7 +1661,7 @@
                     <lb/>
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="22">
+                <div type="textpart" subtype="paragraph" n="22">
                     <!-- <p corresp="#p22"> -->
                     <lb n="31" rend="indent"/><hi rend="large">Y</hi> luego <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> fue sentido el preñez por
                     <lb n="32"/>su <choice><abbr type="superscription">Pe.</abbr><expan instant="false">Padre</expan></choice> de la <rs ana="IXKIK'">la donzella</rs> y <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> tenía híjo.
@@ -1760,7 +1760,7 @@
                     <lb/>
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="23">
+                <div type="textpart" subtype="paragraph" n="23">
                     <!-- <p corresp="#p23"> -->
                     <lb n="29" rend="indent"/><hi rend="large">Y</hi>estaba la madre de <rs ana="JUN_BATZ'">hun baꜩ</rs>, y <rs ana="JUN_CHOWEN">huncho<pc> –</pc>
                     <lb n="31"/>uen</rs> quando llego la mugger <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> se llamaba
@@ -1844,13 +1844,13 @@
                     <lb/>
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="24">
+                <div type="textpart" subtype="paragraph" n="24">
                     <!-- <p corresp="#p24"> -->
                     <lb n="8"/><hi rend="large">A</hi>quí escrbíbíremos el naçímíento, de
                     <lb n="9"/><rs ana="JUNAJPU">hun ahpu</rs>, <hi rend="bold">y</hi> de <rs ana="XBALAMKE">xbalaque</rs>
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="25">
+                <div type="textpart" subtype="paragraph" n="25">
                     <!-- <p corresp="#p25"> -->
                     <lb n="10"/>y así fue el nacímíento de ellos <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> díremos.
                     <lb n="11"/>quando ya estaua justo el tíempo de nacer
@@ -1986,7 +1986,7 @@
                     <!-- </p> -->
                     <lb/>
                 </div>
-                <div type="section" subtype="paragraph" n="26">
+                <div type="textpart" subtype="paragraph" n="26">
                     <!-- <p corresp="#p26"> -->
                     <lb n="42"/>y luego cantaron, y tocaron las flautas, y
                     <lb n="43"/>el atambor, quando tomaron las fla<pc> –</pc>
@@ -2065,7 +2065,7 @@
                     <lb n="13"/>su <choice><abbr type="superscription"><rs ana="IXBAQIYALO">Me.</rs></abbr><expan instant="false">Madre</expan></choice> y<rs ana="IXMUKANE">abuela</rs>
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="27">
+                <div type="textpart" subtype="paragraph" n="27">
                     <!-- <p corresp="#p27"> -->
                     <lb n="14"/>y quando empezaron sus obras, y amanífestar
                     <lb n="15"/>se ante <rs ana="IXMUKANE">su abuela</rs>, y <rs ana="IXKIK'">su madre</rs>, lo prímero tra<pc> –</pc>
@@ -2224,7 +2224,7 @@
                     <lb/>
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="28">
+                <div type="textpart" subtype="paragraph" n="28">
                     <!-- <p corresp="#p28"> -->
                     <lb n="21"/>y el raton lo traían oculto, y llegando el vno
                     <lb n="22"/>entro derecho en casa, y el otro ala esquína
@@ -2270,7 +2270,7 @@
                     <lb/>
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="29">
+                <div type="textpart" subtype="paragraph" n="29">
                     <!-- <p corresp="#p29"> -->
                     <lb n="15"/>yellos muy alegres se fueron a jugar á
                     <lb n="16"/>la pelota al cementerío, y estaba muy
@@ -2363,7 +2363,7 @@
                     <lb n="3"/><rs ana="PAJARO">vac</rs> y díxeron: <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> canto es este? vengá las ceruatanas.
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="30">
+                <div type="textpart" subtype="paragraph" n="30">
                     <!-- <p corresp="#p30"> -->
                     <lb n="4"/>y luego tírandole con la zeruatana al <rs ana="PAJARO">vac</rs>
                     <lb n="5"/>fue el vodo que derecho, y le dío en la níña
@@ -2422,7 +2422,7 @@
                     <lb/>
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="31">
+                <div type="textpart" subtype="paragraph" n="31">
                     <!-- <p corresp="#p31"> -->
                     <lb n="10"/>Nosotros vamos, <choice><abbr type="superscription">Sa</abbr><expan instant="false">Señora</expan></choice> y solo á auísaros vení<pc> –</pc>
                     <lb n="11"/>mos, y esta señal os dexamos de nuestra pa<pc> –</pc>
@@ -2743,7 +2743,7 @@
                     <lb n="20"/>quando dexaron el juego.
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="32">
+                <div type="textpart" subtype="paragraph" n="32">
                     <!-- <p corresp="#p32"> -->
                     <lb n="21"/>y entraron en <rs ana="XUXULIM_JA">la casa de el frío</rs>, no era sufrí<pc> –</pc>
                     <lb n="22"/>ble el frío, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> en ella auía, y el yelo <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> auía
@@ -2763,7 +2763,7 @@
                     <lb/>
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="33">
+                <div type="textpart" subtype="paragraph" n="33">
                     <!-- <p corresp="#p33"> -->
                     <lb n="36"/>y luego entraron en <rs ana="BALAM_JA">la casa de los tí<pc> –</pc>
                     <lb n="37"/>gres</rs>, no eran constables los <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> auía en
@@ -2787,7 +2787,7 @@
                     <lb/>
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="34">
+                <div type="textpart" subtype="paragraph" n="34">
                     <!-- <p corresp="#p34"> -->
                     <lb n="6"/>yluego los metíeron en una <rs ana="JA_CHI_Q'AQ'">casa de
                     <lb n="7"/>fuego</rs>, donde solo auía fuego, y no fu<pc> –</pc>
@@ -2800,7 +2800,7 @@
                     <lb/>
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="35">
+                <div type="textpart" subtype="paragraph" n="35">
                     <!-- <p corresp="#p35"> -->
                     <lb n="14"/>y luego otra vez en <rs ana="SOTZ'I_JA">la casa de los mu<pc> –</pc>
                     <lb n="15"/>rçíelagos</rs>, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> no auía mas <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> murçíe<pc> –</pc>
@@ -2903,7 +2903,7 @@
                     <lb/>
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="36">
+                <div type="textpart" subtype="paragraph" n="36">
                     <!-- <p corresp="#p36"> -->
                     <lb n="13"/>y echando la pelota estaba la cabe<pc> –</pc>
                     <lb n="14"/>ça de <rs ana="JUNAJPU">hun ahpu</rs> en el çementerío. ya
@@ -2955,7 +2955,7 @@
                     <!-- </p> -->
                     <lb/>
                 </div>
-                <div type="section" subtype="paragraph" n="37">
+                <div type="textpart" subtype="paragraph" n="37">
                     <!-- <p corresp="#p37"> -->
                     <lb n="15"/>y agora díremos aquí la memoría de
                     <lb n="16"/>la muerte de <rs ana="JUNAJPU">hun ahpu</rs>, y <rs ana="XBALAMKE">xbalanque</rs>
@@ -3049,7 +3049,7 @@
                     <lb n="6"/>bos</rs>, y se manífestaron otrauez.
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="38">
+                <div type="textpart" subtype="paragraph" n="38">
                     <!-- <p corresp="#p38"> -->
                     <lb n="7"/>y al quinto día se manifestaron otra
                     <lb n="8"/>vez, y fueron vístos en el agua por la
@@ -3078,7 +3078,7 @@
                     <lb n="31"/>cípío a ganar, y vençer a <rs ana="RAJAWAL_XIBALBA">los deel ínfíer</rs>.
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="39">
+                <div type="textpart" subtype="paragraph" n="39">
                     <!-- <p corresp="#p39"> -->
                     <lb n="32"/>yluego <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>llegó lanotiçía a los oydos
                     <lb n="33"/>de <rs ana="RAJAWAL_XIBALBA">los deel ínfíerno</rs> desuvalle, a <rs ana="JUN_KAME">hun
@@ -3121,7 +3121,7 @@
                     <lb />
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="40">
+                <div type="textpart" subtype="paragraph" n="40">
                     <!-- <p corresp="#p40"> -->
                     <lb n="19"/>y llegaron delante de<rs ana="RAJAWAL_XIBALBA">los Señores</rs>
                     <lb n="20"/>eíban trístes, cabízbaxos, y así lle
@@ -3211,7 +3211,7 @@
                     <!-- </p> -->
                     <lb />
                 </div>
-                <div type="section" subtype="paragraph" n="41">
+                <div type="textpart" subtype="paragraph" n="41">
                     <!-- <p corresp="#p41"> -->
                     <lb n="6"/>y luego les vino en deseo su desespera
                     <lb n="7"/>çíon a<rs ana="RAJAWAL_XIBALBA">los <choice><abbr>SSes</abbr><expan instant="false">Señores</expan></choice></rs>. de este subaíle deellos,
@@ -3261,7 +3261,7 @@
                     <lb n="4"/>fíerno</rs>.
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="42">
+                <div type="textpart" subtype="paragraph" n="42">
                     <!-- <p corresp="#p42"> -->
                     <lb n="5"/>oíd díremos nuestros nombres, ydí<pc> –</pc>
                     <lb n="6"/>remos tambíen los nombres de nuestros
@@ -3353,7 +3353,7 @@
                     <lb n="40"/>el ínfíerno</rs>.
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="43">
+                <div type="textpart" subtype="paragraph" n="43">
                     <!-- <p corresp="#p43"> -->
                     <lb n="41"/>y esta fue su adjuntadura con sus <choice><abbr>P<hi rend="superscript">es</hi></abbr><expan instant="false">Padres</expan></choice>
                     <lb n="42"/>por ellos. y hallaronlos el <rs ana="JUNAJPU">hunahpu</rs> alla
@@ -3389,7 +3389,7 @@
                     <lb n="24"/>çíelo.
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="44">
+                <div type="textpart" subtype="paragraph" n="44">
                     <!-- <p corresp="#p44"> -->
                     <lb n="25"/>y aquí empíeza quando se díspuso ha<pc> –</pc>
                     <lb n="26"/>çer al hombre, y el buscar cosa <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>fuese
@@ -3411,13 +3411,13 @@
                     <lb n="42"/>y estrellas, sobre los formadores.
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="45">
+                <div type="textpart" subtype="paragraph" n="45">
                     <!-- <p corresp="#p45"> -->
                     <lb n="43"/>De <rs ana="PAXIL">paxíl</rs>, y de <rs ana="K'AYALA'">cayala</rs> <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>así sellamaba; víní<pc> –</pc>
                     <lb n="44"/>ron las maçorcas amarillas, y blancas.
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="46">
+                <div type="textpart" subtype="paragraph" n="46">
                     <!-- <p corresp="#p46"> -->
                     <lb n="45"/>y estos eran los nombres de los animales <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>tra<pc> –</pc>
                     <lb n="46"/>geron la comida. el gato de monte, el lobo,
@@ -3459,7 +3459,7 @@
                     <lb n="30"/>su carne de ellos.
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="47">
+                <div type="textpart" subtype="paragraph" n="47">
                     <!-- <p corresp="#p47"> -->
                     <lb n="31"/>Estos fueron los nombres de los prime<pc> –</pc>
                     <lb n="32"/>ros hombres <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>fueron formados, el primer
@@ -3469,7 +3469,7 @@
                     <lb n="36"/>bres de nuestros prímeros Padres, y Mad<choice><abbr type="superscription">es</abbr><expan instant="false">res</expan></choice>
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="48">
+                <div type="textpart" subtype="paragraph" n="48">
                     <!-- <p corresp="#p48"> -->
                     <lb n="37"/>Solo formaduras, y críaturas son díchos, no
                     <lb n="38"/>tuuíeron Padres, ní Madres, solo los llama<pc> –</pc>
@@ -3505,7 +3505,7 @@
                     <lb n="20"/>bres el <rs ana="BALAM_KI'TZE'">balá <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>ꜩe</rs>, <rs ana="BALAM_AQ'AB">balá acah</rs>. <rs ana="MAJUK'UTAJ">mahucu</rs>. <rs ana="IK'I_BALAM">íquíba</rs>.
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="49">
+                <div type="textpart" subtype="paragraph" n="49">
                     <!-- <p corresp="#p49"> -->
                     <lb n="21"/>y entonçes fueron preguntados por el
                     <lb n="22"/>críador como es vuestro estado? oys por
@@ -3541,7 +3541,7 @@
                     <lb n="1"/>chico, y grande.
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="50">
+                <div type="textpart" subtype="paragraph" n="50">
                     <!-- <p corresp="#p50"> -->
                     <lb n="2"/>y así otra uez consultaron los críado<pc> –</pc>
                     <lb n="3"/>res, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>haremos otra vez con estos, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>se<pc> –</pc>
@@ -3566,7 +3566,7 @@
                     <!-- </p> -->
                     <lb/>
                 </div>
-                <div type="section" subtype="paragraph" n="51">
+                <div type="textpart" subtype="paragraph" n="51">
                     <!-- <p corresp="#p51"> -->
                     <lb n="22"/>y luego les fue echado baho en los ojos por
                     <lb n="23"/>aquel <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>era el <rs ana="UK'U'X_KAJ">corazon de el çíelo</rs>, y se los
@@ -3702,7 +3702,7 @@
                     <lb n="7"/>fueron.
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="52">
+                <div type="textpart" subtype="paragraph" n="52">
                     <!-- <p corresp="#p52"> -->
                     <lb n="8"/>y el monte, y parage donde se fueron
                     <lb n="9"/><rs ana="BALAM_KI'TZE'">balam quíꜩe</rs>, <rs ana="BALAM_AQ'AB">balam acab</rs>, <rs ana="MAJUK'UTAJ">mahucutah</rs>
@@ -3712,7 +3712,7 @@
                     <lb n="13"/>eblo á <choice><abbr>do</abbr><expan instan="false">donde</expan></choice> fueron a traer los ídolos.
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="53">
+                <div type="textpart" subtype="paragraph" n="53">
                     <!-- <p corresp="#p53"> -->
                     <lb n="14"/>y llegaron a <rs ana="TULÁN">tulan</rs> <rs ana="SUYWA">zu</rs> todos, y noson
                     <lb n="15"/>constables los hombres <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>fueron, y eran
@@ -3739,7 +3739,7 @@
                     <lb n="36"/><choice><abbr>S<hi rend="superscript">es</hi></abbr><expan instant="false">Señores</expan></choice> y así los aben agora.
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="54">
+                <div type="textpart" subtype="paragraph" n="54">
                     <!-- <p corresp="#p54"> -->
                     <lb n="37"/>y así se llamaron las tres parçíalida<pc> –</pc>
                     <lb n="38"/>des <rs ana="AJAW_K'ICHE'">quiches</rs>, y no<abbr type="superscription">se</abbr>dexaron, ní de<pc> –</pc>
@@ -3792,7 +3792,7 @@
                     <!-- </p> -->
                     <lb />
                 </div>
-                <div type="section" subtype="paragraph" n="55">
+                <div type="textpart" subtype="paragraph" n="55">
                     <!-- <p corresp="#p55"> -->
                     <lb n="37"/>y luego empezo vn grande aguaçe<pc> –</pc>
                     <lb n="38"/>ro, y estaba alumbrando el fuego de
@@ -3865,7 +3865,7 @@
                     <!-- </p> -->
                     <lb/>
                 </div>
-                <div type="section" subtype="paragraph" n="56">
+                <div type="textpart" subtype="paragraph" n="56">
                     <!-- <p corresp="#p56"> -->
                     <lb n="10"/>y despues víníeron los ladrones a <rs ana="BALAM_KI'TZE'">balá<pc> –</pc>
                     <lb n="11"/>quíꜩe</rs>, <rs ana="BALAM_AQ'AB">balam acab</rs>, <rs ana="MAJUK'UTAJ">mahucutah</rs>, y <rs ana="IK'I_BALAM">íquí ba<pc> –</pc>
@@ -3979,7 +3979,7 @@
                     <lb n="23"/>nos es dícho <rs ana="NIM_XO'L">agora</rs>.
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="57">
+                <div type="textpart" subtype="paragraph" n="57">
                     <!-- <p corresp="#p57"> -->
                     <lb n="24"/>y llegando a vn çerro allí se jun<pc> –</pc>
                     <lb n="25"/>taron todos los quiches con los pu<pc> –</pc>
@@ -3998,7 +3998,7 @@
                     <lb n="38"/>bres.
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="58">
+                <div type="textpart" subtype="paragraph" n="58">
                     <!-- <p corresp="#p58"> -->
                     <lb n="39"/>y entonçes fueron llamados <rs ana="KAQCHIKELEB">ꜫaꜫchí<pc> –</pc>
                     <lb n="40"/>queles</rs> los <rs ana="KAQCHIKELEB">ꜫaꜫchíqueles</rs>, y los <rs ana="RABINALEB">rabí<pc> –</pc>
@@ -4048,7 +4048,7 @@
                     <lb n="36"/>el ídolo
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="59">
+                <div type="textpart" subtype="paragraph" n="59">
                     <!-- <p corresp="#p59"> -->
                     <lb n="37"/>y entonçes díxeron el <rs ana="TOJIL">tohíl</rs> con <rs ana="AWILIX">aulíx</rs>,
                     <lb n="38"/>y <rs ana="JAQAWITZ">hacauíꜩ</rs> a <rs ana="BALAM_KI'TZE'">balam quíꜩe</rs>, <rs ana="BALAM_AQ'AB">balam a<pc> –</pc>
@@ -4161,13 +4161,13 @@
                     <lb n="1"/>luna, y a las estrellas.
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="60">
+                <div type="textpart" subtype="paragraph" n="60">
                     <!-- <p corresp="#p60"> -->
                     <lb n="2"/>y este fue el esclarezer, y manífes<pc> –</pc>
                     <lb n="3"/>tarse el sol, la luna, y las estrellas.
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="61">
+                <div type="textpart" subtype="paragraph" n="61">
                     <!-- <p corresp="#p61"> -->
                     <lb n="4"/>y grandemente se alegraron
                     <lb n="5"/><rs ana="BALAM_KI'TZE'">balamquíꜩe</rs>, <rs ana="BALAM_AQ'AB">balam acab</rs>, <rs ana="MAJUK'UTAJ">mahu<pc> –</pc>
@@ -4317,7 +4317,7 @@
                     <lb n="5"/>y en el paste por ellos.
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="62">
+                <div type="textpart" subtype="paragraph" n="62">
                     <!-- <p corresp="#p62"> -->
                     <lb n="6"/>y este fue el prínçípío, y determinaçíon
                     <lb n="7"/>de auer puesto allí al <rs ana="TOJIL">tohíl</rs>. y enton
@@ -4444,14 +4444,14 @@
                     <!-- </p> -->
                     <lb/>
                 </div>
-                <div type="section" subtype="paragraph" n="63">
+                <div type="textpart" subtype="paragraph" n="63">
                     <!-- <p corresp="#p63"> -->
                     <lb n="31"/>y aquí empíeza suser hurtados los
                     <lb n="32"/>hombres de los pueblos por <rs ana="BALAM_KI'TZE'">balam quíꜩe</rs>
                     <lb n="33"/><rs ana="BALAM_AQ'AB">balam acab</rs>, <rs ana="MAJUK'UTAJ">mahucutah</rs>, y <rs ana="IK'I_BALAM">íquíbalam</rs>.
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="64">
+                <div type="textpart" subtype="paragraph" n="64">
                     <!-- <p corresp="#p64"> -->
                     <lb n="34"/>y luego fue el ser matado el pueblo, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>los
                     <lb n="35"/>tomaron estos, y solo por vna o dos partes
@@ -4511,7 +4511,7 @@
                     <lb/>
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="65">
+                <div type="textpart" subtype="paragraph" n="65">
                     <!-- <p corresp="#p65"> -->
                     <lb n="37"/>y lo prímero quísíeron consultar, los
                     <lb n="38"/>pueblos el ganar al <rs ana="TOJIL">tohíl</rs>, <rs ana="AWILIX">auílix</rs>, y <rs ana="JAQAWITZ">ha<pc> –</pc>
@@ -4585,7 +4585,7 @@
                     <lb />
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="66">
+                <div type="textpart" subtype="paragraph" n="66">
                     <!-- <p corresp="#p66"> -->
                     <lb n="12"/>y luego se fueron a componer, y a
                     <lb n="13"/>aderezar, y çíertamente <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>estaban
@@ -4621,7 +4621,7 @@
                     <lb />
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="67">
+                <div type="textpart" subtype="paragraph" n="67">
                     <!-- <p> -->
                     <pb corresp="xom-f44-s2"/>
                     <lb n="1"/>y díxeron otra ves a <rs ana="IXTAJ">xtah</rs> y <rs ana="IXPUCH'">xpuch</rs>
@@ -4640,7 +4640,7 @@
                     <!-- </p> -->
                     <lb />
                 </div>
-                <div type="section" subtype="paragraph" n="68">
+                <div type="textpart" subtype="paragraph" n="68">
                     <!-- <p corresp="#p67"> -->
                     <lb n="14"/>y luego píntaron los tres, y el prímero pin<pc> –</pc>
                     <lb n="15"/>to <rs ana="BALAM_KI'TZE'">balamquíꜩe</rs>, la ímagen de vn
@@ -4736,7 +4736,7 @@
                     <lb n="10"/>uocaron.
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="69">
+                <div type="textpart" subtype="paragraph" n="69">
                     <!-- <p corresp="#p68"> -->
                     <lb n="11"/>y esta fue la junta de todos los pu<pc> –</pc>
                     <lb n="12"/>eblos, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> ya estauan armadas con fle<pc> –</pc>
@@ -4843,7 +4843,7 @@
                     <lb n="17"/>cabÿhchic
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="70">
+                <div type="textpart" subtype="paragraph" n="70">
                     <!-- <p corresp="#p69"> -->
                     <lb n="18"/>y allí estaban <rs ana="BALAM_KI'TZE'">balamquíꜩe</rs>, <rs ana="BALAM_AQ'AB">balam a<pc> –</pc>
                     <lb n="19"/>cab</rs>, <rs ana="MAJUK'UTAJ">mahucutah</rs>, y <rs ana="IK'I_BALAM">íquíbalam</rs>, todos
@@ -4922,7 +4922,7 @@
                     <lb />
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="71">
+                <div type="textpart" subtype="paragraph" n="71">
                     <!-- <p corresp="#p70"> -->
                     <lb n="44"/>y auíendo ya conocido que se morían
                     <lb n="45"/>les avisaron asus híjos y no estaban
@@ -5020,7 +5020,7 @@
                     <lb n="39"/>petados, y acatados.  
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="72">
+                <div type="textpart" subtype="paragraph" n="72">
                     <!-- <p corresp="#p71"> -->
                     <lb n="40"/>yluego trataron de ír alla al oríente, tra<pc> –</pc>
                     <lb n="41"/>tando de dar cumplímíento a los <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>sus <choice><abbr>P<hi rend="superscript">es</hi></abbr><expan instant="false">Padres</expan></choice>
@@ -5052,7 +5052,7 @@
                     <lb />
                     <lb />
                 </div>
-                <div type="section" subtype="paragraph" n="73">
+                <div type="textpart" subtype="paragraph" n="73">
                     <!-- <p corresp="#p72"> -->
                     <lb n="18"/>y llegaron ante el <choice><abbr>S<hi rend="superscript">or</hi></abbr><expan instant="false">Señor</expan></choice> <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> se llamaba <rs ana="NAKXIT"><hi rend="underline">nac<pc> –</pc>
                     <lb n="19"/>xít</hi></rs>. gran <choice><abbr>S<hi rend="superscript">or</hi></abbr><expan instant="false">Señor</expan></choice>. y vno <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>todo lo juzgaba.
@@ -5076,7 +5076,7 @@
                     <lb n="37"/>ones.
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="74">
+                <div type="textpart" subtype="paragraph" n="74">
                     <!-- <p corresp="#p73"> -->
                     <lb n="38"/>y luego quando llegaron asu pueblo
                     <lb n="39"/><choice><abbr>q’</abbr><expan instant="false">que</expan></choice>se llamaba <rs ana="JAQAWITZ_JUYUB">hacauíꜩ</rs>, allí se juntaron
@@ -5144,7 +5144,7 @@
                     <!-- </p> -->
                     <lb />
                 </div>
-                <div type="section" subtype="paragraph" n="75">
+                <div type="textpart" subtype="paragraph" n="75">
                     <!-- <p corresp="#p74"> -->
                     <lb n="3"/><rs ana="CHI_ISMACHI">chí ízmachí</rs> es el nombre de el çer<pc> –</pc>
                     <lb n="4"/>ro, y su pueblo <choice><abbr>do</abbr><expan instan="false">donde</expan></choice> estuuíeron, y don
@@ -5261,7 +5261,7 @@
                     <lb n="17"/>xaron al de <rs ana="CHI_ISMACHI">ízmachí</rs>.
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="76">
+                <div type="textpart" subtype="paragraph" n="76">
                     <!-- <p corresp="#p75"> -->
                     <lb n="18"/>y luego se uíníeron de allí a <rs ana="Q'UMARAQ_AJ">cumarcaaj</rs>.
                     <lb n="19"/><choice><abbr>q’</abbr><expan instant="false">que</expan></choice>así se llamo por los quiches, y enton
@@ -5318,7 +5318,7 @@
                     <lb n="17"/>por sí, y de cada vna de las grandes casas
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="77">
+                <div type="textpart" subtype="paragraph" n="77">
                     <!-- <p corresp="#p76"> -->
                     <lb n="18"/>y estos son los nombres de los <choice><abbr>SS<hi rend="superscript">es</hi></abbr><expan instant="false">Señores</expan></choice> de <rs ana="K'OKA'IB">ca<pc> –</pc>
                     <lb n="19"/>uíquíb</rs>, y el prímero de los <choice><abbr>SS<hi rend="superscript">es</hi></abbr><expan instant="false">Señores</expan></choice> era: <rs ana="AJPOP">ah<pc> –</pc>
@@ -5329,7 +5329,7 @@
                     <lb n="24"/>camha</rs>.
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="78">
+                <div type="textpart" subtype="paragraph" n="78">
                     <!-- <p corresp="#p77"> -->
                     <lb n="25"/>y estos eran los <choice><abbr>SS<hi rend="superscript">es.</hi></abbr><expan instant="false">Señores</expan></choice> ante los de <rs ana="KAWEQ">ca<pc> –</pc>
                     <lb n="26"/>uíquíb</rs>, nueue <choice><abbr>SS<hi rend="superscript">es.</hi></abbr><expan instant="false">Señores</expan></choice> en orden sus gr<pc> –</pc>
@@ -5337,7 +5337,7 @@
                     <lb n="28"/>es se mencçonan otra vez.
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="79">
+                <div type="textpart" subtype="paragraph" n="79">
                     <!-- <p corresp="#p78"> -->
                     <lb n="29"/>y estos son los <choice><abbr>SS<hi rend="superscript">es.</hi></abbr><expan instant="false">Señores</expan></choice> de los de <rs ana="NIJA'IB">níhaí<pc> –</pc>
                     <lb n="30"/>bab</rs> el prímero <rs ana="AJAW_Q'ALEL">ahau ealel</rs>. 2. <rs ana="AJAW_AJTZIK_WINAQ">ahau
@@ -5350,7 +5350,7 @@
                     <!-- </p> -->
                     <lb />
                 </div>
-                <div type="section" subtype="paragraph" n="80">
+                <div type="textpart" subtype="paragraph" n="80">
                     <!-- <p corresp="#p79"> -->
                     <lb n="37"/>y de los de <rs ana="AJAW_K'ICHE'">ahauquíche</rs> estos son
                     <lb n="38"/>los nombres de los <choice><abbr>SS<hi rend="superscript">es.</hi></abbr><expan instant="false">Señores</expan></choice> el prímero:
@@ -5360,7 +5360,7 @@
                     <lb n="42"/>quiche</rs>.
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="81">
+                <div type="textpart" subtype="paragraph" n="81">
                     <!-- <p corresp="#p80"> -->
                     <lb n="43"/>y dos eran los <rs ana="SAQIK">Chínamítales</rs>, de zaquí<pc> –</pc>
                     <lb n="44"/>quíb. el vno <choice><abbr>S<hi rend="superscript">or</hi></abbr><expan instant="false">Señor</expan></choice>. <rs ana="TZUTUJA">ꜩutuha</rs>. 2. <rs ana="Q'ALEL_SAQIK">ealel zaquic</rs>.
@@ -5368,7 +5368,7 @@
                     <lb n="46"/><choice><abbr>SS<hi rend="superscript">es</hi></abbr><expan instant="false">Señores</expan></choice>
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="82">
+                <div type="textpart" subtype="paragraph" n="82">
                     <!-- <p corresp="#p81"> -->
                     <pb corresp="xom-f51-s2"/>
                     <lb n="1"/>y así se ajusttaron los veínte, y quatro<pc> –</pc>
@@ -5448,7 +5448,7 @@
                     <lb/>
                     <lb/>
                 </div>
-                <div type="section" subtype="paragraph" n="83">
+                <div type="textpart" subtype="paragraph" n="83">
                     <!-- <p corresp="#p82"> -->
                     <lb n="23"/>y a quí se habla de la sexta genera<pc> –</pc>
                     <lb n="24"/>cíon <abbr>q’</abbr>tuuo dos grandes <abbr>SS<hi rend="superscript">es.</hi></abbr> elvno
@@ -5500,7 +5500,7 @@
                     <!-- </p> -->
                     <lb/>
                 </div>
-                <div type="section" subtype="paragraph" n="84">
+                <div type="textpart" subtype="paragraph" n="84">
                     <!-- <p corresp="#p83"> -->
                     <lb n="24"/>y luego salíeron a las fronteras vígí<pc> –</pc>
                     <lb n="25"/>as <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>cuídasen de la Guerra, y funda<pc> –</pc>
@@ -5586,14 +5586,14 @@
                     <lb n="7"/>todos cada vno a su çerro, y se juntaron
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="85">
+                <div type="textpart" subtype="paragraph" n="85">
                     <!-- <p corresp="#p84"> -->
                     <lb n="8"/>en vno. <rs ana="XE_BALAX">xebalax</rs>, <rs ana="XE_KAMAQ">xecamac</rs>, se lla
                     <lb n="9"/>maba el çerro donde fueron nombra<pc> –</pc>
                     <lb n="10"/>dos, y se les dío le cargo, allá en <rs ana="CHULIMAL">chulímán</rs>.
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="86">
+                <div type="textpart" subtype="paragraph" n="86">
                     <!-- <p corresp="#p85"> -->
                     <lb n="11"/>y estala çelebraçíon de su elecçí<pc> –</pc>
                     <lb n="12"/>on, y nombramíento de los veíte capí<pc> –</pc>
@@ -5620,7 +5620,7 @@
                     <lb/>
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="87">
+                <div type="textpart" subtype="paragraph" n="87">
                     <!-- <p corresp="#p86"> -->
                     <lb n="33"/>y agora díremos otra vez de el nom<pc> –</pc>
                     <lb n="34"/>bre de la casa de el ídolo, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>así mesmo
@@ -5686,7 +5686,7 @@
                     <lb/>
                     <lb/>
                 </div>
-                <div type="section" subtype="paragraph" n="88">
+                <div type="textpart" subtype="paragraph" n="88">
                     <!-- <p corresp="#p87"> -->
                     <lb n="42"/>O tu hermosura de su día; tu <rs ana="JUN_RAQAN">huracan</rs>, tu
                     <lb n="43"/><rs ana="UK'U'X_KAJ">corazón de el çíelo</rs>, y <rs ana="UK'U'X_ULEW">tíerra</rs>, tu dador de
@@ -5769,7 +5769,7 @@
                     <lb n="24"/>remos agoraotra uez.
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="89">
+                <div type="textpart" subtype="paragraph" n="89">
                     <!-- <p corresp="#p88"> -->
                     <lb n="25"/>y estas fueron las generaçíones, y des<pc> –</pc>
                     <lb n="26"/>çendençía de el Reyno, y el esclareçí<pc> –</pc>
@@ -5789,7 +5789,7 @@
                     <lb/>
                     <lb/>
                 </div>
-                <div type="section" subtype="list" n="90">
+                <div type="textpart" subtype="list" n="90">
                     <!-- <p> -->
                     <lb n="39"/><rs ana="BALAM_KI'TZE'"><hi rend="large">B</hi>alamquíꜩe</rs>. elprímero, ytronco de
                     <lb n="40"/>losde <rs ana="KAWEQ">cauíquíb</rs>
@@ -5850,7 +5850,7 @@
                     <lb n="20"/>ron híjos de <rs ana="TEKUM_TRECE">tecum</rs>, <rs ana="TEPEPUL_TRECE">Tepepul</rs>.
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="91">
+                <div type="textpart" subtype="paragraph" n="91">
                     <!-- <p corresp="#p89"> -->
                     <lb n="21"/>y estas son las generaçíones del Reyno
                     <lb n="22"/>de los Reyes de trono, y casa de los de
@@ -5863,7 +5863,7 @@
                     <lb n="29"/>cada vno de los <choice><abbr>SS<hi rend="superscript">es.</hi></abbr><expan instant="false">Señores</expan></choice> de las casas grandes.
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="list" n="92">
+                <div type="textpart" subtype="list" n="92">
                     <!-- <p> -->
                     <lb n="30"/><hi rend="large">A</hi>hau ahpop. <choice><abbr>S<hi rend="superscript">or.</hi></abbr><expan instant="false">Señor</expan></choice> de vna casa grande
                     <lb n="31"/><choice><abbr>q’</abbr><expan instant="false">que</expan></choice>se llamaba, cuha.
@@ -5895,14 +5895,14 @@
                     <lb n="41"/><rs ana="YAKI_TEPEW"><hi rend="large">T</hi>epeu yaquí</rs>. <choice><abbr>S<hi rend="superscript">or.</hi></abbr><expan instant="false">Señor</expan></choice> de vna casa grande.
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="93">
+                <div type="textpart" subtype="paragraph" n="93">
                     <!-- <p corresp="#p90"> -->
                     <lb n="42"/>y estos son los nueue <rs ana="SAQIK">chínamítales</rs> de
                     <lb n="43"/><rs ana="KAWEQ">cauíquíb</rs>, y tenían muchos vasallos a su
                     <lb n="44"/>quenta.
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="94">
+                <div type="textpart" subtype="paragraph" n="94">
                     <!-- <p corresp="#p91"> -->
                     <lb n="45"/>y aquí se ponen los de <rs ana="NIJA'IB">níhaíbab</rs>, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>tenían
                     <lb n="46"/>nueue casas y prímero díremos la de<corr><pc> –</pc></corr>
@@ -5914,7 +5914,7 @@
                     <lb n="2"/>co, antes <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> vbíese luz, y sol.
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="list" n="95">
+                <div type="textpart" subtype="list" n="95">
                     <!-- <p> -->
                     <lb n="3"/><rs ana="BALAM_AQ'AB"><hi rend="large">B</hi>alam acab</rs>. el primer abuelo, y pa<pc> –</pc>
                     <lb n="4"/>dre.
@@ -5953,7 +5953,7 @@
                     <lb n="19"/>gora.
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="96">
+                <div type="textpart" subtype="paragraph" n="96">
                     <!-- <p corresp="#p92"> -->
                     <lb n="20"/>y estos fueron todos los Reyes <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> deçen<corr><pc> –</pc></corr>
                     <lb n="21"/>díeron de aquel <rs ana="AJAW_Q'ALEL">Rey ꜫalel</rs>. y agora 
@@ -5961,7 +5961,7 @@
                     <lb n="23"/>grandes casas.
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="list" n="97">
+                <div type="textpart" subtype="list" n="97">
                     <!-- <p> -->
                     <lb n="24"/><rs ana="AJAW_Q'ALEL"><hi rend="large">A</hi>hau ꜫalel</rs> el primer <choice><abbr type="superscription">Sor</abbr><expan instant="false">Señor</expan></choice> de los de <rs ana="NIJA'IB">ní<pc> –</pc>
                     <lb n="25"/>haíbab</rs> Sor<choice><abbr type="superscription">Sor</abbr><expan instant="false">Señor</expan></choice> de vna casa grande.
@@ -5975,7 +5975,7 @@
                     <lb n="33"/><rs ana="YAKOLATAM"><hi rend="large">Y</hi>acolatam</rs>. <choice><abbr type="superscription">Sor</abbr><expan instant="false">Señor</expan></choice> de vna casa grande.
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="98">
+                <div type="textpart" subtype="paragraph" n="98">
                     <!-- <p corresp="#p93"> -->
                     <lb n="34"/>y estas son las casa grandes de los
                     <lb n="35"/>de <rs ana="NIJA'IB">níhaíbab</rs>. y así se llamaron los
@@ -5985,7 +5985,7 @@
                     <lb n="39"/>sus nombres.
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="99">
+                <div type="textpart" subtype="paragraph" n="99">
                     <!-- <p corresp="#p94"> -->
                     <lb n="40"/>y esta es la desçendençía de los de
                     <lb n="41"/><rs ana="AJAW_K'ICHE'">ahau quiche</rs>. su primer abuelo, y <choice><abbr type="superscription">Pe.</abbr><expan instant="false">Padre</expan></choice>
@@ -6002,7 +6002,7 @@
                     <lb n="5"/><rs ana="WINAQ_BALAM_AKNUEVE">Vínac bam</rs>. <num>9</num>.
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="100">
+                <div type="textpart" subtype="paragraph" n="100">
                     <!-- <p corresp="#p95"> -->
                     <lb n="6"/>y estos fueron los Reyes de los de <rs ana="AJAW_K'ICHE'">ah<pc> –</pc>
                     <lb n="7"/>au quiche</rs>, y su desçendençías. y es<pc> –</pc>
@@ -6011,7 +6011,7 @@
                     <lb/>
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="101">
+                <div type="textpart" subtype="paragraph" n="101">
                     <!-- <p> -->
                     <lb n="10"/><rs ana="AJAW_AJTZIK_WINAQ"><hi rend="large">A</hi>h ꜩíc vínac</rs> el nombre del primer <choice><abbr type="superscription">Sor</abbr><expan instant="false">Señor</expan></choice>
                     <lb n="11"/>de vna grande casa.
@@ -6024,7 +6024,7 @@
                     <lb n="18"/>grandes</rs> de los de <rs ana="AJAW_K'ICHE'">ahau quiche</rs>.
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="102">
+                <div type="textpart" subtype="paragraph" n="102">
                     <!-- <p corresp="#p96"> -->
                     <lb n="19"/>y estos eran los tres grandes combí<pc> –</pc>
                     <lb n="20"/>tes, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> eran como padres por todos los
@@ -6035,7 +6035,7 @@
                     <lb n="25"/>combítes.
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="103">
+                <div type="textpart" subtype="paragraph" n="103">
                     <!-- <p corresp="#p97"> -->
                     <lb n="26"/>Grande Junta, y combíte delos de <rs ana="KAWEQ">ca
                     <lb n="27"/>uíquíb</rs>. y el Segundo de los de <rs ana="NIJA'IB">níha<pc> –</pc>

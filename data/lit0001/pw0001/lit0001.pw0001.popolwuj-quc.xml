@@ -45,14 +45,14 @@
             <p>The following text is encoded in accordance with TEI standards and with the CTS/CITE Architecture</p>
 
             <refsDecl n="CTS">
-                <cRefPattern n="section" 
+                <cRefPattern n="paragraph" 
                              matchPattern="(\w+)" 
                              replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])">
                 <p>pointer pattern extracting paragraph</p>
                 </cRefPattern>
             </refsDecl>
             <refsDecl>
-                <refState unit="section"/>
+                <refState unit="paragraph"/>
             </refsDecl>
         </encodingDesc>
 
@@ -67,14 +67,14 @@
             </creation>
         </profileDesc>
     </teiHeader>
-    <text n="urn:cts:mayaLit:lit0001.pw0001.popolwuj-quc:" xml:id="MS1515v2">
-        <body xml:lang="quc" n="urn:cts:mayaLit:lit0001.pw0001.popolwuj-quc:">
-            <div type="column">
-                <div type="section" subtype="paragraph" n="1">
+    <text n="urn:cts:mayaLit:lit0001.pw0001.popolwuj-quc" xml:id="MS1515v2">
+        <body xml:lang="quc" n="urn:cts:mayaLit:lit0001.pw0001.popolwuj-quc">
+            <div type="translation">
+                <div type="textpart" subtype="paragraph" n="1">
                   <lb n="1" /><hi rend="very-large">ARE V XE OHER</hi>
                   <lb n="2" rend="hanging"/>Ꜩih varal Quiche vbi.
                 </div>
-                <div type="section" subtype="paragraph" n="2">
+                <div type="textpart" subtype="paragraph" n="2">
                     <lb n="3" rend="indent"/><hi rend="large">V</hi>aral xchicaꜩibah vi xchica<pc> –</pc>
                     <lb n="4" />tiquiba vi oher ꜩih, vticaribal,
                     <lb n="5" />vxenabal puch ronohel xban,
@@ -123,7 +123,7 @@
                     <lb n="47"/>ato qol vi cah vleu cho palo
                     <lb n="48"/>
                 </div>
-                <div type="section" subtype="paragraph" n="3">
+                <div type="textpart" subtype="paragraph" n="3">
                     <!-- <p xml:id="p03"> -->
                     <lb n="2" rend="center"/><hi rend="large">ARE V ꜨIHOXIC VAE</hi>
                     <lb n="3" rend="center"/>Cacaꜩinin oc, caca chamam oc
@@ -132,7 +132,7 @@
                     <lb n="6" rend="center"/>pa cah.
                     <!-- </p> -->
                </div>
-               <div type="section" subtype="paragraph" n="4">
+               <div type="textpart" subtype="paragraph" n="4">
                     <!-- <p xml:id="p04"> -->
                     <lb n="7" rend="indent"/><hi rend="large">V</hi>ae cute nabe ꜩih nabe vch<pc> –</pc>
                     <lb n="8"/>an. mahabi oꜫ hun vinac, hun
@@ -162,7 +162,7 @@
                     <lb n="32"/>bauil chuqhaxic.
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="5">
+                <div type="textpart" subtype="paragraph" n="5">
                     <!-- <p xml:id="p05"> -->
                     <lb n="33" rend="indent"/><hi rend="large">T</hi>a xpe cut vꜩih varal xul
                     <lb n="34"/>cuq ri <rs ana="TEPEW_Q'UKUMATZ">tepeu gucumaꜩ</rs> varal
@@ -230,7 +230,7 @@
                     <lb n="1"/>tahic cumal.
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="6">
+                <div type="textpart" subtype="paragraph" n="6">
                     <!-- <p xml:id="p06"> -->
                     <note><num>2</num></note>
                     <lb n="2" rend="indent"/><hi rend="large">T</hi>a xquinohih chic vchicop<pc> –</pc>
@@ -266,7 +266,7 @@
                     <lb n="32"/>ri queh ꜩiquin
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="7">
+                <div type="textpart" subtype="paragraph" n="7">
                     <!-- <p xml:id="p07"> -->
                     <lb n="33" rend="indent"/><hi rend="large">T</hi>a xevqhax chicut rÿ queh
                     <lb n="34"/>ꜩiquin rumal <rs ana="TZACOL">ꜩacol</rs> <rs ana="BITOL">bitol</rs> <rs ana="ALOM">a<pc> –</pc>
@@ -370,7 +370,7 @@
                     <lb n="36"/>ne</rs>
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="8">
+                <div type="textpart" subtype="paragraph" n="8">
                     <!-- <p xml:id="p08"> -->
                     <lb n="37" rend="indent"/><hi rend="large">X</hi>eqha qu ri <rs ana="UK'U'X_KAJ">huracan</rs> ruq <rs ana="TEPEW_Q'UKUMATZ">te<pc> –</pc>
                     <lb n="38"/>peu gucumaꜩ</rs> ta xquibih chire<pc> –</pc>
@@ -450,7 +450,7 @@
                     <lb n="15"/>varal chuvach vleu
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="9">
+                <div type="textpart" subtype="paragraph" n="9">
                     <!-- <p xml:id="p09"> -->
                     <lb n="16" rend="indent"/><hi rend="large">C</hi>atecut qui quÿzic chic qui
                     <lb n="17"/>mayxic qui cutuxic puch xe
@@ -555,7 +555,7 @@
                     <lb n="14"/>xapoy, xapu ahamche.
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="10">
+                <div type="textpart" subtype="paragraph" n="10">
                     <!-- <p xml:id="p10"> -->
                     <lb n="15" rend="indent"/><hi rend="large">A</hi>re cut xa hubic zac na
                     <lb n="15.1"/>tanoh vvachvleu mahabi
@@ -608,7 +608,7 @@
                     <lb n="13"/>nac rumal <rs ana="TZ'AQOL">ahꜩac</rs>, <rs ana="BITOL">ahbit</rs>.
                     <!-- </p> -->
                 </div> 
-                <div type="section" subtype="paragraph" n="11">
+                <div type="textpart" subtype="paragraph" n="11">
                     <!-- p xml:id="p11" -->
                     <lb n="14" rend="indent"/><hi rend="large">V</hi>ae vxe vchacatahic v yi<pc> –</pc>
                     <lb n="15"/>coxic chi puch v quih <rs ana="WUQUB_KAKIX">vucub
@@ -669,7 +669,7 @@
                     <lb n="20"/>zachic cumal <rs ana="KA'IB_K'AJOLAB">qaholab</rs>.
                      <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="12">
+                <div type="textpart" subtype="paragraph" n="12">
                     <!-- <p xml:id="p12"> -->
                     <lb n="21" rend="indent"/><hi rend="large">V</hi>ae cute v vbaxic vvcub
                     <lb n="22"/>caquix cumal caib <rs ana="KA'IB_K'AJOLAB">qaholab</rs>
@@ -841,7 +841,7 @@
                     <lb n="39"/>ri <rs ana="UK'U'X_KAJ">vqux cah</rs> ta xquibano.
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="13">
+                <div type="textpart" subtype="paragraph" n="13">
                     <!-- <p xml:id="p13"> -->
                     <lb n="40"/><hi rend="large">V</hi>ae chi cute vbanoh chic <rs ana="SIPAKNA">zi<pc> –</pc>
                     <lb n="41"/>pacna</rs> v nabe qahol <rs ana="WUQUB_KAKIX">vvcub<pc> –</pc>
@@ -988,7 +988,7 @@
                     <lb n="35"/>que</rs>.
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="14">
+                <div type="textpart" subtype="paragraph" n="14">
                     <!-- <p xml:id="p14"> -->
                     <lb n="36" rend="indent"/><hi rend="large">A</hi>re chic vchacatahic, v
                     <lb n="37"/>camic <rs ana="SIPAKNA">zipacna</rs>, ta xchac chic
@@ -1095,7 +1095,7 @@
                     <lb n="42"/>bÿh vbixic
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="15">
+                <div type="textpart" subtype="paragraph" n="15">
                     <!-- <p xml:id="p15"> -->
                     <lb rend="indent" n="43"/><hi rend="large">R</hi>ox chicut nimarizai rib v
                     <lb n="44"/>cab v qahol <rs ana="WUQUB_KAKIX">vvcub caquix</rs> <rs ana="KABRAQAN">cab<pc> –</pc>
@@ -1220,7 +1220,7 @@
                     <lb n="18"/>chuvach vleuh.
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="16">
+                <div type="textpart" subtype="paragraph" n="16">
                     <!-- <p xml:id="p16"> -->
                     <lb n="19" rend="indent"/><hi rend="large">A</hi>re chicut xchicabÿh chic v
                     <lb n="20"/>bi qui cahau ri <rs ana="JUNAJPU">hun ahpu</rs> <rs ana="XBALAMKE">xbalan
@@ -1231,7 +1231,7 @@
                     <lb n="25"/>bixic quicahau.
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="17">
+                <div type="textpart" subtype="paragraph" n="17">
                     <!-- <p xml:id="p17"> -->
                     <lb n="26" rend="indent"/><hi rend="large">V</hi>ae cute vꜩihoxic. are qui bi
                     <lb n="27"/>ri <rs ana="JUN_JUNAJPU">hunhunahpu</rs>, que vqhaxic are
@@ -1342,7 +1342,7 @@
                     <lb n="35"/>lanque</rs>.
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="18">
+                <div type="textpart" subtype="paragraph" n="18">
                     <!-- <p xml:id="p18"> -->
                     <lb n="36" rend="indent" /><hi>C</hi>ate cut qui petic zamahel ru
                     <lb n="37"/>mal <rs ana="JUN_KAME">hun came</rs>, <rs ana="WUQUB_KAME">vvcub came</rs> quix
@@ -1414,7 +1414,7 @@
                     <lb n="6"/>nahpu</rs>, <rs ana="WUQUB_JUNAJPU">vvcub hun ahpu</rs>.
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="19">
+                <div type="textpart" subtype="paragraph" n="19">
                     <!-- <p xml:id="p19"> -->
                     <lb n="7" rend="indent" /><hi>C</hi>ate puch ta xebec <rs ana="JUN_JUNAJPU">hun hun<pc> –</pc>
                     <lb n="8"/>ahpu</rs>, <rs ana="WUQUB_JUNAJPU">vvcub hun ahpu</rs> xcamqui<pc> –</pc>
@@ -1574,14 +1574,14 @@
                     <lb n="15"/>roponic.
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="20">
+                <div type="textpart" subtype="paragraph" n="20">
                     <!-- <p xml:id="p20"> -->
                     <lb n="16" rend="indent"/><hi rend="large">V</hi>a chi cute vꜩihoxic hun capoh
                     <lb n="17"/><rs ana="IXKIK'">vmeal</rs> hun ahau <rs ana="KUCHUMA_KIK'">cuchumaquic</rs>
                     <lb n="18"/>vbi.
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="21">
+                <div type="textpart" subtype="paragraph" n="21">
                     <!-- <p xml:id="p21"> -->
                     <lb n="19" rend="indent"/><hi rend="large">A</hi>re cut ta xuta hun <rs ana="IXKIK'">capoh vme<pc> –</pc>
                     <lb n="20"/>al</rs> hun ahau <rs ana="KUCHUMA_KIK'">cuchumaquic</rs> vbi v
@@ -1654,7 +1654,7 @@
                     <lb n="33"/>cahau
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="22">
+                <div type="textpart" subtype="paragraph" n="22">
                     <!-- <p xml:id="p22"> -->
                     <lb n="34" rend="indent"/><hi rend="large">C</hi>ate puch vnatahic capoh ru<pc> –</pc>
                     <lb n="35"/>mal vcahau ta xil ri ral cochic
@@ -1754,7 +1754,7 @@
                     <lb n="29"/>conohel.
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="23">
+                <div type="textpart" subtype="paragraph" n="23">
                     <!-- <p xml:id="p23"> -->
                     <lb n="30" rend="indent"/><hi rend="large">A</hi>re cut e qo ri <rs ana="IXMUKANE">vchuch</rs> <rs ana="JUN_BATZ'">hun baꜩ</rs>
                     <lb n="31"/><rs ana="JUN_CHOWEN">hun choven</rs> ta xul ri ixoc <rs ana="IXKIK'">xquic</rs> v
@@ -1836,13 +1836,13 @@
                     <lb n="8"/>chic xuqhax cut <rs ana="IXKIK'">capoh</rs>
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="24">
+                <div type="textpart" subtype="paragraph" n="24">
                     <!-- <p xml:id="p24"> -->
                     <lb n="9" rend="indent"/><hi rend="large">A</hi>re chic xchicaꜩihoh calaxic
                     <lb n="10"/><rs ana="JUNAJPU">hun ahpu</rs> <rs ana="XBALAMKE">xbalanque</rs>
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="25">
+                <div type="textpart" subtype="paragraph" n="25">
                     <!-- <p xml:id="p25"> -->
                     <lb n="11" rend="indent"/><hi rend="large">A</hi>re cut calaxic vae xchicabÿh
                     <lb n="12"/>ta xuric vquih calaxic taxalan
@@ -1984,7 +1984,7 @@
                     <lb n="42"/>xquizuah.
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="26">
+                <div type="textpart" subtype="paragraph" n="26">
                     <!-- <p xml:id="p26"> -->
                     <lb n="43" rend="indent"/><hi rend="large">C</hi>atepuch xebixanic xezuanic
                     <lb n="44"/>xe cohomanic ta vcamic riqui zu
@@ -2059,7 +2059,7 @@
                     <lb n="13"/>ratit rug pu quichuch
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="27">
+                <div type="textpart" subtype="paragraph" n="27">
                     <!-- <p xml:id="p27"> -->
                     <lb n="14" rend="indent"/><hi rend="large">T</hi>a x quitiquiba chicut quibanoh
                     <lb n="15"/>qui cutbal quib chuvach catit chu<pc> –</pc>
@@ -2224,7 +2224,7 @@
                     <lb n="21"/>cutiquil quih xeoponic.
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="28">
+                <div type="textpart" subtype="paragraph" n="28">
                     <!-- <p xml:id="p28"> -->
                     <lb n="22" rend="indent"/><hi rend="large">M</hi>acu calah richo cucaam
                     <lb n="23"/>taxeoponic hunriyacalic xoc
@@ -2275,7 +2275,7 @@
                     <lb n="15"/>ri.
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="29">
+                <div type="textpart" subtype="paragraph" n="29">
                     <!-- <p xml:id="p29"> -->
                     <lb n="16" rend="indent"/><hi rend="large">Q</hi>uequicot chicut xebec echaa
                     <lb n="17"/>hel, pahom nahtcu xechaahic qui
@@ -2369,7 +2369,7 @@
                     <lb n="3"/>qha.
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="30">
+                <div type="textpart" subtype="paragraph" n="30">
                     <!-- <p xml:id="p30"> -->
                     <lb n="4" rend="indent" /><hi rend="large">C</hi>atepuch xquivvbah ri <rs ana="PAJARO">vac</rs> qui<pc> –</pc>
                     <lb n="5"/>cutacal vbaca vvb chu baca vvach
@@ -2431,7 +2431,7 @@
                     <lb n="10"/>e pixabai chire <rs ana="IXMUKANE">catit</rs> xebec.
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="31">
+                <div type="textpart" subtype="paragraph" n="31">
                     <!-- <p xml:id="p31"> -->
                     <lb n="11" rend="indent"/>ho na <rs ana="IXMUKANE">ixcatit</rs> xaohpixabay
                     <lb n="12"/>ive vae cute retal caꜩih xchicacanah
@@ -2757,7 +2757,7 @@
                     <lb n="21"/>lab</rs> ta x que leh.
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="32">
+                <div type="textpart" subtype="paragraph" n="32">
                     <!-- <p xml:id="p32"> -->
                     <lb n="22"/>Xeoc chicut pa<rs ana="XUXULIM_JA">teuh ha</rs> ma<pc> –</pc>
                     <lb n="23"/>ui ahilan teu ꜩaꜩ chi zacbocom
@@ -2777,7 +2777,7 @@
                     <lb n="37"/>lan que</rs>
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="33">
+                <div type="textpart" subtype="paragraph" n="33">
                     <!-- <p xml:id="p33"> -->
                     <lb n="38" rend="indent" />Cate xeoc chicut <rs ana="BALAM_JA">pabala
                     <lb n="39"/>mi ha</rs> ꜩaꜩ chibalam balam
@@ -2798,7 +2798,7 @@
                     <lb n="6"/>nohel
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="34">
+                <div type="textpart" subtype="paragraph" n="34">
                     <!-- <p> -->
                     <lb n="7"/>Cate chic xeoc chupam <rs ana="JA_CHI_Q'AQ'">ꜫaꜫ
                     <lb n="8"/>hun ha</rs> chiꜫaꜫ, xa vtu que l ꜫaꜫ v
@@ -2811,7 +2811,7 @@
                     <lb n="15"/>cazach quiqux rumal.
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="35">
+                <div type="textpart" subtype="paragraph" n="35">
                     <!-- <p xml:id="p35"> -->
                     <lb n="16"/>Xecoh chic chupan <rs ana="SOTZ'I_JA">zoꜩin ha</rs>
                     <lb n="17"/>vtu que l zoꜩ chupam chiha
@@ -2914,7 +2914,7 @@
                     <lb n="15"/>vach qui cabichal.
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="36">
+                <div type="textpart" subtype="paragraph" n="36">
                     <!-- <p xml:id="p36"> -->
                     <lb n="16" rend="indent" />xcah chicu quichaah colan
                     <lb n="17"/>chicu vholom <rs ana="JUNAJPU">hun ahpu</rs> chuvi
@@ -2969,7 +2969,7 @@
                     <lb n="15"/>xban chique.
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="37">
+                <div type="textpart" subtype="paragraph" n="37">
                     <!-- <p xml:id="p37"> -->
                     <lb n="16" rend="indent" /><hi rend="large">A</hi>Are cut vae quinabal qui<pc> –</pc>
                     <lb n="17"/>camic <rs ana="JUNAJPU">hun ahpu</rs> <rs ana="XBALAMKE">xbalanque</rs> are
@@ -3063,7 +3063,7 @@
                     <lb n="6"/>xecutun chicut.
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="38">
+                <div type="textpart" subtype="paragraph" n="38">
                     <!-- <p xml:id="p38"> -->
                     <lb n="7" rend="indent" />Chi robix cut xecutun chix xe
                     <lb n="8"/>il chi ya rumal vinac e caib que
@@ -3092,7 +3092,7 @@
                     <lb n="31"/><rs ana="XIBALBA">xibalba</rs> cumal.
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="39">
+                <div type="textpart" subtype="paragraph" n="39">
                     <!-- <p xml:id="p39"> -->
                     <lb n="32" rend="indent" />Cate chi puch roponic chic v
                     <lb n="33"/>ꜩihel quixahoh chi xiquin aha<pc> –</pc>
@@ -3132,7 +3132,7 @@
                     <lb n="19"/>ta xebe cut ruq ahau.
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="40">
+                <div type="textpart" subtype="paragraph" n="40">
                     <!-- <p xml:id="p40"> -->
                     <lb n="20" rend="indent" />Xeopon puch cuq ahauab
                     <lb n="21"/>Quemocho chic chiqui xule la
@@ -3222,7 +3222,7 @@
                     <lb n="6"/>are quexahovic caquinao.
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="41">
+                <div type="textpart" subtype="paragraph" n="41">
                     <!-- <p xml:id="p41"> -->
                     <lb n="7" rend="indent" />Cate puch vrainic vmalinic
                     <lb n="8"/>pu quiqux ahauab chire qui
@@ -3275,7 +3275,7 @@
                     <lb n="4"/>qui vach conohel <rs ana="XIBALBA">xibalba</rs>.
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="42">
+                <div type="textpart" subtype="paragraph" n="42">
                     <!-- <p xml:id="p42"> -->
                     <lb n="5" rend="indent" />Chitaa cabi xchicabÿh. xch<pc> –</pc>
                     <lb n="6"/>icabÿh naipuch vbi cacahau
@@ -3362,7 +3362,7 @@
                     <lb n="39"/>balba</rs>.  <note resp="editor">somehow left out of flat, added by me </note>
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="43">
+                <div type="textpart" subtype="paragraph" n="43">
                     <!-- <p xml:id="p43"> -->
                     <lb n="40" rend="indent"/>Vacute vviquic chic qui ca<pc> –</pc>
                     <lb n="41"/>hau cumal are xquivic ri <rs ana="WUQUB_JUNAJPU">vvcub
@@ -3402,7 +3402,7 @@
                     <lb n="24"/>xic e vchumilal cah xevxic.
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="44">
+                <div type="textpart" subtype="paragraph" n="44">
                     <!-- <p xml:id="p44"> -->
                     <lb n="25" rend="indent"/><hi rend="large">V</hi>ae cut vtiqueric ta xnaohix
                     <lb n="26"/>vinac ta xꜩucux puch ri choc vtio<pc> –</pc>
@@ -3424,13 +3424,13 @@
                     <lb n="42"/>qui vi e <rs ana="TZ'AQOL">ꜩacol</rs> <rs ana="BITOL">bitol</rs>.
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="45">
+                <div type="textpart" subtype="paragraph" n="45">
                     <!-- <p xml:id="p45"> -->
                     <lb n="43" rend="indent"/><hi rend="large">P</hi>an <rs ana="PAXIL">paxil</rs>, pan <rs ana="K'AYALA'">cayala</rs> vbi xpe
                     <lb n="44"/>vi eanahal zaquihal.
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="46">
+                <div type="textpart" subtype="paragraph" n="46">
                     <!-- <p xml:id="p46"> -->
                     <lb n="45" rend="indent"/><hi rend="large">A</hi>re cuquibi chicop va camolre
                     <lb n="46"/>cha. yac, vtiu, quel, hoh ecahib
@@ -3469,7 +3469,7 @@
                     <lb n="30"/>echa oquinac quitiohil.
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="47">
+                <div type="textpart" subtype="paragraph" n="47">
                     <!-- <p xml:id="p47"> -->
                     <lb n="31" rend="indent"/><hi rend="large">V</hi>ae quibi naabe vinac xeꜩa<pc> –</pc>
                     <lb n="32"/>quic xebitic. are nabe vinac ri
@@ -3479,7 +3479,7 @@
                     <lb n="36"/>quibi ri canabe chuch cahau.
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="48">
+                <div type="textpart" subtype="paragraph" n="48">
                     <!-- <p xml:id="p48"> -->
                     <lb n="37" rend="indent"/>Xa ꜩac xa bit que vqhaxic
                     <lb n="38"/>mahabi quichuch mahabi qui<pc> –</pc>
@@ -3518,7 +3518,7 @@
                     <lb n="20"/>acab</rs>, <rs ana="MAJUK'UTAJ">mahucutah</rs>, <rs ana="IK'I_BALAM">iquibalam</rs>.
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="49">
+                <div type="textpart" subtype="paragraph" n="49">
                     <!-- <p xml:id="p49"> -->
                     <lb n="21" rend="indent"/>Ta xeꜩonox cut rumal ri
                     <lb n="22"/><rs ana="TZ'AQOL">ahꜩac</rs> <rs ana="BITOL">ahbit</rs> huchalic iqohei
@@ -3551,7 +3551,7 @@
                     <lb n="1"/>chutin queqha.
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="50">
+                <div type="textpart" subtype="paragraph" n="50">
                     <!-- <p xml:id="p50"> -->
                     <lb n="2" rend="indent"/>Quehe chicut vcamic chic
                     <lb n="3"/>qui naoh <rs ana="ALOM">alom</rs> <rs ana="K'AJOLOM">qaholom</rs> hucha
@@ -3576,7 +3576,7 @@
                     <lb n="22"/>cut vqoheic chic quiꜩac qui bit
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="51">
+                <div type="textpart" subtype="paragraph" n="51">
                     <!-- <p xml:id="p51"> -->
                     <lb n="23" rend="indent"/>Xaca xvabax vbac qui vach
                     <lb n="24"/>rumal ri <rs ana="UK'U'X_KAJ">vqux cah</rs> xmoyic quehe<pc> –</pc>
@@ -3716,7 +3716,7 @@
                     <lb n="7"/>tinamit xebevi
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="52">
+                <div type="textpart" subtype="paragraph" n="52">
                     <!-- <p xml:id="p52"> -->
                     <lb n="8" rend="indent"/><hi rend="large">A</hi>recut vbi huyub va xebe vi
                     <lb n="9"/><rs ana="BALAM_KI'TZE'">Balam quiꜩe</rs>, <rs ana="BALAM_AQ'AB">Balam acab</rs> <rs ana="MAJUK'UTAJ">mahu
@@ -3726,7 +3726,7 @@
                     <lb n="13"/>e camolre cabauil
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="53">
+                <div type="textpart" subtype="paragraph" n="53">
                     <!-- <p xml:id="p53"> -->
                     <lb n="14" rend="indent"/>Xeopon cut chila <rs ana="TULÁN">tulan</rs> conoh<pc> –</pc>
                     <lb n="15"/>el maui ahilan chivinac xoponic
@@ -3753,7 +3753,7 @@
                     <lb n="36"/>ui quetaam va camic
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="54">
+                <div type="textpart" subtype="paragraph" n="54">
                     <!-- <p xml:id="p54"> -->
                     <lb n="37" rend="indent"/>Quehecut vbinaam vi ox<pc> –</pc>
                     <lb n="38"/>ib chiquiche xma xuꜩocopih
@@ -3806,7 +3806,7 @@
                     <lb n="36"/>ꜫaꜫ
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="55">
+                <div type="textpart" subtype="paragraph" n="55">
                     <!-- <p xml:id="p55"> -->
                     <lb n="37" rend="indent" />Catepuch ta xticaric nima hab
                     <lb n="38"/>are catilo vꜫaꜫ amac ꜩaꜩ cut
@@ -3881,7 +3881,7 @@
                     <lb n="11"/>vach
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="56">
+                <div type="textpart" subtype="paragraph" n="56">
                     <!-- <p xml:id="p56"> -->
                     <lb n="12"/>Cate puch culic chic e eloeom
                     <lb n="13"/>chiquivach <rs ana="BALAM_KI'TZE'">balam quiꜩe</rs>, <rs ana="BALAM_AQ'AB">balam
@@ -3994,7 +3994,7 @@
                     <lb n="23"/>chila <rs ana="NIM_XO'L">nim xol</rs> cabixic vacamic
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="57">
+                <div type="textpart" subtype="paragraph" n="57">
                     <!-- <p xml:id="p57"> -->
                     <lb n="24"/>Taxevl puch chiri chuvi hun
                     <lb n="25"/>huyub chiri xquicuch vi quib
@@ -4013,7 +4013,7 @@
                     <lb n="38"/>ta xcoh quibi
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="58">
+                <div type="textpart" subtype="paragraph" n="58">
                     <!-- <p> -->
                     <lb n="39"/>Ta xbinaah chicuri <rs ana="KAQCHIKELEB">ꜫaꜫche<pc> –</pc>
                     <lb n="40"/>queleb</rs>. <rs ana="KAQCHIKELEB">ꜫaꜫchequeleb</rs> vbi xuxic
@@ -4063,7 +4063,7 @@
                     <lb n="36"/>chi cut qui cabauil chiri.
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="59">
+                <div type="textpart" subtype="paragraph" n="59">
                     <!-- <p xml:id="p59"> -->
                     <lb n="37"/>Ta xqha cut ruq <rs ana="TOJIL">tohil</rs> <rs ana="AWILIX">au<pc> –</pc>
                     <lb n="38"/>lix</rs> <rs ana="JAQAWITZ">hacaviꜩ</rs> chiquech ri <rs ana="BALAM_KI'TZE'">Ba<pc> –</pc>
@@ -4176,13 +4176,13 @@
                     <lb n="1"/>chinic puch quih, ic, qhumil
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="60">
+                <div type="textpart" subtype="paragraph" n="60">
                     <!-- <p xml:id="p60"> -->
                     <lb n="2" rend="indent"/>Vae cute vzaquiric vvachi<pc> –</pc>
                     <lb n="3"/>nic puch quih, ic, qhumil.
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="61">
+                <div type="textpart" subtype="paragraph" n="61">
                     <!-- <p xml:id="p61"> -->
                     <lb n="4" rend="indent"/><hi rend="large">N</hi>im cut xe quicotic <rs ana="BALAM_KI'TZE'">balam
                     <lb n="5"/>quiꜩe</rs>, <rs ana="BALAM_AQ'AB">balam acab</rs>, <rs ana="MAJUK'UTAJ">mahucutah</rs>,
@@ -4332,7 +4332,7 @@
                     <lb n="5"/>yac cumal.
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="62">
+                <div type="textpart" subtype="paragraph" n="62">
                     <!-- <p xml:id="p62"> -->
                     <lb n="6" rend="indent"/>Vacute quicatonic vxe chipu<pc> –</pc>
                     <lb n="7"/>ch cohbal rech <rs ana="TOJIL">tohil</rs> ta xebe
@@ -4458,14 +4458,14 @@
                     <lb n="31"/><rs ana="TOJIL">tohil</rs> ruq <rs ana="AWILIX">aulix</rs> x <rs ana="JAQAWITZ">hacaviꜩ</rs>.
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="63">
+                <div type="textpart" subtype="paragraph" n="63">
                     <!-- <p xml:id="p63"> -->
                     <lb n="32" rend="indent"/><hi rend="large">V</hi>ae vticaric chic relecaxic vi<pc> –</pc>
                     <lb n="33"/>nac amac cumal <rs ana="BALAM_KI'TZE'">balam quiꜩe</rs>, <rs ana="BALAM_AQ'AB">ba
                     <lb n="34"/>lam acab</rs> <rs ana="MAJUK'UTAJ">mahucutah</rs> <rs ana="IK'I_BALAM">iqui balam</rs>.
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="64">
+                <div type="textpart" subtype="paragraph" n="64">
                     <!-- <p xml:id="p64"> -->
                     <lb n="35" rend="indent"/><hi rend="large">C</hi>ate puch vcamizaxic amac ri
                     <lb n="36"/>are xquicam ri xa hun chubinic
@@ -4524,7 +4524,7 @@
                     <lb n="41"/>mizaxic tah.
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="65">
+                <div type="textpart" subtype="paragraph" n="65">
                     <!-- <p xml:id="p65"> -->
                     <lb n="42" rend="indent"/><hi rend="large">N</hi>abe cut xrah qui naohih a<pc> –</pc>
                     <lb n="43"/>mac vchaquic <rs ana="TOJIL">tohil</rs> <rs ana="AWILIX">avlix</rs> <rs ana="JAQAWITZ">hacaviꜩ</rs>
@@ -4597,7 +4597,7 @@
                     <lb n="14" />naoh ronohel amac rÿ.
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="66">
+                <div type="textpart" subtype="paragraph" n="66">
                     <!-- <p xml:id="p66"> -->
                     <lb n="15" rend="indent" />Cate puch xebec xecauuxic qui<pc> –</pc>
                     <lb n="16" />bec chila <rs ana="EL_BAÑO_DE_TOJIL">chatin vi tohil</rs> quicari<pc> –</pc>
@@ -4633,7 +4633,7 @@
                     <lb n="46" />qha curi <rs ana="TOJIL">tohil</rs> <rs ana="AWILIX">aulix</rs> <rs ana="JAQAWITZ">hacaviꜩ</rs>
                     <!-- </p> -->f
                 </div>
-                <div type="section" subtype="paragraph" n="67">
+                <div type="textpart" subtype="paragraph" n="67">
                     <!-- <p> -->
                     <pb xml:id="xom-f44-s2"/>
                     <lb n="1"/>ta xeqhau chic chiquech ri xtah
@@ -4652,7 +4652,7 @@
                     <lb n="14"/>ꜩe</rs>, <rs ana="BALAM_AQ'AB">balam acab</rs>, <rs ana="MAJUK'UTAJ">mahucutah</rs>.
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="68">
+                <div type="textpart" subtype="paragraph" n="68">
                     <!-- <p xml:id="p67"> -->
                     <lb n="15" rend="indent"/>Cate cut xezibanic coxichal na<pc> –</pc>
                     <lb n="16"/>be xꜩiban ri <rs ana="BALAM_KI'TZE'">balam quiꜩe</rs>. balam
@@ -4748,7 +4748,7 @@
                     <lb n="10"/>xeta co quib conohel.
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="69">
+                <div type="textpart" subtype="paragraph" n="69">
                     <!-- <p xml:id="p68"> -->
                     <lb n="11" rend="indent"/><hi>V</hi>ae cute qui molouic quib co<pc> –</pc>
                     <lb n="12"/>nohel amac e cauutal chic chi
@@ -4855,7 +4855,7 @@
                     <lb n="17"/>cabÿh chic
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="70">
+                <div type="textpart" subtype="paragraph" n="70">
                     <!-- <p xml:id="p69"> -->
                     <lb n="18" rend="indent"/><hi>A</hi>re cut e qo chiri <rs ana="BALAM_KI'TZE'">balam quiꜩe</rs>
                     <lb n="19"/><rs ana="BALAM_AQ'AB">balam acab</rs> <rs ana="MAJUK'UTAJ">mahucutah</rs> <rs ana="IK'I_BALAM">iqui ba<pc> –</pc>
@@ -4934,7 +4934,7 @@
                     <lb n="44"/><rs ana="IK'I_BALAM">iqui balam</rs> qui bi.
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="71">
+                <div type="textpart" subtype="paragraph" n="71">
                     <!-- <p xml:id="p70"> -->
                     <lb n="45" rend="indent"/><hi>X</hi>quina cut qui camic qui zachic
                     <lb n="46"/>ta xepixabic chirech qui qahol ma
@@ -5027,7 +5027,7 @@
                     <lb n="37"/>ahquixb ahcahb quibinaam.
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="72">
+                <div type="textpart" subtype="paragraph" n="72">
                     <!-- <p xml:id="p71"> -->
                     <lb n="38" rend="indent" />Cate puch taxquiquxlaah qui<pc> –</pc>
                     <lb n="39"/>bÿc chila relebal quih are qui
@@ -5064,7 +5064,7 @@
                     <lb n="19"/>bal quih xeoponvi.
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="73">
+                <div type="textpart" subtype="paragraph" n="73">
                     <!-- <p xml:id="p72"> -->
                     <lb n="20" rend="indent" /><hi rend="large">T</hi>a xeopon cut chuvach ahau
                     <lb n="21"/><rs ana="NAKXIT">nacxit</rs> vbi nim ahau xahu
@@ -5087,7 +5087,7 @@
                     <lb n="38"/>nac chupan chupan quiꜩih.
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="74">
+                <div type="textpart" subtype="paragraph" n="74">
                     <!-- <p xml:id="p73"> -->
                     <lb n="39" rend="indent" />Cate puch ta xevlic chiri chu<pc> –</pc>
                     <lb n="40"/>ui quitinamit <rs ana="JAQAWITZ_JUYUB">hacaviꜩ</rs> vbi chi<pc> –</pc>
@@ -5157,7 +5157,7 @@
                     <lb n="4"/>e xevl vi
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="75">
+                <div type="textpart" subtype="paragraph" n="75">
                     <!-- <p xml:id="p74"> -->
                     <lb n="5"/><rs ana="CHI_ISMACHI">Chiizmachi</rs> cut vbihuyub qui
                     <lb n="6"/>tinamit xeqohe vi chinaipuchxe
@@ -5277,7 +5277,7 @@
                     <lb n="16"/>mit xcocotah chivi ri <rs ana="CHI_ISMACHI">chiizmachi</rs>.
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="76">
+                <div type="textpart" subtype="paragraph" n="76">
                     <!-- <p xml:id="p75"> -->
                     <lb n="17"/>Catepuch taxeyacatah chivl
                     <lb n="18"/>oc xevlchiri patinamit <rs ana="Q'UMARAQ_AJ">cumarca<pc> –</pc>
@@ -5334,7 +5334,7 @@
                     <lb n="17"/>hunal huhun vnim ha.
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="77">
+                <div type="textpart" subtype="paragraph" n="77">
                     <!-- <p xml:id="p76"> -->
                     <lb n="18" rend="indent" /><hi rend="large">V</hi>ae cute quibi ahauab chu
                     <lb n="19"/>vach <rs ana="KAWEQ">caui quib</rs> are nabe ahau
@@ -5345,7 +5345,7 @@
                     <lb n="24"/>ꜩalaꜩ</rs>, vchuch cam ha.
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="78">
+                <div type="textpart" subtype="paragraph" n="78">
                     <!-- <p xml:id="p77"> -->
                     <lb n="25" rend="indent" /><hi rend="large">A</hi>re cut ahauab ri chuvach
                     <lb n="26"/><rs ana="KAWEQ">caviquib</rs> beleheb chi ahauab
@@ -5353,7 +5353,7 @@
                     <lb n="28"/>te chic chivachin v vach.
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="79">
+                <div type="textpart" subtype="paragraph" n="79">
                     <!-- <p xml:id="p78"> -->
                     <lb n="29" rend="indent" /><hi rend="large">A</hi>re chicu ahavab va chu
                     <lb n="30"/>vach <rs ana="NIJA'IB">nihaibab</rs> are nabe aha<pc> –</pc>
@@ -5366,7 +5366,7 @@
                     <lb n="37"/>ch <rs ana="NIJA'IB">nihaibab</rs>
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="80">
+                <div type="textpart" subtype="paragraph" n="80">
                     <!-- <p xml:id="p79"> -->
                     <lb n="38" rend="indent" /><hi rend="large">A</hi>re chicut ahau quiche va
                     <lb n="39"/>vae quibi ahauab. ahꜩic vinac
@@ -5376,7 +5376,7 @@
                     <lb n="43"/>eb colehe vnim ha.
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="81">
+                <div type="textpart" subtype="paragraph" n="81">
                     <!-- <p xml:id="p80"> -->
                     <lb n="44"/>Ca<gap reason="deletion" unit="character" instant="false"/>ib chinamit chi na ipuch
                     <lb n="45"/>ca quiquib au<add place="above" instant="false" status="unremarkable">ha</add>ab <rs ana="TZUTUJA">ꜩutuha</rs>
@@ -5385,7 +5385,7 @@
                     <lb n="47"/>chiahauab.
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="82">
+                <div type="textpart" subtype="paragraph" n="82">
                     <!-- <p xml:id="p81"> -->
                     <pb xml:id="xom-f51-s2"/>
                     <note  place="margin-left" type="pagination" anchored="true">
@@ -5465,7 +5465,7 @@
                     <lb n="24"/>qaholanic hutac le chiahauab.
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="83">
+                <div type="textpart" subtype="paragraph" n="83">
                     <!-- <p xml:id="p82"> -->
                     <lb n="25" rend="indent"/>Va chicute quibÿ chic vvac
                     <lb n="26"/>le ahau e caib chinimac aha<pc> –</pc>
@@ -5520,7 +5520,7 @@
                     <lb n="24"/>tinamit ronohel amac.
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="84">
+                <div type="textpart" subtype="paragraph" n="84">
                     <!-- <p xml:id="p83"> -->
                     <lb n="25" rend="indent"/>Catecut ta relic varanel ilol
                     <lb n="26"/>ahlabal ta xquiba cut vvachinel
@@ -5606,14 +5606,14 @@
                     <lb n="7"/>yub xa hun xecuchvi.
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="85">
+                <div type="textpart" subtype="paragraph" n="85">
                     <!-- <p xml:id="p84"> -->
                     <lb n="8" rend="indent"/><rs ana="XE_BALAX">Xebalax</rs>, <rs ana="XE_KAMAQ">xecamac</rs> vbi huyub
                     <lb n="9"/>xechap vi taxoc qui calem chiri
                     <lb n="10"/><rs ana="CHULIMAL">chulimal</rs> xbanvi
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="86">
+                <div type="textpart" subtype="paragraph" n="86">
                     <!-- <p xml:id="p85"> -->
                     <lb n="11" rend="indent"/>Va cute qui cobic qui chapic
                     <lb n="12"/>quetaxic puch huvinac ealel hu
@@ -5640,7 +5640,7 @@
                     <lb n="33"/>lel <rs ana="AJTZIK_WINAQ">ahꜩicvinac</rs> xelvi
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="87">
+                <div type="textpart" subtype="paragraph" n="87">
                     <!-- <p xml:id="p86"> -->
                     <lb n="34" rend="indent"/><hi rend="large">A</hi>recut xchicabÿhchic vbiro
                     <lb n="35"/>choch cabauil xavi xere xubi<pc> –</pc>
@@ -5703,7 +5703,7 @@
                     <lb n="44"/>are cut roqueh qui quxva
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="88">
+                <div type="textpart" subtype="paragraph" n="88">
                     <!-- <p xml:id="p87"> -->
                     <lb n="45" rend="indent"/><hi rend="large">A</hi>carroc atoob vquih, <rs ana="HURACAN">athu<pc> –</pc>
                     <lb n="46"/>racan</rs>, <rs ana="UK'U'X_KAJ_UK'U'X_ULEW">at vquxcah vleu</rs>, at ya<pc> –</pc>
@@ -5786,7 +5786,7 @@
                     <lb n="24"/>uab xchicabÿh chic.
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="89">
+                <div type="textpart" subtype="paragraph" n="89">
                     <!-- <p xml:id="p88"> -->
                     <lb n="25" rend="indent"/><hi rend="large">V</hi>ae cute vleel, vtazel aha<pc> –</pc>
                     <lb n="26"/>uarem chi ronohel quizaquiri<pc> –</pc>
@@ -5806,7 +5806,7 @@
                     <lb n="40"/>hunal ahauab quiche
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="list" n="90">
+                <div type="textpart" subtype="list" n="90">
                     <!-- <p> -->
                     <lb n="41" rend="indent"/><rs ana="BALAM_KI'TZE'"><hi rend="large">B</hi>alam quiꜩe</rs> vxe nabal <rs ana="KAWEQ">cavi
                     <lb n="42" rend="hanging"/>quib</rs>
@@ -5868,7 +5868,7 @@
                     <lb n="21"/>xel rumal <rs ana="TEKUM_TRECE">tecum</rs> <rs ana="TEPEPUL_TRECE">tepepul</rs>
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="91">
+                <div type="textpart" subtype="paragraph" n="91">
                     <!-- <p xml:id="p89"> -->
                     <lb n="22"/><hi rend="large">A</hi>recut vleel vtazel ahauarem
                     <lb n="23"/>ri ahau <rs ana="AJPOP">ahpop</rs> <rs ana="AJPOP_K'AMJA">ahpop camba</rs> chu<pc> –</pc>
@@ -5881,7 +5881,7 @@
                     <lb n="30"/>vbi e rahaual huhun chi nimha.
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="list" n="92">
+                <div type="textpart" subtype="list" n="92">
                     <!-- <p> -->
                     <lb n="31"/><hi rend="large">A</hi>hau ahpop hun vnimha cuhavbi
                     <lb n="32" rend="hanging" />nimha
@@ -5913,14 +5913,14 @@
                     <lb n="42"/><rs ana="YAKI_TEPEW"><hi rend="large">T</hi>epeu iaqui</rs> hun vnimha
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="93">
+                <div type="textpart" subtype="paragraph" n="93">
                     <!-- <p xml:id="p90"> -->
                     <lb n="43" rend="indent" /><hi rend="large">A</hi>re curi bele heb <rs ana="SAQIK">chinamit</rs> chi<pc> –</pc>
                     <lb n="44"/>cavi quib ꜩaꜩ ral vqahol ahilatal
                     <lb n="45"/>chirih beleheb chinim ha
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="94">
+                <div type="textpart" subtype="paragraph" n="94">
                     <!-- <p xml:id="p91"> -->
                     <lb n="46"/><hi rend="large">V</hi>acute rech <rs ana="NIJA'IB">nihaibab</rs> beleheb
                     <lb n="47"/>chivi chinimha are nabe xchica<pc> –</pc>
@@ -5930,7 +5930,7 @@
                     <lb n="3"/>quih vxe zac chivinac
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="list" n="95">
+                <div type="textpart" subtype="list" n="95">
                     <!-- <p> -->
                     <lb n="4"/><rs ana="BALAM_AQ'AB "><hi rend="large">B</hi>alam acab</rs> nabe mamaxel ca
                     <lb n="5" rend="hanging"/>hauixel.
@@ -5976,7 +5976,7 @@
                     <lb n="21"/>vacamic.
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="96">
+                <div type="textpart" subtype="paragraph" n="96">
                     <!-- <p xml:id="p92"> -->
                     <lb n="22" rend="indent"/><hi rend="large">A</hi>re curi chi ronobel ahavab
                     <lb n="22.1"/>elenac chirih ri <rs ana="AJAW_Q'ALEL">ahau ꜫalel</rs> are
@@ -5984,7 +5984,7 @@
                     <lb n="22.3"/>chinim ha.
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="list" n="97">
+                <div type="textpart" subtype="list" n="97">
                     <!-- <p> -->
                     <lb n="23"/><note place="margin-left" anchored="true"><hi rend="handwriting;color:pencil"><num>1</num></hi></note><rs ana="AJAW_Q'ALEL"><hi rend="large">A</hi>hau ꜫalel</rs> vnabe ahau chuva<pc> –</pc>
                     <lb n="24" rend="indent"/>ch <rs ana="NIJA'IB">nihaibab</rs> hun vnim ha.
@@ -6014,7 +6014,7 @@
                     <lb n="32"/><note place="margin-left" anchored="true"><hi rend="handwriting;color:pencil"><num>9</num></hi></note><rs ana="YAKOLATAM"><hi rend="large">Y</hi>acolatam</rs> hun vnim ha.
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="98">
+                <div type="textpart" subtype="paragraph" n="98">
                     <!-- <p xml:id="p93"> -->
                     <lb n="33" rend="indent"/><hi rend="large">A</hi>recut nim ha ri chuvach <rs ana="NIJA'IB">ni<pc> –</pc>
                     <lb n="34"/>haibab</rs> are vbinaam vi beleheb
@@ -6024,7 +6024,7 @@
                     <lb n="38"/>ri mi xcabÿ quibi.
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="99">
+                <div type="textpart" subtype="paragraph" n="99">
                     <!-- <p xml:id="p94"> -->
                     <lb n="39" rend="indent"/><hi rend="large">A</hi>re chicut rech <rs ana="AJAW_K'ICHE'">ahau qui che</rs>
                     <lb n="40"/>va vmam vcahau
@@ -6041,7 +6041,7 @@
                     <lb n="5"/><rs ana="WINAQ_BALAM_AKNUEVE">Vinac bam</rs>
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="100">
+                <div type="textpart" subtype="paragraph" n="100">
                     <!-- <p xml:id="p95"> -->
                     <lb n="6" rend="indent"/><hi rend="large">A</hi>recut ahauab ri chuvach
                     <lb n="7"/><rs ana="AJAW_K'ICHE'">ahau quiche</rs> are vleel vtazel
@@ -6050,7 +6050,7 @@
                     <lb n="10"/>ha.
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="list" n="101">
+                <div type="textpart" subtype="list" n="101">
                     <!-- <p> -->
                     <lb n="11"/><rs ana="AJAW_AJTZIK_WINAQ"><hi rend="large">A</hi>h ꜩic vinac ahau</rs> vbi nabeahau
                     <lb n="12" rend="indent"/>hun vnim ha
@@ -6064,7 +6064,7 @@
                     <lb n="19" rend="indent"/>chuvach <rs ana="AJAW_K'ICHE'">ahau quiche</rs>
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="102">
+                <div type="textpart" subtype="paragraph" n="102">
                     <!-- <p xml:id="p96"> -->
                     <lb n="20" rend="indent"/><hi rend="large">A</hi>re curi e oxib chinim chocoh
                     <lb n="21"/>queheri e cahauixel rumal ro<pc> –</pc>
@@ -6075,7 +6075,7 @@
                     <lb n="26"/>heic eoxib chichocohib
                     <!-- </p> -->
                 </div>
-                <div type="section" subtype="paragraph" n="103">
+                <div type="textpart" subtype="paragraph" n="103">
                     <!-- <p xml:id="p97"> -->
                     <lb n="27" rend="indent"/><hi rend="large">N</hi>im chocohcut chuvach <rs ana="NIJA'IB">nihaib</rs>
                     <lb n="28"/>vcab curi. <rs ana="AJAW_NIM_CH'OKOJ">nimchocoh ahau</rs> chuva<pc> –</pc>
