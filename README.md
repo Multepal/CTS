@@ -15,5 +15,5 @@ All these properties make CTS attractive as an approach to the presentation of l
 (Information TBA)
 
 ## How to help
-Check our wiki on how to understand proper CTS directory hierarchy and file formatting! Then, check out our main repo to see the progress on our main editions, and how to develop XSLT files using the information you know about CTS.
+Check our [wiki](https://github.com/Multepal/CTS/wiki) on how to understand proper CTS directory hierarchy and file formatting! Then, check out our main repo to see the progress on our main editions, and how to develop XSLT files using the information you know about CTS.
 
