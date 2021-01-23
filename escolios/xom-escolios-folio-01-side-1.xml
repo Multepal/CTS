@@ -4,20 +4,10 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title xml:lang="spa">Arte de las tres lenguas kakchiquel, quiché y tzutuhil, 
+                <title>Arte de las tres lenguas kakchiquel, quiché y tzutuhil, 
                 v.2 Popol vuh; and Escolios a la historia de el origen de los Indios.</title>
                 <author>Ximénez, Francisco</author>
-                <author xml:lang="quc">Nim CH'OKOJ k'ut chuwach Kaweqib' (gran maestro de la palabra ante los Kaweq)</author>
-                <author>chuwach Nija'ib', ukab' k'u ri' (gran maestro de la palabra ante los Nija'ib era el segundo)</author>
-                <author>Nim CH'OKOJ Ajaw chuwach Ajaw K'iche', rox Nim CH'OKOJ (gran maestro de la palabra era el tercer Señor ante los Ajaw K'iche)</author>
-                
-                <respStmt>
-                    <resp>Worked on transitioning the TEI paragraphs edition to be CTS–compliant</resp>
-                    <persName role="principal">Aldo Barriente</persName> 
-                    <persName role="editor">Allison Bigelow</persName>
-                    <persName role="editor">Rafael Alvarado</persName>
             </titleStmt>
-            
             <publicationStmt>
                 <publisher>The Newberry Library</publisher>
                 <pubPlace>Chicago, Illinois, USA</pubPlace>
