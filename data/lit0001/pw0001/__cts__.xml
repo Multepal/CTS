@@ -1,7 +1,7 @@
 <ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:mayaLit:lit0001" urn="urn:cts:mayaLit:lit0001.pw0001" xml:lang="quc">
   <ti:title xml:lang="quc">Popol Wuj</ti:title>
   
-  <ti:translation workUrn="urn:cts:mayaLit:lit0001.pw0001" urn="urn:cts:mayaLit:lit0001.pw0001.popolwuj-quc">        
+  <ti:translation workUrn="urn:cts:mayaLit:lit0001.pw0001" urn="urn:cts:mayaLit:lit0001.pw0001.popolwuj-quc" xml:lang="quc">        
     <ti:label xml:lang="quc">Popol Vuh</ti:label>
     <ti:description xml:lang="eng">Ximenez copy, K'iche' column</ti:description>
    </ti:translation>         
