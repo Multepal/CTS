@@ -72,14 +72,11 @@
         <body xml:lang="spa" n="urn:cts:mayaLit:lit0001.pw0001.popolwuj-spa">  
             <div type="translation">
                 <p n="1">
-                    <!-- <p corresp="#p01">         -->
                     <pb corresp="xom-f01-s1"/>
                     <lb n="1"/><hi rend="very-large">ESTE ES EL PRINCIPIO DE LAS</hi><note place="margin-right" type="pagination" anchored="true"><num rend="large">1</num></note>
                     <lb n="2" rend="indent"/>antiguas historias aqui en el quiche.
-                    <!-- </p> -->
                  </p>
                 <p n="2">
-                    <!-- <p corresp="#p02"> -->
                     <lb n="3" rend="indent"/><hi rend="large">A</hi>quí escribiremos y empezaremos las
                     <lb n="4"/>antiguas historias, su principio, y comien<pc> –</pc>
                     <lb n="5"/>zo de todo lo <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> fue hecho en <rs ana="TINAMIT_K'ICHE'">el pueblo de
@@ -127,19 +124,15 @@
                     <pb corresp="xom-f01-s2"/>
                     <lb n="1"/>tendedor detodahermosur a <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>ay en el zielo, ti<pc> –</pc>
                     <lb n="2"/>erra, lagunas y mar.
-                    <!-- </p> -->
                 </p>
                 <p n="3">
-                    <!-- <p corresp="#p03"> -->
                     <lb n="3" rend="center"/><hi rend="large">ESTE ES SV SER DICHO QVANDO</hi>
                     <lb n="4" rend="center"/>estaba en suspenso, en calma, en silenzío, sin
                     <lb n="5" rend="center"/>moverse, sin cosa sino vazío el zielo.
                     <lb />
                     <lb />
-                    <!-- </p> -->
                 </p>
                 <p n="4">
-                    <!-- <p corresp="#p04"> -->
                     <lb n="6"/><hi rend="large">I</hi> esta es la primera palabra, y eloquençía.
                     <lb n="7"/>aun no avía hombres, animales, pajaros, pes<pc> –</pc>
                     <lb n="8"/>cado, cangrejo, palo, piedra, hoyo, varran<pc> –</pc>
@@ -163,10 +156,9 @@
                     <lb n="26"/>eso esta el zielo, y ay tambien su <rs ana="UK'U'X_KAJ">corazon
                     <lb n="27"/>de el zielo</rs>, este es su nombre <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>se le dize
                     <lb n="28"/>a aquel ídolo.
-                    <!-- </p> -->
                 </p>
                 <p n="5">
-                    <!-- <p corresp="#p05"> -->
+                    
                     <lb n="29" rend="indent"/><hi>Y</hi> entonzes vino aquí su palabra, víno
                     <lb n="30"/>con los <choice><abbr>S<hi rend="superscript">es.</hi></abbr><expan instant="false">Señores</expan></choice><rs ana="TEPEW_Q'UKUMATZ">tepeu, gucumaꜩ</rs> aquí en obs<pc> –</pc>
                     <lb n="31"/>curidad, en la noche, y abló con <rs ana="TEPEW_Q'UKUMATZ">tepeu
@@ -234,10 +226,10 @@
                     <lb />
                     <lb />
                     <lb />
-                    <!-- </p> -->
+                    
                 </p>
                 <p n="6">
-                    <!-- <p corresp="#p06"> -->
+                    
                     <pb corresp="xom-f02-s2"/>
                     <lb/>
                     <lb n="1"/><hi rend="large">Y</hi> despues discurrieron los animales de el mon<corr><pc> –</pc></corr>
@@ -271,10 +263,10 @@
                     <lb />
                     <lb />
                     <lb />
-                    <!-- </p> -->
+                    
                 </p>
                 <p n="7">
-                    <!-- <p corresp="#p07"> -->
+                    
                     <lb n="28"/><hi rend="large">E</hi>ntonzes seles dixo otra vez por <rs ana="TZ'AQOL">el criador</rs>
                     <lb n="29"/>y <rs ana="BITOL">formador</rs> alos venados, y alas aves: ha
                     <lb n="30"/>blad, gritad, nohagaís íol, íol. no gríteís.
@@ -377,10 +369,10 @@
                     <lb />
                     <lb />
                     <lb />
-                    <!-- </p> -->
+                    
                 </p>
                 <p n="8">
-                    <!-- <p corresp="#p08"> -->
+                    
                     <lb n="32"/>y díxeron aquel <rs ana="JUN_RAQAN">huracan</rs>, con <rs ana="TEPEW_Q'UKUMATZ">tepeu
                     <lb n="33"/>y gucumaꜩ</rs> <choice><abbr>q<hi rend="superscript">o</hi></abbr><expan instant="false">cuando</expan></choice> ledixeron al de el sol, o
                     <lb n="34"/>adivino, al formador adívíno alcan<pc> –</pc>
@@ -462,10 +454,10 @@
                     <lb />
                     <lb />
                     <lb />
-                    <!-- </p> -->
+                    
                 </p>
                 <p n="9">                
-                    <!-- <p corresp="#p09"> -->
+                    
                     <lb n="12"/>y despues fueron acabados, y destruídos, y
                     <lb n="13"/>muertos, todos estos hombres de palo.
                     <lb n="14"/>fue embiado consultado por <rs ana="UK'U'X_KAJ">el corazon de
@@ -563,10 +555,10 @@
                     <lb/>
                     <lb/>
                     <lb/>
-                    <!-- </p> -->
+                    
                 </p>
                 <p n="10">
-                    <!-- <p corresp="#p10"> -->
+                    
                     <lb n="10" rend="indent"/>Y entonzes avía poca clarídad sobre
                     <lb n="11"/>la haz de la tíerra, y aun no auía sol. y en<corr instant="false"><pc> –</pc></corr>
                     <lb n="12"/>tonzes vno llamado <rs ana="WUQUB_KAKIX">vvcub caquix</rs>. (esto es 
@@ -614,10 +606,10 @@
                     <lb n="11"/>criador</rs>.
                     <lb/>
                     <lb/>
-                    <!-- </p> -->
+                    
                 </p>
                 <p n="11">
-                    <!-- <p corresp="#p11"> -->
+                    
                     <lb n="12"/>Esta es, o fue la causa, de la destruccíon de
                     <lb n="13"/><rs ana="WUQUB_KAKIX">vvcubcaquix</rs> por <rs ana="KA'IB_K'AJOLAB">los dos muchachos</rs>, <rs ana="JUNAJPU">hun
                     <lb n="14"/>ahpu</rs>, así se llamaba el vno (vn tirador) y
@@ -673,18 +665,18 @@
                     <lb/>
                     <lb/>
                     <lb/>
-                    <!-- </p> -->
+                    
                 </p>
                 <p n="12">
-                    <!-- <p corresp="#p11.5"> -->
+                    
                     <note resp="editor">THIS PARAGRAPH IS NOT SIGNIFIED IN THE QUC </note>
                     <note resp="editor">Note also that it serves as a header </note>
                     <lb n="18"/>y aquí sesigue el dezir el vodocazo <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> los
                     <lb n="19"/><rs ana="KA'IB_K'AJOLAB">dos muchachos</rs> díeron a <rs ana="WUQUB_KAKIX">vvcub caquíx</rs>, y
                     <lb n="20"/>como cada vno fue destruído por su sober<corr><pc> –</pc></corr>
                     <lb n="21"/>bía.
-                    <!-- </p> -->
-                    <!-- <p corresp="#p12"> -->
+                    
+                    
                     <lb n="22"/>Este <rs ana="WUQUB_KAKIX">vvcubcaquíx</rs> tená vn palo, o arbol
                     <lb n="23"/>de nanses <choice><abbr>porq’</abbr><expan instant="false">porque</expan></choice> esta era slo sucomída
                     <lb n="24"/>y todos los días se subía al arbol de nanses
@@ -846,10 +838,10 @@
                     <lb />
                     <lb />
                     <lb />
-                    <!-- </p> -->
+                    
                 </p>
                 <p n="13">
-                    <!-- <p corresp="#p13"> -->
+                    
                     <lb n="25"/>y aquívan las obras de <rs ana="SIPAKNA">zípacna</rs>, el primer
                     <lb n="26"/>hijo de <rs ana="WUQUB_KAKIX">vvcubcaquíx</rs>. yo soy el hazedor de
                     <lb n="27"/>los montes dize <rs ana="SIPAKNA">zípacna</rs>. y este <rs ana="SIPAKNA">zípacna</rs>
@@ -989,10 +981,10 @@
                     <lb />
                     <lb />
                     <lb />
-                    <!-- </p> -->
+                    
                 </p>
                 <p n="14">
-                    <!-- <p corresp="#p14"> -->
+                    
                     <lb n="27"/><hi>A</hi> quí sígue como fue venzído, y muerto 
                     <lb n="28"/><rs ana="SIPAKNA">zípacna</rs>, y <choice><abbr>qo</abbr><expan instant="false">quando</expan></choice> otra vez fue venzido por los <rs ana="KA'IB_K'AJOLAB">dos 
                     <lb n="29"/>muchachos</rs>, <rs ana="JUNAJPU">hun ahpu</rs>, <rs ana="XBALAMKE">xbalanque</rs>. y esto les<pc> –</pc>
@@ -1092,10 +1084,10 @@
                     <lb />
                     <lb />
                     <lb />
-                    <!-- </p> -->
+                    
                 </p>
                 <p n="15">
-                    <!-- <p corresp="#p15"> -->
+                    
                     <lb n="31"/><hi>I</hi> el terzero <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> seensoberbezío <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>era elsegundo
                     <lb n="32"/>hijo de <rs ana="WUQUB_KAKIX">vvcubcaquíx</rs> <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>sellamaba <rs ana="KABRAQAN">cabra<pc> –</pc>
                     <lb n="33"/>can</rs> (esto es de dos píernas) dezía yosoy el
@@ -1212,9 +1204,9 @@
                     <lb n="7"/>do <rs ana="KABRAQAN">cabraran</rs> por solos <rs ana="JUNAJPU">hunahpu</rs>, y <rs ana="XBALAMKE">xba<pc> –</pc>
                     <lb n="8"/>lanque</rs>. no esposible contra las obras de <note place="margin-right" type="scribble" anchored="true">Susl   cxxtipmm<lb/>Q smllmnnnltan<lb/>Sp <num rend="large">3</num><hi rend="small">er</hi><num rend="large">21</num>.</note>
                     <lb n="9"/>estos <rs ana="KA'IB_K'AJOLAB">muchachos</rs> aquí en la tíerra.               
-                    <!-- </p> -->
+                    
                     <note resp="editor">ANOTHER PARAGRAPH NOT IN THE QUC </note>
-                    <!-- <p corresp="#p15b"> -->
+                    
                     <lb n="10"/>Agora díremos el nazímíento de estos
                     <lb n="11"/>dos <rs ana="JUNAJPU">hunahpu</rs>, y <rs ana="XBALAMKE">xbalanque</rs> y agora
                     <lb n="12"/>prímeramente contamos solo el auer
@@ -1224,10 +1216,10 @@
                     <lb/>
                     <lb/>
                     <lb/>
-                    <!-- </p> -->
+                    
                 </p>
                 <p n="16">
-                    <!-- <p corresp="#p16a"> -->
+                    
                     <lb n="15"/>Y agora díremos el nombre de el <choice><abbr>Pe.</abbr><expan instant="false">Padre.</expan></choice> de
                     <lb n="16"/><rs ana="JUNAJPU">hun ahpu</rs> y <rs ana="XBALAMKE">xbalanque</rs> muy obscuro
                     <lb n="17"/>fue su prinzípío y muy obscuro lo<choice><abbr>q’</abbr><expan instant="false">que</expan></choice>se
@@ -1235,10 +1227,10 @@
                     <lb n="19"/>balanque</rs>, y así solo díremos lamítad
                     <lb n="20"/>de lo <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>ay <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>dezír de su <choice><abbr type="superscription">Pe</abbr><expan instant="false">Padre</expan></choice>.
                     <lb/>
-                    <!-- </p> -->
+                    
                 </p>
                 <p n="17">
-                    <!-- <p> -->
+                    
                     <lb n="21"/><hi rend="large">Y</hi>aquesto eslo<choice><abbr>q’</abbr><expan instant="false">que</expan></choice> se parla el nombre de
                     <lb n="22"/>sus <choice><abbr>Pes.</abbr><expan instant="false">Padres.</expan></choice> de ellos es <rs ana="JUN_JUNAJPU">hunhunahpu</rs> (esto es
                     <lb n="23"/>cada vn tírador de ceruatana) y así son
@@ -1345,10 +1337,10 @@
                     <lb/>
                     <lb/>
                     <lb/>
-                    <!-- </p> -->
+                    
                 </p>
                 <p n="18">
-                    <!-- <p corresp="#p18"> -->
+                    
                     <lb n="31"/>Y luego fue la venida delos mensage<pc> –</pc>
                     <lb n="32"/>ros de <rs ana="JUN_KAME">hun came</rs>, y <rs ana="WUQUB_KAME">vvcubcame</rs>. andad
                     <lb n="33"/>les díxeron vosotros señores prícípa<pc> –</pc>
@@ -1418,10 +1410,10 @@
                     <lb n="4"/>tros vamos no moríremos y entonzes se
                     <lb n="5"/>fueron <rs ana="JUN_JUNAJPU">hun hunahpu</rs>, y <rs ana="WUQUB_JUNAJPU">vvcub hunah<pc> –</pc>
                     <lb n="6"/>pu</rs>.
-                    <!-- </p> -->
+                    
                 </p>
                 <p n="19">
-                    <!-- <p corresp="#p19"> -->
+                    
                     <lb n="7"/><hi>Y</hi> luego <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>se fueron <rs ana="JUN_JUNAJPU">hunhunahpu</rs>, y <rs ana="WUQUB_JUNAJPU">vv<pc> –</pc>
                     <lb n="8"/>cub hunahpu</rs>, tomaron la delantera los
                     <lb n="9"/>mensageros, y luego baxaron por el
@@ -1478,8 +1470,8 @@
                     <lb n="12"/>les salían los huesos atodos <rs ana="RAJAWAL_XIBALBA">los <choice><abbr>SSes</abbr><expan instant="false">Señores</expan></choice>. de
                     <lb n="13"/>elínfíerno</rs> de ríssa.
                     <lb/>
-                    <!-- </p> -->
-                    <!-- <p corresp="#p19.1"> -->
+                    
+                    
                     <lb n="14"/>ea andad les dixeron a aquella casa
                     <lb n="15"/><choice><abbr>q’</abbr><expan instant="false">que</expan></choice>allí seos llevara vuestro ocote. ylu<pc> –</pc>
                     <lb n="16"/>ego se fueron ala <rs ana="Q'EQUMA_JA" type="toponym">casa de la obscuridad</rs>
@@ -1494,8 +1486,8 @@
                     <lb n="25"/>llama zaquítoc (agura punzadera)
                     <lb n="26"/>y estaba puntiagudo, y aguzado el
                     <lb n="27"/>ocote.
-                    <!-- </p> -->
-                    <!-- <p corresp="#p19.2"> -->
+                    
+                    
                     <lb n="28"/>y era muy duro elocote de<rs ana="RAJAWAL_XIBALBA">los de el ín<pc> –</pc>
                     <lb n="29"/>fierno</rs>. y entraron <rs ana="JUN_JUNAJPU">hunhunahpu</rs>, y <rs ana="WUQUB_JUNAJPU">v<pc> –</pc>
                     <lb n="30"/>vcubhun ahpu</rs> dentro de aquella <rs ana="Q'EQUMA_JA">obs<pc> –</pc>
@@ -1582,17 +1574,17 @@
                     <lb n="13"/>vna mesma cosa con las hícaras. y esta ma<pc> –</pc>
                     <lb n="14"/>rabilla la oyó una <rs ana="IXKIK'">donzella</rs>. agora dire
                     <lb n="15"/>mos como fue alla.
-                    <!-- </p> -->
+                    
                 </p>
                 <p n="20">
-                    <!-- <p corresp="#p20"> -->
+                    
                     <lb n="16"/>Aquí se trata de vna <rs ana="IXKIK'">donzella</rs> hija de
                     <lb n="17"/>un <choice><abbr>Sor.</abbr><expan instant="false">Señor</expan></choice> <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>se llama <rs ana="KUCHUMA_KIK'">cuchumaquíc</rs>.
                     <lb/>
-                    <!-- </p> -->
+                    
                 </p>
                 <p n="21">
-                    <!-- <p corresp="#p21"> -->
+                    
                     <lb n="18"/>Oyendo pues vna <rs ana="IXKIK'">donzella</rs> híja de
                     <lb n="19"/>un <choice><abbr>Sor.</abbr><expan instant="false">Señor</expan></choice> <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>se llamaba <rs ana="KUCHUMA_KIK'">cuchumaquic</rs>, y ella
                     <lb n="20"/><rs ana="IXKIK'">xquíc</rs>. (sangre) la conversion de su
@@ -1659,10 +1651,10 @@
                     <lb/>
                     <lb/>
                     <lb/>
-                    <!-- </p> -->
+                    
                 </p>
                 <p n="22">
-                    <!-- <p corresp="#p22"> -->
+                    
                     <lb n="31" rend="indent"/><hi rend="large">Y</hi> luego <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> fue sentido el preñez por
                     <lb n="32"/>su <choice><abbr type="superscription">Pe.</abbr><expan instant="false">Padre</expan></choice> de la <rs ana="IXKIK'">la donzella</rs> y <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> tenía híjo.
                     <lb n="33"/>se juntaron acabildo los <choice><abbr type="superscription">SSes.</abbr><expan instant="false">Señores</expan></choice> <rs ana="JUN_KAME">hun
@@ -1758,10 +1750,10 @@
                     <lb n="27"/>con aquella aparíencía fueron deslum<pc> –</pc>
                     <lb n="28"/>brados todos.
                     <lb/>
-                    <!-- </p> -->
+                    
                 </p>
                 <p n="23">
-                    <!-- <p corresp="#p23"> -->
+                    
                     <lb n="29" rend="indent"/><hi rend="large">Y</hi>estaba la madre de <rs ana="JUN_BATZ'">hun baꜩ</rs>, y <rs ana="JUN_CHOWEN">huncho<pc> –</pc>
                     <lb n="31"/>uen</rs> quando llego la mugger <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> se llamaba
                     <lb n="32"/>xquíc. entonçes llego la mugger llamada
@@ -1842,16 +1834,16 @@
                     <lb n="6"/>vere tus obras, de los <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> tíenes <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> son sabíos le
                     <lb n="7"/>fue dícho a<rs ana="IXKIK'">la donçella</rs>
                     <lb/>
-                    <!-- </p> -->
+                    
                 </p>
                 <p n="24">
-                    <!-- <p corresp="#p24"> -->
+                    
                     <lb n="8"/><hi rend="large">A</hi>quí escrbíbíremos el naçímíento, de
                     <lb n="9"/><rs ana="JUNAJPU">hun ahpu</rs>, <hi rend="bold">y</hi> de <rs ana="XBALAMKE">xbalaque</rs>
-                    <!-- </p> -->
+                    
                 </p>
                 <p n="25">
-                    <!-- <p corresp="#p25"> -->
+                    
                     <lb n="10"/>y así fue el nacímíento de ellos <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> díremos.
                     <lb n="11"/>quando ya estaua justo el tíempo de nacer
                     <lb n="12"/>nacíeron de <rs ana="IXKIK'">la donçella</rs>, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> se llamaba, <rs ana="IXKIK'">x<pc> –</pc>
@@ -1983,11 +1975,11 @@
                     <lb n="39"/>bad fortuna. y luego empezaron á to<pc> –</pc>
                     <lb n="40"/>car flautas, y tocaron el son de <rs ana="JUNAJPU">hun
                     <lb n="41"/>ahpu</rs> míco.
-                    <!-- </p> -->
+                    
                     <lb/>
                 </p>
                 <p n="26">
-                    <!-- <p corresp="#p26"> -->
+                    
                     <lb n="42"/>y luego cantaron, y tocaron las flautas, y
                     <lb n="43"/>el atambor, quando tomaron las fla<pc> –</pc>
                     <lb n="44"/>utas, y sus atambores, y asentaron a <rs ana="IXMUKANE">la ví<pc> –</pc>
@@ -2063,10 +2055,10 @@
                     <lb n="11"/>tocadores de flautas, y cantores, e híçíeron
                     <lb n="12"/>grandes cosas estos quando estuuíeron con
                     <lb n="13"/>su <choice><abbr type="superscription"><rs ana="IXBAQIYALO">Me.</rs></abbr><expan instant="false">Madre</expan></choice> y<rs ana="IXMUKANE">abuela</rs>
-                    <!-- </p> -->
+                    
                 </p>
                 <p n="27">
-                    <!-- <p corresp="#p27"> -->
+                    
                     <lb n="14"/>y quando empezaron sus obras, y amanífestar
                     <lb n="15"/>se ante <rs ana="IXMUKANE">su abuela</rs>, y <rs ana="IXKIK'">su madre</rs>, lo prímero tra<pc> –</pc>
                     <lb n="16"/>taron de haçer mílpa. nosotros sembraremos
@@ -2222,10 +2214,10 @@
                     <lb n="19"/>consultaron <rs ana="JUNAJPU">hun ahpu</rs>, y <rs ana="XBALAMKE">xbalanque</rs>, y lle<pc> –</pc>
                     <lb n="20"/>garon al medío día. 
                     <lb/>
-                    <!-- </p> -->
+                    
                 </p>
                 <p n="28">
-                    <!-- <p corresp="#p28"> -->
+                    
                     <lb n="21"/>y el raton lo traían oculto, y llegando el vno
                     <lb n="22"/>entro derecho en casa, y el otro ala esquína
                     <lb n="23"/>y luego al punto levanto en alto al raton
@@ -2268,10 +2260,10 @@
                     <lb n="13"/>bíeron otra vez, <rs ana="KA'IB_K'AJOLAB">ellos</rs> delante de<rs ana="IXMUKANE">su abuela</rs>
                     <lb n="14"/>y así fue el hallazgo deel vle. 
                     <lb/>
-                    <!-- </p> -->
+                    
                 </p>
                 <p n="29">
-                    <!-- <p corresp="#p29"> -->
+                    
                     <lb n="15"/>yellos muy alegres se fueron a jugar á
                     <lb n="16"/>la pelota al cementerío, y estaba muy
                     <lb n="17"/>lexos donde fueron a jugar <rs ana="KA'IB_K'AJOLAB">ellos</rs> solos.
@@ -2361,10 +2353,10 @@
                     <lb n="1"/>andose, y enllagando el <rs ana="PAJARO">vac</rs>, canto <rs ana="PAJARO">vac</rs> go
                     <lb n="2"/><rs ana="PAJARO">vac</rs> go. dixo su canto. (esto áquí eata el
                     <lb n="3"/><rs ana="PAJARO">vac</rs> y díxeron: <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> canto es este? vengá las ceruatanas.
-                    <!-- </p> -->
+                    
                 </p>
                 <p n="30">
-                    <!-- <p corresp="#p30"> -->
+                    
                     <lb n="4"/>y luego tírandole con la zeruatana al <rs ana="PAJARO">vac</rs>
                     <lb n="5"/>fue el vodo que derecho, y le dío en la níña
                     <lb n="6"/>deel ojo, y dando bueltas cayo, y luego lo<pc> –</pc>
@@ -2420,10 +2412,10 @@
                     <lb n="8"/>víníeron, y llegaron con <rs ana="IXMUKANE">su abuela</rs>, y so<pc> –</pc>
                     <lb n="9"/>lo fueron a auísarle a<rs ana="IXMUKANE">su abuela</rs>.
                     <lb/>
-                    <!-- </p> -->
+                    
                 </p>
                 <p n="31">
-                    <!-- <p corresp="#p31"> -->
+                    
                     <lb n="10"/>Nosotros vamos, <choice><abbr type="superscription">Sa</abbr><expan instant="false">Señora</expan></choice> y solo á auísaros vení<pc> –</pc>
                     <lb n="11"/>mos, y esta señal os dexamos de nuestra pa<pc> –</pc>
                     <lb n="12"/>labra, cada vno de nosotros sembraremos
@@ -2741,10 +2733,10 @@
                     <lb n="18"/>ala mañana auían de jugar otra
                     <lb n="19"/>vez. esta bíen díxeron los <rs ana="KA'IB_K'AJOLAB">los gémelos divinos</rs>
                     <lb n="20"/>quando dexaron el juego.
-                    <!-- </p> -->
+                    
                 </p>
                 <p n="32">
-                    <!-- <p corresp="#p32"> -->
+                    
                     <lb n="21"/>y entraron en <rs ana="XUXULIM_JA">la casa de el frío</rs>, no era sufrí<pc> –</pc>
                     <lb n="22"/>ble el frío, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> en ella auía, y el yelo <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> auía
                     <lb n="23"/>en ella, en <rs ana="XUXULIM_JA">la casa de el frío</rs>, y luego se
@@ -2761,10 +2753,10 @@
                     <lb n="34"/>los prodígíos de, y de
                     <lb n="35"/><rs ana="XBALAMKE">xbalanque</rs>.
                     <lb/>
-                    <!-- </p> -->
+                    
                 </p>
                 <p n="33">
-                    <!-- <p corresp="#p33"> -->
+                    
                     <lb n="36"/>y luego entraron en <rs ana="BALAM_JA">la casa de los tí<pc> –</pc>
                     <lb n="37"/>gres</rs>, no eran constables los <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> auía en
                     <lb n="38"/>la casa. no nos mordaís, les díxeron ay
@@ -2785,10 +2777,10 @@
                     <lb n="4"/><rs ana="RAJAWAL_XIBALBA">los de el ínfíerno</rs>: <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> genero de hombres
                     <lb n="5"/>soys, de adonde venístís?
                     <lb/>
-                    <!-- </p> -->
+                    
                 </p>
                 <p n="34">
-                    <!-- <p corresp="#p34"> -->
+                    
                     <lb n="6"/>yluego los metíeron en una <rs ana="JA_CHI_Q'AQ'">casa de
                     <lb n="7"/>fuego</rs>, donde solo auía fuego, y no fu<pc> –</pc>
                     <lb n="8"/>eron abrasados por el fuego, síno <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> her<pc> –</pc>
@@ -2798,10 +2790,10 @@
                     <lb n="12"/>jaron así mesmo. y con esto estaban
                     <lb n="13"/>desesperados <rs ana="RAJAWAL_XIBALBA">los de el ínfíerno</rs>
                     <lb/>
-                    <!-- </p> -->
+                    
                 </p>
                 <p n="35">
-                    <!-- <p corresp="#p35"> -->
+                    
                     <lb n="14"/>y luego otra vez en <rs ana="SOTZ'I_JA">la casa de los mu<pc> –</pc>
                     <lb n="15"/>rçíelagos</rs>, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> no auía mas <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> murçíe<pc> –</pc>
                     <lb n="16"/>lagos dentro, vna casa de murçíe<pc> –</pc>
@@ -2901,10 +2893,10 @@
                     <lb/>
                     <lb/>
                     <lb/>
-                    <!-- </p> -->
+                    
                 </p>
                 <p n="36">
-                    <!-- <p corresp="#p36"> -->
+                    
                     <lb n="13"/>y echando la pelota estaba la cabe<pc> –</pc>
                     <lb n="14"/>ça de <rs ana="JUNAJPU">hun ahpu</rs> en el çementerío. ya
                     <lb n="15"/>fueron ganados, yase hízo, ya te díste
@@ -2952,11 +2944,11 @@
                     <lb n="12"/>pu</rs>, y <rs ana="XBALAMKE">xbalanque</rs>. y <choice><abbr>aunq’</abbr><expan instant="false">aunque</expan></choice> estuuí<pc> –</pc>
                     <lb n="13"/>eron en gran trabaxo, no muríeron
                     <lb n="14"/>con todo lo <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> con ellos híçíeron.
-                    <!-- </p> -->
+                    
                     <lb/>
                 </p>
                 <p n="37">
-                    <!-- <p corresp="#p37"> -->
+                    
                     <lb n="15"/>y agora díremos aquí la memoría de
                     <lb n="16"/>la muerte de <rs ana="JUNAJPU">hun ahpu</rs>, y <rs ana="XBALAMKE">xbalanque</rs>
                     <lb n="17"/>y del modo <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>muríeron.
@@ -3047,10 +3039,10 @@
                     <lb n="4"/><choice><abbr>q’</abbr><expan instant="false">que</expan></choice>luego se fueron a fondo, y fueron
                     <lb n="5"/>convertidos en <rs ana="KA'IB_K'AJOLAB">dos hermosos mançe<pc> –</pc>
                     <lb n="6"/>bos</rs>, y se manífestaron otrauez.
-                    <!-- </p> -->
+                    
                 </p>
                 <p n="38">
-                    <!-- <p corresp="#p38"> -->
+                    
                     <lb n="7"/>y al quinto día se manifestaron otra
                     <lb n="8"/>vez, y fueron vístos en el agua por la
                     <lb n="9"/>gente a dos, así como pescado hombre
@@ -3076,10 +3068,10 @@
                     <lb n="29"/>go se resuçítaba, y estaban emboba<pc> –</pc>
                     <lb n="30"/>dos todos <rs ana="RAJAWAL_XIBALBA">los de el ínfíerno</rs>. y díeron prín
                     <lb n="31"/>cípío a ganar, y vençer a <rs ana="RAJAWAL_XIBALBA">los deel ínfíer</rs>.
-                    <!-- </p> -->
+                    
                 </p>
                 <p n="39">
-                    <!-- <p corresp="#p39"> -->
+                    
                     <lb n="32"/>yluego <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>llegó lanotiçía a los oydos
                     <lb n="33"/>de <rs ana="RAJAWAL_XIBALBA">los deel ínfíerno</rs> desuvalle, a <rs ana="JUN_KAME">hun
                     <lb n="34"/>came</rs>, y <rs ana="WUQUB_KAME">vucub came</rs>, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>dos pobres
@@ -3119,10 +3111,10 @@
                     <lb n="17"/>ellos venían, y fueron entonçes an
                     <lb n="18"/>te ante <rs ana="RAJAWAL_XIBALBA">los Señores</rs>.
                     <lb />
-                    <!-- </p> -->
+                    
                 </p>
                 <p n="40">
-                    <!-- <p corresp="#p40"> -->
+                    
                     <lb n="19"/>y llegaron delante de<rs ana="RAJAWAL_XIBALBA">los Señores</rs>
                     <lb n="20"/>eíban trístes, cabízbaxos, y así lle
                     <lb n="21"/>garon, y se humíllaron, y híçíeron
@@ -3208,11 +3200,11 @@
                     <lb n="3"/><rs ana="RAJAWAL_XIBALBA">los <choice><abbr>SSes</abbr><expan instant="false">Señores</expan></choice></rs>. y esto haçían para alegrar a
                     <lb n="4"/><rs ana="JUN_KAME">hun came</rs>, y <rs ana="WUQUB_KAME">vucub came</rs>, y así como
                     <lb n="5"/>sí baílasen sentían elgozo.
-                    <!-- </p> -->
+                    
                     <lb />
                 </p>
                 <p n="41">
-                    <!-- <p corresp="#p41"> -->
+                    
                     <lb n="6"/>y luego les vino en deseo su desespera
                     <lb n="7"/>çíon a<rs ana="RAJAWAL_XIBALBA">los <choice><abbr>SSes</abbr><expan instant="false">Señores</expan></choice></rs>. de este subaíle deellos,
                     <lb n="8"/>de <rs ana="JUNAJPU">hun ahpu</rs>, y <rs ana="XBALAMKE">xbalanque</rs> y entonçes
@@ -3259,10 +3251,10 @@
                     <lb n="2"/>çían esto. y luego díxeron sus nombres
                     <lb n="3"/>y se alabaron ante todo <rs ana="RAJAWAL_XIBALBA">los de el ín<pc> –</pc>
                     <lb n="4"/>fíerno</rs>.
-                    <!-- </p> -->
+                    
                 </p>
                 <p n="42">
-                    <!-- <p corresp="#p42"> -->
+                    
                     <lb n="5"/>oíd díremos nuestros nombres, ydí<pc> –</pc>
                     <lb n="6"/>remos tambíen los nombres de nuestros
                     <lb n="7"/>padres a vosotros. nosotros somos <rs ana="JUNAJPU">xhun<pc> –</pc>
@@ -3351,10 +3343,10 @@
                     <lb n="38"/>ras de <rs ana="RAJAWAL_XIBALBA">los de el ínfíerno</rs>. y hablaronotra
                     <lb n="39"/>vez asus <choice><abbr>P<hi rend="superscript">es</hi></abbr><expan instant="false">Padres</expan></choice> sus híjos, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>vençíeron a <rs ana="RAJAWAL_XIBALBA">los de
                     <lb n="40"/>el ínfíerno</rs>.
-                    <!-- </p> -->
+                    
                 </p>
                 <p n="43">
-                    <!-- <p corresp="#p43"> -->
+                    
                     <lb n="41"/>y esta fue su adjuntadura con sus <choice><abbr>P<hi rend="superscript">es</hi></abbr><expan instant="false">Padres</expan></choice>
                     <lb n="42"/>por ellos. y hallaronlos el <rs ana="JUNAJPU">hunahpu</rs> alla
                     <lb n="43"/>en el <rs ana="PUSBAL_CHAAJ">zenízero</rs>, alla lo fue a halllar, adon
@@ -3387,10 +3379,10 @@
                     <lb n="22"/>na</rs>. y estos fueron compañeros suyos
                     <lb n="23"/>y fueron hechos las estrellas de el
                     <lb n="24"/>çíelo.
-                    <!-- </p> -->
+                    
                 </p>
                 <p n="44">
-                    <!-- <p corresp="#p44"> -->
+                    
                     <lb n="25"/>y aquí empíeza quando se díspuso ha<pc> –</pc>
                     <lb n="26"/>çer al hombre, y el buscar cosa <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>fuese
                     <lb n="27"/>carne de el hombre y díxeron los <rs ana="TZ'AQOL">cría
@@ -3409,16 +3401,16 @@
                     <lb n="40"/><choice><abbr>q’</abbr><expan instant="false">que</expan></choice>fuese carne de el hombre y faltaba
                     <lb n="41"/>ya poco para<choice><abbr>q’</abbr><expan instant="false">que</expan></choice> amaneçíese el sol, luna
                     <lb n="42"/>y estrellas, sobre los formadores.
-                    <!-- </p> -->
+                    
                 </p>
                 <p n="45">
-                    <!-- <p corresp="#p45"> -->
+                    
                     <lb n="43"/>De <rs ana="PAXIL">paxíl</rs>, y de <rs ana="K'AYALA'">cayala</rs> <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>así sellamaba; víní<pc> –</pc>
                     <lb n="44"/>ron las maçorcas amarillas, y blancas.
-                    <!-- </p> -->
+                    
                 </p>
                 <p n="46">
-                    <!-- <p corresp="#p46"> -->
+                    
                     <lb n="45"/>y estos eran los nombres de los animales <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>tra<pc> –</pc>
                     <lb n="46"/>geron la comida. el gato de monte, el lobo,
                     <lb n="47"/>el chocoy. y el cueruo. estos quarto animales
@@ -3457,20 +3449,20 @@
                     <lb n="28"/>nas de los hombres, nuestros prímeros <choice><abbr>P<hi rend="superscript">es</hi></abbr><expan instant="false">adres</expan></choice> <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>
                     <lb n="29"/>fueron quarto los críados, y solo coída fue
                     <lb n="30"/>su carne de ellos.
-                    <!-- </p> -->
+                    
                 </p>
                 <p n="47">
-                    <!-- <p corresp="#p47"> -->
+                    
                     <lb n="31"/>Estos fueron los nombres de los prime<pc> –</pc>
                     <lb n="32"/>ros hombres <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>fueron formados, el primer
                     <lb n="33"/>hombre se llamaba: <rs ana="BALAM_KI'TZE'">Balam quíꜩe</rs>. elsegun
                     <lb n="34"/>do: <rs ana="BALAM_AQ'AB">Balam acab</rs>. el tercero <rs ana="MAJUK'UTAJ">Mahucutah</rs>. y
                     <lb n="35"/>el quarto <rs ana="IK'I_BALAM">íquíbalam</rs>. y estos son los nom<pc> –</pc>
                     <lb n="36"/>bres de nuestros prímeros Padres, y Mad<choice><abbr type="superscription">es</abbr><expan instant="false">res</expan></choice>
-                    <!-- </p> -->
+                    
                 </p>
                 <p n="48">
-                    <!-- <p corresp="#p48"> -->
+                    
                     <lb n="37"/>Solo formaduras, y críaturas son díchos, no
                     <lb n="38"/>tuuíeron Padres, ní Madres, solo los llama<pc> –</pc>
                     <lb n="39"/>mos hombres, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> no naçíeron de mugeres
@@ -3503,10 +3495,10 @@
                     <lb n="18"/>a las píedras, a la laguna, al mar, al
                     <lb n="19"/>monte, y al llano. y eran muy preçíosos hom
                     <lb n="20"/>bres el <rs ana="BALAM_KI'TZE'">balá <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>ꜩe</rs>, <rs ana="BALAM_AQ'AB">balá acah</rs>. <rs ana="MAJUK'UTAJ">mahucu</rs>. <rs ana="IK'I_BALAM">íquíba</rs>.
-                    <!-- </p> -->
+                    
                 </p>
                 <p n="49">
-                    <!-- <p corresp="#p49"> -->
+                    
                     <lb n="21"/>y entonçes fueron preguntados por el
                     <lb n="22"/>críador como es vuestro estado? oys por
                     <lb n="23"/>ventura? veís por ventura? por ventura
@@ -3539,10 +3531,10 @@
                     <num rend="large">34</num>
                     </note>
                     <lb n="1"/>chico, y grande.
-                    <!-- </p> -->
+                    
                 </p>
                 <p n="50">
-                    <!-- <p corresp="#p50"> -->
+                    
                     <lb n="2"/>y así otra uez consultaron los críado<pc> –</pc>
                     <lb n="3"/>res, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>haremos otra vez con estos, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>se<pc> –</pc>
                     <lb n="4"/>lo lo<choice><abbr>q’</abbr><expan instant="false">que</expan></choice> esta çerca vean?
@@ -3563,11 +3555,11 @@
                     <lb n="19"/>y a la <rs ana="IXMUKANE">xmucane</rs>. <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>son llamados cría<pc> –</pc>
                     <lb n="20"/>dores. y después díspusíeron de otra
                     <lb n="21"/>suerte asus críaturas.
-                    <!-- </p> -->
+                    
                     <lb/>
                 </p>
                 <p n="51">
-                    <!-- <p corresp="#p51"> -->
+                    
                     <lb n="22"/>y luego les fue echado baho en los ojos por
                     <lb n="23"/>aquel <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>era el <rs ana="UK'U'X_KAJ">corazon de el çíelo</rs>, y se los
                     <lb n="24"/>empaño. así como sí soplando vn espexo
@@ -3700,20 +3692,20 @@
                     <lb n="5"/><rs ana="MAJUK'UTAJ">mahucutah</rs>, <rs ana="IK'I_BALAM">íquíbalam</rs>, y oyo esto, y
                     <lb n="6"/>dío oydos vn pueblo, y les síuío, y se
                     <lb n="7"/>fueron.
-                    <!-- </p> -->
+                    
                 </p>
                 <p n="52">
-                    <!-- <p corresp="#p52"> -->
+                    
                     <lb n="8"/>y el monte, y parage donde se fueron
                     <lb n="9"/><rs ana="BALAM_KI'TZE'">balam quíꜩe</rs>, <rs ana="BALAM_AQ'AB">balam acab</rs>, <rs ana="MAJUK'UTAJ">mahucutah</rs>
                     <lb n="10"/>y <rs ana="IK'I_BALAM">íquíbalam</rs>, con los de <rs ana="ILOKAB">ílocab</rs>, y <rs ana="TAMUB">tamub</rs>
                     <lb n="11"/>se llamaba, <rs ana="TULÁN" type="toponym">tulan</rs><rs ana="SUYWA" type="toponym">zu</rs>. síete queues, y
                     <lb n="12"/>síete barrancas, y así se llamaba el pu<pc> –</pc>
                     <lb n="13"/>eblo á <choice><abbr>do</abbr><expan instan="false">donde</expan></choice> fueron a traer los ídolos.
-                    <!-- </p> -->
+                    
                 </p>
                 <p n="53">
-                    <!-- <p corresp="#p53"> -->
+                    
                     <lb n="14"/>y llegaron a <rs ana="TULÁN">tulan</rs> <rs ana="SUYWA">zu</rs> todos, y noson
                     <lb n="15"/>constables los hombres <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>fueron, y eran
                     <lb n="16"/>muchos los <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>íban todos en orden, fue
@@ -3737,10 +3729,10 @@
                     <lb n="34"/>cab</rs> <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>así mesmo fue su ídolo <rs ana="TOJIL">tohíl</rs>. <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>
                     <lb n="35"/>lo tomaron sus antepasados, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>fueron
                     <lb n="36"/><choice><abbr>S<hi rend="superscript">es</hi></abbr><expan instant="false">Señores</expan></choice> y así los aben agora.
-                    <!-- </p> -->
+                    
                 </p>
                 <p n="54">
-                    <!-- <p corresp="#p54"> -->
+                    
                     <lb n="37"/>y así se llamaron las tres parçíalida<pc> –</pc>
                     <lb n="38"/>des <rs ana="AJAW_K'ICHE'">quiches</rs>, y no<abbr type="superscription">se</abbr>dexaron, ní de<pc> –</pc>
                     <lb n="39"/>sampararon <choice><abbr>porq’</abbr><expan instant="false">porque</expan></choice> era vno su ídolo de
@@ -3789,11 +3781,11 @@
                     <lb n="34"/>dícho a los príçípales por el <rs ana="TOJIL">tohíl</rs>. y así
                     <lb n="35"/>se calentaban los pueblos, y alegraban
                     <lb n="36"/>por el fuego.
-                    <!-- </p> -->
+                    
                     <lb />
                 </p>
                 <p n="55">
-                    <!-- <p corresp="#p55"> -->
+                    
                     <lb n="37"/>y luego empezo vn grande aguaçe<pc> –</pc>
                     <lb n="38"/>ro, y estaba alumbrando el fuego de
                     <lb n="39"/>los pueblos, y cayo mucho granízo sob<pc> –</pc>
@@ -3862,11 +3854,11 @@
                     <lb n="7"/>cab</rs>, <rs ana="MAJUK'UTAJ">mahucutah</rs>, y <rs ana="IK'I_BALAM">íquíbalam</rs>. y esta<pc> –</pc>
                     <lb n="8"/>ban apesadumbrados refregandose
                     <lb n="9"/>sus caras, y sus vocas.
-                    <!-- </p> -->
+                    
                     <lb/>
                 </p>
                 <p n="56">
-                    <!-- <p corresp="#p56"> -->
+                    
                     <lb n="10"/>y despues víníeron los ladrones a <rs ana="BALAM_KI'TZE'">balá<pc> –</pc>
                     <lb n="11"/>quíꜩe</rs>, <rs ana="BALAM_AQ'AB">balam acab</rs>, <rs ana="MAJUK'UTAJ">mahucutah</rs>, y <rs ana="IK'I_BALAM">íquí ba<pc> –</pc>
                     <lb n="12"/>lam</rs>, y les díxeron: no teneís píedad de
@@ -3977,10 +3969,10 @@
                     <lb n="21"/>ente, y vnas eran sus caras cuando pasa<pc> –</pc>
                     <lb n="22"/>ron de alla, y auía gran dístancía
                     <lb n="23"/>nos es dícho <rs ana="NIM_XO'L">agora</rs>.
-                    <!-- </p> -->
+                    
                 </p>
                 <p n="57">
-                    <!-- <p corresp="#p57"> -->
+                    
                     <lb n="24"/>y llegando a vn çerro allí se jun<pc> –</pc>
                     <lb n="25"/>taron todos los quiches con los pu<pc> –</pc>
                     <lb n="26"/>eblos, y allí se juntaron a consejo to<pc> –</pc>
@@ -3996,10 +3988,10 @@
                     <lb n="36"/>ma cosa, y de vn mesmo sentír. es<pc> –</pc>
                     <lb n="37"/>to díxeron <choice><abbr>q</abbr><expan instant="false">que</expan></choice> se pusíeron los nom<pc> –</pc>
                     <lb n="38"/>bres.
-                    <!-- </p> -->
+                    
                 </p>
                 <p n="58">
-                    <!-- <p corresp="#p58"> -->
+                    
                     <lb n="39"/>y entonçes fueron llamados <rs ana="KAQCHIKELEB">ꜫaꜫchí<pc> –</pc>
                     <lb n="40"/>queles</rs> los <rs ana="KAQCHIKELEB">ꜫaꜫchíqueles</rs>, y los <rs ana="RABINALEB">rabí<pc> –</pc>
                     <lb n="41"/>naleros</rs> este fue el nombre <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>les dí<pc> –</pc>
@@ -4046,10 +4038,10 @@
                     <lb n="34"/>ban sobre el monte <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>se llamaba <rs ana="CHI_PIXAB">del
                     <lb n="35"/>mandato</rs>, ó preçepto, y agora les díxo
                     <lb n="36"/>el ídolo
-                    <!-- </p> -->
+                    
                 </p>
                 <p n="59">
-                    <!-- <p corresp="#p59"> -->
+                    
                     <lb n="37"/>y entonçes díxeron el <rs ana="TOJIL">tohíl</rs> con <rs ana="AWILIX">aulíx</rs>,
                     <lb n="38"/>y <rs ana="JAQAWITZ">hacauíꜩ</rs> a <rs ana="BALAM_KI'TZE'">balam quíꜩe</rs>, <rs ana="BALAM_AQ'AB">balam a<pc> –</pc>
                     <lb n="39"/>cab</rs>, <rs ana="MAJUK'UTAJ">mahucutah</rs>, y <rs ana="IK'I_BALAM">íquíbalam</rs>. vamo<pc> –</pc>
@@ -4159,16 +4151,16 @@
                     <lb n="47"/>aclaro, y se vío la cara al sol, ala
                     <pb corresp="xom-f40-s1"/>
                     <lb n="1"/>luna, y a las estrellas.
-                    <!-- </p> -->
+                    
                 </p>
                 <p n="60">
-                    <!-- <p corresp="#p60"> -->
+                    
                     <lb n="2"/>y este fue el esclarezer, y manífes<pc> –</pc>
                     <lb n="3"/>tarse el sol, la luna, y las estrellas.
-                    <!-- </p> -->
+                    
                 </p>
                 <p n="61">
-                    <!-- <p corresp="#p61"> -->
+                    
                     <lb n="4"/>y grandemente se alegraron
                     <lb n="5"/><rs ana="BALAM_KI'TZE'">balamquíꜩe</rs>, <rs ana="BALAM_AQ'AB">balam acab</rs>, <rs ana="MAJUK'UTAJ">mahu<pc> –</pc>
                     <lb n="6"/>cutah</rs>, y <rs ana="IK'I_BALAM">íquíbalam</rs>. quando se uío
@@ -4315,10 +4307,10 @@
                     <lb n="3"/>sus corazones sobre el <rs ana="TOJIL">tohíl</rs>, <rs ana="AWILIX">auílíx</rs>; <rs ana="JAQAWITZ">ha
                     <lb n="4"/>cauíꜩ</rs>, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>estaba en los eques o yeruas,
                     <lb n="5"/>y en el paste por ellos.
-                    <!-- </p> -->
+                    
                 </p>
                 <p n="62">
-                    <!-- <p corresp="#p62"> -->
+                    
                     <lb n="6"/>y este fue el prínçípío, y determinaçíon
                     <lb n="7"/>de auer puesto allí al <rs ana="TOJIL">tohíl</rs>. y enton
                     <lb n="8"/>çes fueron ante el <rs ana="TOJIL">tohíl</rs><rs ana="AWILIX">auílíx</rs>, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>le
@@ -4441,18 +4433,18 @@
                     <lb n="28"/>zíb</rs>. y lasangre <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>se vntan, y fue san
                     <lb n="29"/>gre de sus espaldas <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>les dío el <rs ana="TOJIL">tohíl</rs>,
                     <lb n="30"/><rs ana="AWILIX">auílíx</rs>, y <rs ana="JAQAWITZ">hacauíꜩ</rs>.
-                    <!-- </p> -->
+                    
                     <lb/>
                 </p>
                 <p n="63">
-                    <!-- <p corresp="#p63"> -->
+                    
                     <lb n="31"/>y aquí empíeza suser hurtados los
                     <lb n="32"/>hombres de los pueblos por <rs ana="BALAM_KI'TZE'">balam quíꜩe</rs>
                     <lb n="33"/><rs ana="BALAM_AQ'AB">balam acab</rs>, <rs ana="MAJUK'UTAJ">mahucutah</rs>, y <rs ana="IK'I_BALAM">íquíbalam</rs>.
-                    <!-- </p> -->
+                    
                 </p>
                 <p n="64">
-                    <!-- <p corresp="#p64"> -->
+                    
                     <lb n="34"/>y luego fue el ser matado el pueblo, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>los
                     <lb n="35"/>tomaron estos, y solo por vna o dos partes
                     <lb n="36"/>andaban quando los tomaban, y luego
@@ -4509,10 +4501,10 @@
                     <lb/>
                     <lb/>
                     <lb/>
-                    <!-- </p> -->
+                    
                 </p>
                 <p n="65">
-                    <!-- <p corresp="#p65"> -->
+                    
                     <lb n="37"/>y lo prímero quísíeron consultar, los
                     <lb n="38"/>pueblos el ganar al <rs ana="TOJIL">tohíl</rs>, <rs ana="AWILIX">auílix</rs>, y <rs ana="JAQAWITZ">ha<pc> –</pc>
                     <lb n="39"/>cauíꜩ</rs>. esto propusíeron los prínçípales
@@ -4583,10 +4575,10 @@
                     <lb n="11"/>fue lo <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>díscurríeron los pueblos.
                     <lb />
                     <lb />
-                    <!-- </p> -->
+                    
                 </p>
                 <p n="66">
-                    <!-- <p corresp="#p66"> -->
+                    
                     <lb n="12"/>y luego se fueron a componer, y a
                     <lb n="13"/>aderezar, y çíertamente <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>estaban
                     <lb n="14"/>hermosas, quando se fueron al río, <rs ana="CHI_RATINIBAL_TOJIL">al
@@ -4619,10 +4611,10 @@
                     <lb />
                     <lb />
                     <lb />
-                    <!-- </p> -->
+                    
                 </p>
                 <p n="67">
-                    <!-- <p> -->
+                    
                     <pb corresp="xom-f44-s2"/>
                     <lb n="1"/>y díxeron otra ves a <rs ana="IXTAJ">xtah</rs> y <rs ana="IXPUCH'">xpuch</rs>
                     <lb n="2"/><choice><abbr>q’</abbr><expan instant="false">que</expan></choice>así se llamaban <rs ana="IXTAJ_IXPUCH'">las donçellas</rs>: esta
@@ -4637,11 +4629,11 @@
                     <lb n="11"/>donçellas</rs> <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>lauan. dadselo les fue
                     <lb n="12"/>dícho a <rs ana="BALAM_KI'TZE'">balamquíꜩe</rs>, <rs ana="BALAM_AQ'AB">balamacab</rs>, <rs ana="MAJUK'UTAJ">mahu<pc> –</pc>
                     <lb n="13"/>cutah</rs>, y <rs ana="IK'I_BALAM">íquíbalam</rs>.
-                    <!-- </p> -->
+                    
                     <lb />
                 </p>
                 <p n="68">
-                    <!-- <p corresp="#p67"> -->
+                    
                     <lb n="14"/>y luego píntaron los tres, y el prímero pin<pc> –</pc>
                     <lb n="15"/>to <rs ana="BALAM_KI'TZE'">balamquíꜩe</rs>, la ímagen de vn
                     <lb n="16"/>tígre, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>la pinto en el paño. y <rs ana="BALAM_AQ'AB">balam<pc> –</pc>
@@ -4734,10 +4726,10 @@
                     <lb n="8"/>sado los pueblos <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>fuesen muertos,
                     <lb n="9"/>quando se juntaron todos, y se con<pc> –</pc>
                     <lb n="10"/>uocaron.
-                    <!-- </p> -->
+                    
                 </p>
                 <p n="69">
-                    <!-- <p corresp="#p68"> -->
+                    
                     <lb n="11"/>y esta fue la junta de todos los pu<pc> –</pc>
                     <lb n="12"/>eblos, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> ya estauan armadas con fle<pc> –</pc>
                     <lb n="13"/>chas, y escudos todos, y no era conta<pc> –</pc>
@@ -4841,10 +4833,10 @@
                     <lb n="15"/><rs ana="JAQAWITZ_JUYUB">el çerro hacauíꜩ</rs>, y agora díremos co<pc> –</pc>
                     <lb n="16"/>mo fue suentrada.
                     <lb n="17"/>cabÿhchic
-                    <!-- </p> -->
+                    
                 </p>
                 <p n="70">
-                    <!-- <p corresp="#p69"> -->
+                    
                     <lb n="18"/>y allí estaban <rs ana="BALAM_KI'TZE'">balamquíꜩe</rs>, <rs ana="BALAM_AQ'AB">balam a<pc> –</pc>
                     <lb n="19"/>cab</rs>, <rs ana="MAJUK'UTAJ">mahucutah</rs>, y <rs ana="IK'I_BALAM">íquíbalam</rs>, todos
                     <lb n="20"/>juntos estaban sobre <rs ana="JAQAWITZ_JUYUB">el zero</rs>, con sus
@@ -4920,10 +4912,10 @@
                     <lb n="42"/>fin y muerte de <rs ana="BALAM_KI'TZE'">balam quíꜩe</rs>, <rs ana="BALAM_AQ'AB">balam
                     <lb n="43"/>acab</rs>, <rs ana="MAJUK'UTAJ">mahucutah</rs>, y <rs ana="IK'I_BALAM">iquíbalam</rs>.
                     <lb />
-                    <!-- </p> -->
+                    
                 </p>
                 <p n="71">
-                    <!-- <p corresp="#p70"> -->
+                    
                     <lb n="44"/>y auíendo ya conocido que se morían
                     <lb n="45"/>les avisaron asus híjos y no estaban
                     <lb n="46"/>enfermos, y tampoco agonízaban, ní       
@@ -5018,10 +5010,10 @@
                     <lb n="37"/>mente víníeron aquí, y muríeron ya 
                     <lb n="38"/>síendo muy víejos. y son llamados: los res 
                     <lb n="39"/>petados, y acatados.  
-                    <!-- </p> -->
+                    
                 </p>
                 <p n="72">
-                    <!-- <p corresp="#p71"> -->
+                    
                     <lb n="40"/>yluego trataron de ír alla al oríente, tra<pc> –</pc>
                     <lb n="41"/>tando de dar cumplímíento a los <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>sus <choice><abbr>P<hi rend="superscript">es</hi></abbr><expan instant="false">Padres</expan></choice>
                     <lb n="42"/>les mandaron, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>no lo auían oluídado. 
@@ -5048,12 +5040,12 @@
                     <lb n="15"/>oríente, y fueron a reçíuír su ímperío
                     <lb n="16"/>y este era el nombre de el <choice><abbr>S<hi rend="superscript">or</hi></abbr><expan instant="false">Señor</expan></choice> <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>domí<pc> –</pc>
                     <lb n="17"/>naba en el oríente, adonde fueron.
-                    <!-- </p> -->
+                    
                     <lb />
                     <lb />
                 </p>
                 <p n="73">
-                    <!-- <p corresp="#p72"> -->
+                    
                     <lb n="18"/>y llegaron ante el <choice><abbr>S<hi rend="superscript">or</hi></abbr><expan instant="false">Señor</expan></choice> <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> se llamaba <rs ana="NAKXIT"><hi rend="underline">nac<pc> –</pc>
                     <lb n="19"/>xít</hi></rs>. gran <choice><abbr>S<hi rend="superscript">or</hi></abbr><expan instant="false">Señor</expan></choice>. y vno <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>todo lo juzgaba.
                     <lb n="20"/>y era grande su reíno, y <gap reason="illegible" unit="character" instant="false"/>este lesdío
@@ -5074,10 +5066,10 @@
                     <lb n="35"/>de <rs ana="TULÁN">tulan</rs>, su escrítura, díxeron a esto <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>
                     <lb n="36"/>es mucho lo <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>pusíeron en sus tradíçí<pc> –</pc>
                     <lb n="37"/>ones.
-                    <!-- </p> -->
+                    
                 </p>
                 <p n="74">
-                    <!-- <p corresp="#p73"> -->
+                    
                     <lb n="38"/>y luego quando llegaron asu pueblo
                     <lb n="39"/><choice><abbr>q’</abbr><expan instant="false">que</expan></choice>se llamaba <rs ana="JAQAWITZ_JUYUB">hacauíꜩ</rs>, allí se juntaron
                     <lb n="40"/>todos los de <rs ana="TAMUB">tamub</rs>, e <rs ana="ILOKAB">ílocab</rs>, y todos los
@@ -5141,11 +5133,11 @@
                     <lb n="1"/><choice><abbr>porq’</abbr><expan instant="false">porque</expan></choice> muy lexos hallaron su pueblo
                     <lb n="2"/>eran abuelos, y padres y este es el
                     <lb n="3"/>nombre de el pueblo a <choice><abbr>do</abbr><expan instan="false">donde</expan></choice> víníeron
-                    <!-- </p> -->
+                    
                     <lb />
                 </p>
                 <p n="75">
-                    <!-- <p corresp="#p74"> -->
+                    
                     <lb n="3"/><rs ana="CHI_ISMACHI">chí ízmachí</rs> es el nombre de el çer<pc> –</pc>
                     <lb n="4"/>ro, y su pueblo <choice><abbr>do</abbr><expan instan="false">donde</expan></choice> estuuíeron, y don
                     <lb n="5"/>de se poblaron; y llí probaron su
@@ -5259,10 +5251,10 @@
                     <lb n="15"/>des. y estuuíeron mucho tíempo allí en
                     <lb n="16"/><rs ana="CHI_ISMACHI">ízmachí</rs> y auíendo hallado otro pueblo de<pc> –</pc>
                     <lb n="17"/>xaron al de <rs ana="CHI_ISMACHI">ízmachí</rs>.
-                    <!-- </p> -->
+                    
                 </p>
                 <p n="76">
-                    <!-- <p corresp="#p75"> -->
+                    
                     <lb n="18"/>y luego se uíníeron de allí a <rs ana="Q'UMARAQ_AJ">cumarcaaj</rs>.
                     <lb n="19"/><choice><abbr>q’</abbr><expan instant="false">que</expan></choice>así se llamo por los quiches, y enton
                     <lb n="20"/>çes víníeron allí los <choice><abbr>SS<hi rend="superscript">es</hi></abbr><expan instant="false">Señores</expan></choice><rs ana="K'OTUJA">cotuha</rs>, con <rs ana="AJQ'UKUMATZ">cucu<pc> –</pc>
@@ -5316,10 +5308,10 @@
                     <lb n="15"/>tales</rs> de cada vno de los <choice><abbr>SS<hi rend="superscript">es.</hi></abbr><expan instant="false">Señores</expan></choice> y agora
                     <lb n="16"/>díremos el nombre de cada vno de
                     <lb n="17"/>por sí, y de cada vna de las grandes casas
-                    <!-- </p> -->
+                    
                 </p>
                 <p n="77">
-                    <!-- <p corresp="#p76"> -->
+                    
                     <lb n="18"/>y estos son los nombres de los <choice><abbr>SS<hi rend="superscript">es</hi></abbr><expan instant="false">Señores</expan></choice> de <rs ana="K'OKA'IB">ca<pc> –</pc>
                     <lb n="19"/>uíquíb</rs>, y el prímero de los <choice><abbr>SS<hi rend="superscript">es</hi></abbr><expan instant="false">Señores</expan></choice> era: <rs ana="AJPOP">ah<pc> –</pc>
                     <lb n="20"/>pop</rs>, <rs ana="AJPOP_K">ahpop camha</rs>. 2. <rs ana="AJTOJIL">ahtohíl</rs>. 3. <rs ana="AJQ'UKUMATZ">ahcucu<pc> –</pc>
@@ -5327,18 +5319,18 @@
                     <lb n="22"/>6. chítuy</rs> <rs ana="LOLMET_KEJNAY">Lolmet. 7. queh nayí</rs>. 8. <rs ana="POPOL_WINAQ_PA_JOM_TZALATZ'">po<pc> –</pc>
                     <lb n="23"/>pol vínac pahom ꜩalaꜩ</rs>. 9. <rs ana="UCHUCH_K'AMJA">uchuch
                     <lb n="24"/>camha</rs>.
-                    <!-- </p> -->
+                    
                 </p>
                 <p n="78">
-                    <!-- <p corresp="#p77"> -->
+                    
                     <lb n="25"/>y estos eran los <choice><abbr>SS<hi rend="superscript">es.</hi></abbr><expan instant="false">Señores</expan></choice> ante los de <rs ana="KAWEQ">ca<pc> –</pc>
                     <lb n="26"/>uíquíb</rs>, nueue <choice><abbr>SS<hi rend="superscript">es.</hi></abbr><expan instant="false">Señores</expan></choice> en orden sus gr<pc> –</pc>
                     <lb n="27"/>andes casas de cada vno. y despu<pc> –</pc>
                     <lb n="28"/>es se mencçonan otra vez.
-                    <!-- </p> -->
+                    
                 </p>
                 <p n="79">
-                    <!-- <p corresp="#p78"> -->
+                    
                     <lb n="29"/>y estos son los <choice><abbr>SS<hi rend="superscript">es.</hi></abbr><expan instant="false">Señores</expan></choice> de los de <rs ana="NIJA'IB">níhaí<pc> –</pc>
                     <lb n="30"/>bab</rs> el prímero <rs ana="AJAW_Q'ALEL">ahau ealel</rs>. 2. <rs ana="AJAW_AJTZIK_WINAQ">ahau
                     <lb n="31"/>ahꜩíc vínac</rs>. 3. <rs ana="Q'ALEL_K'AMJA">calecamha</rs>. 4. <rs ana="UCHUCH_K'AMJA">vchuch
@@ -5347,29 +5339,29 @@
                     <lb n="34"/>pop o, zaclatol.</rs> 9. <rs ana="NIMA_LOLMET_YE'OLTUX">níma lolmet yeol<pc> –</pc>
                     <lb n="35"/>tux</rs>. nueue <choice><abbr>SS<hi rend="superscript">es</hi></abbr><expan instant="false">Señores</expan></choice> ante los de <rs ana="NIJA'IB">níha<pc> –</pc>
                     <lb n="36"/>íbab</rs>.
-                    <!-- </p> -->
+                    
                     <lb />
                 </p>
                 <p n="80">
-                    <!-- <p corresp="#p79"> -->
+                    
                     <lb n="37"/>y de los de <rs ana="AJAW_K'ICHE'">ahauquíche</rs> estos son
                     <lb n="38"/>los nombres de los <choice><abbr>SS<hi rend="superscript">es.</hi></abbr><expan instant="false">Señores</expan></choice> el prímero:
                     <lb n="39"/><rs ana="AJTZIK_WINAQ">ahꜩíc vínac</rs>, 2. <rs ana="AJAW_LOLMET">ahau lolmet</rs>. 3. <rs ana="AJAW_NIM_CH'OKOJ">ahau
                     <lb n="40"/>ním chocoh</rs> 4. <rs ana="AJAW_JAQAWITZ">ahau hacauíꜩ</rs>. estos
                     <lb n="41"/>son los quatro <choice><abbr>SS<hi rend="superscript">es.</hi></abbr><expan instant="false">Señores</expan></choice> ante los de <rs ana="AJAW_K'ICHE'">ahau
                     <lb n="42"/>quiche</rs>.
-                    <!-- </p> -->
+                    
                 </p>
                 <p n="81">
-                    <!-- <p corresp="#p80"> -->
+                    
                     <lb n="43"/>y dos eran los <rs ana="SAQIK">Chínamítales</rs>, de zaquí<pc> –</pc>
                     <lb n="44"/>quíb. el vno <choice><abbr>S<hi rend="superscript">or</hi></abbr><expan instant="false">Señor</expan></choice>. <rs ana="TZUTUJA">ꜩutuha</rs>. 2. <rs ana="Q'ALEL_SAQIK">ealel zaquic</rs>.
                     <lb n="45"/>y solo tenían vna casa grande los dos
                     <lb n="46"/><choice><abbr>SS<hi rend="superscript">es</hi></abbr><expan instant="false">Señores</expan></choice>
-                    <!-- </p> -->
+                    
                 </p>
                 <p n="82">
-                    <!-- <p corresp="#p81"> -->
+                    
                     <pb corresp="xom-f51-s2"/>
                     <lb n="1"/>y así se ajusttaron los veínte, y quatro<pc> –</pc>
                     <lb n="2"/><choice><abbr>SS<hi rend="superscript">es</hi></abbr><expan instant="false">Señores</expan></choice> y las veínte, y quatro casas gran<pc> –</pc>
@@ -5444,12 +5436,12 @@
                     <lb n="20"/>Reyno en la quinta generaçíon. y
                     <lb n="21"/>así mesmo tuuíeron híjos cada vna
                     <lb n="22"/>de las líneas de los <choice><abbr>SS<hi rend="superscript">es.</hi></abbr><expan instant="false">Señores</expan></choice>
-                    <!-- </p> -->
+                    
                     <lb/>
                     <lb/>
                 </p>
                 <p n="83">
-                    <!-- <p corresp="#p82"> -->
+                    
                     <lb n="23"/>y a quí se habla de la sexta genera<pc> –</pc>
                     <lb n="24"/>cíon <abbr>q’</abbr>tuuo dos grandes <abbr>SS<hi rend="superscript">es.</hi></abbr> elvno
                     <lb n="25"/>sellamaba <note resp="editor">We have ANA tags for K'IKAB and K'IKAB_KQSIETE. Is that right?</note><rs ana="K'IKAB_KQSIETE">ꜫaꜫ quicab</rs>. y el otro: <rs ana="KAWISIMAJ_KQSIETE">cauí
@@ -5497,11 +5489,11 @@
                     <lb n="21"/>yentonçes díspusíeron todos los <choice><abbr>SS<hi rend="superscript">es.</hi></abbr><expan instant="false">Señores</expan></choice> el amu<pc> –</pc>
                     <lb n="22"/>rallar el pueblo, auíendo venído to<pc> –</pc>
                     <lb n="23"/>dos los pueblos, aello.
-                    <!-- </p> -->
+                    
                     <lb/>
                 </p>
                 <p n="84">
-                    <!-- <p corresp="#p83"> -->
+                    
                     <lb n="24"/>y luego salíeron a las fronteras vígí<pc> –</pc>
                     <lb n="25"/>as <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>cuídasen de la Guerra, y funda<pc> –</pc>
                     <lb n="26"/>ron en los zeros semejança de pue<pc> –</pc>
@@ -5584,17 +5576,17 @@
                     <lb n="5"/>donde fueron nombrados los capíta<pc> –</pc>
                     <lb n="6"/>nes de los vasallos. y fueron embíados
                     <lb n="7"/>todos cada vno a su çerro, y se juntaron
-                    <!-- </p> -->
+                    
                 </p>
                 <p n="85">
-                    <!-- <p corresp="#p84"> -->
+                    
                     <lb n="8"/>en vno. <rs ana="XE_BALAX">xebalax</rs>, <rs ana="XE_KAMAQ">xecamac</rs>, se lla
                     <lb n="9"/>maba el çerro donde fueron nombra<pc> –</pc>
                     <lb n="10"/>dos, y se les dío le cargo, allá en <rs ana="CHULIMAL">chulímán</rs>.
-                    <!-- </p> -->
+                    
                 </p>
                 <p n="86">
-                    <!-- <p corresp="#p85"> -->
+                    
                     <lb n="11"/>y estala çelebraçíon de su elecçí<pc> –</pc>
                     <lb n="12"/>on, y nombramíento de los veíte capí<pc> –</pc>
                     <lb n="13"/>tanesde asíento, y casa, por los <choice><abbr>SS<hi rend="superscript">es.</hi></abbr><expan instant="false">Señores</expan></choice> prín<pc> –</pc>
@@ -5618,10 +5610,10 @@
                     <lb n="31"/>salíeron de los <choice><abbr>SS<hi rend="superscript">es.</hi></abbr><expan instant="false">Señores</expan></choice> <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>de estos prínçí<pc> –</pc>
                     <lb n="32"/>pales salíeron.
                     <lb/>
-                    <!-- </p> -->
+                    
                 </p>
                 <p n="87">
-                    <!-- <p corresp="#p86"> -->
+                    
                     <lb n="33"/>y agora díremos otra vez de el nom<pc> –</pc>
                     <lb n="34"/>bre de la casa de el ídolo, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>así mesmo
                     <lb n="35"/>sellamo su casa de el nombre de el ído<pc> –</pc>
@@ -5681,13 +5673,13 @@
                     <lb n="39"/>elo. estas eran sus petíçíones,<choice><abbr>q’</abbr><expan instant="false">que</expan></choice>pedí<pc> –</pc>
                     <lb n="40"/>an ante el ídolo, y este el llanto desus
                     <lb n="41"/>corazones.
-                    <!-- </p> -->
+                    
                     <lb/>
                     <lb/>
                     <lb/>
                 </p>
                 <p n="88">
-                    <!-- <p corresp="#p87"> -->
+                    
                     <lb n="42"/>O tu hermosura de su día; tu <rs ana="JUN_RAQAN">huracan</rs>, tu
                     <lb n="43"/><rs ana="UK'U'X_KAJ">corazón de el çíelo</rs>, y <rs ana="UK'U'X_ULEW">tíerra</rs>, tu dador de
                     <lb n="44"/>nuestra gloría, y tu tambíen dador de
@@ -5767,10 +5759,10 @@
                     <lb n="22"/>y agora contaremos las generaçío<pc> –</pc>
                     <lb n="23"/>nes de los <choice><abbr>SS<hi rend="superscript">es.</hi></abbr><expan instant="false">Señores</expan></choice>y sus nombres todos dí<pc> –</pc>
                     <lb n="24"/>remos agoraotra uez.
-                    <!-- </p> -->
+                    
                 </p>
                 <p n="89">
-                    <!-- <p corresp="#p88"> -->
+                    
                     <lb n="25"/>y estas fueron las generaçíones, y des<pc> –</pc>
                     <lb n="26"/>çendençía de el Reyno, y el esclareçí<pc> –</pc>
                     <lb n="27"/>míento de <rs ana="BALAM_KI'TZE'">balamquíꜩe</rs>, <rs ana="BALAM_AQ'AB">balam acab</rs>, <rs ana="MAJUK'UTAJ">ma<pc> –</pc>
@@ -5785,73 +5777,73 @@
                     <lb n="36"/>los calpules todos. y aquí se contara de
                     <lb n="37"/>cada vno de por sí, cada vno de los <choice><abbr>SS<hi rend="superscript">es.</hi></abbr><expan instant="false">Señores</expan></choice>
                     <lb n="38"/>de el quiche
-                    <!-- </p> -->
+                    
                     <lb/>
                     <lb/>
                 </p>
                 <p n="90">
-                    <!-- <p> -->
+                    
                     <lb n="39"/><rs ana="BALAM_KI'TZE'"><hi rend="large">B</hi>alamquíꜩe</rs>. elprímero, ytronco de
                     <lb n="40"/>losde <rs ana="KAWEQ">cauíquíb</rs>
-                    <!-- </p> -->
-                    <!-- <p> -->
+                    
+                    
                     <lb n="41"/><rs ana="K'OQAWIB_KQDOS"><hi rend="large">C</hi>ocauíb</rs>; segunda generaçíon de <rs ana="BALAM_KI'TZE'">balamq’ꜩe</rs>
-                    <!-- </p> -->
-                    <!-- <p> -->
+                    
+                    
                     <lb n="42"/><rs ana="BALAM_K_KQTRES"><hi rend="large">B</hi>alamconache</rs>. la terçera generaçíon
                     <lb/>
-                    <!-- </p> -->
-                    <!-- <p> -->
+                    
+                    
                     <lb n="43"/><rs ana="K'OTUJA_KQCUATRO"><hi rend="large">C</hi>otuha</rs><rs ana="ISTAYUL_KQCUATRO">ztayub</rs>. quarta generaçíon
-                    <!-- </p> -->
-                    <!-- <p> -->
+                    
+                    
                     <lb n="44"/><rs ana="Q'UKUMATZ_KQCINCO"><hi rend="large">C</hi>ucumaꜩ</rs> <rs ana="K'OTUJA_KQCINCO">cotuha</rs> el prímero de los portento<pc> –</pc>
                     <pb corresp="xom-f55-s2"/>
                     <lb n="1"/>sos. quínta generaçíon
-                    <!-- </p> -->
-                    <!-- <p> -->
+                    
+                    
                     <lb n="2"/><rs ana="TEPEPUL_KQSEIS"><hi rend="large">T</hi>epepul</rs> <rs ana="ISTAYUL_KQSEIS">ztayul</rs>. sexta generaçíon
-                    <!-- </p> -->
-                    <!-- <p> -->
+                    
+                    
                     <lb n="3"/><rs ana="K'IKAB_KQSIETE"><hi rend="large">Q</hi>uícab</rs>, <rs ana="KAWISIMAJ_KQSIETE">cauízímah</rs>. septíma generaçíon
-                    <!-- </p> -->
-                    <!-- <p> -->
+                    
+                    
                     <lb n="4"/><choice><abbr>q’</abbr><expan instant="false">que</expan></choice>tambíen fue portentoso.
-                    <!-- </p> -->
-                    <!-- <p> -->
+                    
+                    
                     <lb n="5"/><rs ana="TEPEPUL_KQOCHO"><hi rend="large">T</hi>epepul</rs> <rs ana="ISTAYUL_KQOCHO">xtayub</rs>. octaua generaçíon.
-                    <!-- </p> -->
-                    <!-- <p> -->
+                    
+                    
                     <lb n="6"/><rs ana="TEKUM_KQNUEVE"><hi rend="large">T</hi>ecum</rs> <rs ana="TEPEPUL_KQNUEVE">tepepul</rs>. nona generaçíon.
-                    <!-- </p> -->
-                    <!-- <p> -->
+                    
+                    
                     <lb n="7"/><rs ana="WAJXAQIB_K'AM_KQDIEZ"><hi rend="large">V</hi>ahxaquí caam</rs> y <rs ana="K'IKAB_KQDIEZ">quícab</rs>. deçíma gene<pc> –</pc>
                     <lb n="8"/>raçíon de los Reyes.
-                    <!-- </p> -->
-                    <!-- <p> -->
+                    
+                    
                     <lb n="9"/><rs ana="WUQUB_NO'J_KQONCE"><hi rend="large">V</hi>ucub noh</rs>. y <rs ana="KUWATEPECH_KQONCE">cuuatepech</rs>. undeçíma
                     <lb n="10"/>generaçíon de los Reyes.
-                    <!-- </p> -->
-                    <!-- <p> -->
+                    
+                    
                     <lb n="11"/><rs ana="OXIB_KEJ_KQDOCE"><hi rend="large">O</hi>xibqueh</rs>, <rs ana="BELEJEB_TZI_KQDOCE">beleheb <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>í</rs>. duodeçíma
                     <lb n="12"/>generaçíon de los Reyes.y estos reyna<pc> –</pc>
                     <lb n="13"/>ban qo. víno <rs ana="DONADIU">Aluarado</rs>. y fueron ahor<pc> –</pc>
                     <lb n="14"/>cados por los españoles.
-                    <!-- </p> -->
-                    <!-- <p> -->
+                    
+                    
                     <lb n="15"/><rs ana="TEKUM_TRECE"><hi rend="large">T</hi>ecum</rs>, <rs ana="TEPEPUL_TRECE">tepepul</rs>. <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>tríbutaron a los espa<pc> –</pc>
                     <lb n="16"/>ñoles. y estos fueron la terçía deçíma
                     <lb n="17"/>generaçíon de los Reyes.
                     <lb/>
-                    <!-- </p> -->
-                    <!-- <p> -->
+                    
+                    
                     <lb n="18"/><rs ana="DON_JUAN_DE_ROJAS_KQCATORCE"><hi rend="large"><abbr>D.</abbr></hi> <abbr>Ju<hi rend="superscript">o.</hi></abbr> de Roxas</rs>, <rs ana="DON_JUAN_CORTÉS_KQCATORCE"><abbr>D.</abbr> <abbr>Ju<hi rend="superscript">o.</hi></abbr> cortes</rs>. la quarta
                     <lb n="19"/>deçíma generaçíon de los Reyes. y fue<pc> –</pc>
                     <lb n="20"/>ron híjos de <rs ana="TEKUM_TRECE">tecum</rs>, <rs ana="TEPEPUL_TRECE">Tepepul</rs>.
-                    <!-- </p> -->
+                    
                 </p>
                 <p n="91">
-                    <!-- <p corresp="#p89"> -->
+                    
                     <lb n="21"/>y estas son las generaçíones del Reyno
                     <lb n="22"/>de los Reyes de trono, y casa de los de
                     <lb n="23"/>xauíquíb quiches. y agora díremos de<pc> –</pc>
@@ -5861,49 +5853,49 @@
                     <lb n="27"/><rs ana="SAQIK">chínamítales</rs> de <rs ana="KAWEQ">cauíquíb</rs>, y nueue ca<pc> –</pc>
                     <lb n="28"/>sas grandes. y este es el nombre de<pc> –</pc>
                     <lb n="29"/>cada vno de los <choice><abbr>SS<hi rend="superscript">es.</hi></abbr><expan instant="false">Señores</expan></choice> de las casas grandes.
-                    <!-- </p> -->
+                    
                 </p>
                 <p n="92">
-                    <!-- <p> -->
+                    
                     <lb n="30"/><hi rend="large">A</hi>hau ahpop. <choice><abbr>S<hi rend="superscript">or.</hi></abbr><expan instant="false">Señor</expan></choice> de vna casa grande
                     <lb n="31"/><choice><abbr>q’</abbr><expan instant="false">que</expan></choice>se llamaba, cuha.
-                    <!-- </p> -->
-                    <!-- <p> -->
+                    
+                    
                     <lb n="32"/><hi rend="large">A</hi>hau ahpop camha. y su casa se llamaba
                     <lb n="33"/><abbr>q’</abbr>íquínaha.
-                    <!-- </p> -->
-                    <!-- <p> -->
+                    
+                    
                     <lb n="34"/><rs ana="NIM_CH'OKOJ_KAWEQ"><hi rend="large">N</hi>ím choch cauec</rs>. vna casa grande.
-                    <!-- </p> -->
-                    <!-- <p> -->
+                    
+                    
                     <lb n="35"/><hi rend="large">A</hi>hau ahtohíl. <choice><abbr>S<hi rend="superscript">or.</hi></abbr><expan instant="false">Señor</expan></choice> de vna casa grande.
-                    <!-- </p> -->
-                    <!-- <p> -->
+                    
+                    
                     <lb n="36"/><hi rend="large">A</hi>hau ah cucumaꜩ. <choice><abbr>S<hi rend="superscript">or.</hi></abbr><expan instant="false">Señor</expan></choice> de vna casa grande.
-                    <!-- </p> -->
-                    <!-- <p> -->
+                    
+                    
                     <lb n="37"/><hi rend="large">P</hi>opolvínac chítuí. <choice><abbr>S<hi rend="superscript">or.</hi></abbr><expan instant="false">Señor</expan></choice> de vna casa grande.
-                    <!-- </p> -->
-                    <!-- <p> -->
+                    
+                    
                     <lb n="38"/><rs ana="LOLMET_KEJNAY"><hi rend="large">L</hi>olmet quehnay</rs>. <choice><abbr>S<hi rend="superscript">or.</hi></abbr><expan instant="false">Señor</expan></choice> de vna casa grande.
-                    <!-- </p> -->
-                    <!-- <p> -->
+                    
+                    
                     <lb n="39"/><rs ana="POPOL_WINAQ_PA_JOM_TZALATZ"><hi rend="large">P</hi>opolvínac pahom. ꜩalaꜩ</rs> xcuxeba. <choice><abbr>S<hi rend="superscript">or.</hi></abbr><expan instant="false">Señor</expan></choice>
                     <lb n="40"/>de vna casa grande.
-                    <!-- </p> -->
-                    <!-- <p> -->
+                    
+                    
                     <lb n="41"/><rs ana="YAKI_TEPEW"><hi rend="large">T</hi>epeu yaquí</rs>. <choice><abbr>S<hi rend="superscript">or.</hi></abbr><expan instant="false">Señor</expan></choice> de vna casa grande.
-                    <!-- </p> -->
+                    
                 </p>
                 <p n="93">
-                    <!-- <p corresp="#p90"> -->
+                    
                     <lb n="42"/>y estos son los nueue <rs ana="SAQIK">chínamítales</rs> de
                     <lb n="43"/><rs ana="KAWEQ">cauíquíb</rs>, y tenían muchos vasallos a su
                     <lb n="44"/>quenta.
-                    <!-- </p> -->
+                    
                 </p>
                 <p n="94">
-                    <!-- <p corresp="#p91"> -->
+                    
                     <lb n="45"/>y aquí se ponen los de <rs ana="NIJA'IB">níhaíbab</rs>, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>tenían
                     <lb n="46"/>nueue casas y prímero díremos la de<corr><pc> –</pc></corr>
                     <pb corresp="xom-f56-s1"/>
@@ -5912,32 +5904,32 @@
                     </note>
                     <lb n="1"/>çendençía del Reyno <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> fue vno en tro
                     <lb n="2"/>co, antes <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> vbíese luz, y sol.
-                    <!-- </p> -->
+                    
                 </p>
                 <p n="95">
-                    <!-- <p> -->
+                    
                     <lb n="3"/><rs ana="BALAM_AQ'AB"><hi rend="large">B</hi>alam acab</rs>. el primer abuelo, y pa<pc> –</pc>
                     <lb n="4"/>dre.
-                    <!-- </p> -->
-                    <!-- <p> -->
+                    
+                    
                     <lb n="5"/><rs ana="K'O'AKUL_NJDOS">Coacul</rs> <rs ana="K'O'AKUTEK_NJDOS">coacutac</rs> . segunda generaçíon.
-                    <!-- </p> -->
-                    <!-- <p> -->
+                    
+                    
                     <lb n="6"/><rs ana="K'OCHAJUJ_NJTRES">cochahuh</rs> <rs ana="K'OTZ'IBAJA_NJTRES">coꜩíbaha</rs>. tercera generaçíon.
-                    <!-- </p> -->
-                    <!-- <p> -->
+                    
+                    
                     <lb n="7"/><rs ana="BELEJEB_KEJ_NJCUATRO"><hi rend="large">B</hi>eleheb quih</rs>, la quarta generaçíon.
-                    <!-- </p> -->
-                    <!-- <p> -->
+                    
+                    
                     <lb n="8"/><rs ana="K'OTUJA_NJCINCO">Cotuha</rs> la quínta generaçíon.
-                    <!-- </p> -->
-                    <!-- <p> -->
+                    
+                    
                     <lb n="9"/><rs ana="BATZ'A_NJSEIS">Baꜩa</rs>. la sexta generaçíon.
-                    <!-- </p> -->
-                    <!-- <p> -->
+                    
+                    
                     <lb n="10"/><rs ana="ISTAYUL_NJSIETE">ztayul</rs> la septíma generaçíon de Reyes.
-                    <!-- </p> -->
-                    <!-- <p> -->
+                    
+                    
                     <lb n="11"/><rs ana="K'OTUJA_NJOCHO">Cotuha</rs>. la octaua generaçíon del Rey<pc> –</pc>
                     <lb n="12"/>no.
                     <lb n="13"/><rs ana="BELEJEB_KEJ_NJNUEVE">Beleheb quíh</rs>. la nona generaçíon.
@@ -5946,23 +5938,23 @@
                     <lb n="16"/><rs ana="DON_CRISTÓBAL_NJONCE">Don chrístoual</rs> se llamo el <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> Reyno
                     <lb n="17"/>en tíempo de los españoles.
                     <lb/>
-                    <!-- </p> -->
-                    <!-- <p> -->
+                    
+                    
                     <lb n="18"/><rs ana="DON_PEDRO_DE_ROBLES_NJDOCE">Don <choice><abbr type="superscription">Po.</abbr><expan instant="false">Pedro</expan></choice> de Robles.</rs>
                     es el <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> Reyn a<pc> –</pc>
                     <lb n="19"/>gora.
-                    <!-- </p> -->
+                    
                 </p>
                 <p n="96">
-                    <!-- <p corresp="#p92"> -->
+                    
                     <lb n="20"/>y estos fueron todos los Reyes <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> deçen<corr><pc> –</pc></corr>
                     <lb n="21"/>díeron de aquel <rs ana="AJAW_Q'ALEL">Rey ꜫalel</rs>. y agora 
                     <lb n="22"/>díremos el <choice><abbr type="superscription">Sor.</abbr><expan instant="false">Señor</expan></choice> de cada vna de las
                     <lb n="23"/>grandes casas.
-                    <!-- </p> -->
+                    
                 </p>
                 <p n="97">
-                    <!-- <p> -->
+                    
                     <lb n="24"/><rs ana="AJAW_Q'ALEL"><hi rend="large">A</hi>hau ꜫalel</rs> el primer <choice><abbr type="superscription">Sor</abbr><expan instant="false">Señor</expan></choice> de los de <rs ana="NIJA'IB">ní<pc> –</pc>
                     <lb n="25"/>haíbab</rs> Sor<choice><abbr type="superscription">Sor</abbr><expan instant="false">Señor</expan></choice> de vna casa grande.
                     <lb n="26"/><rs ana="AJAW_AJTZIK_WINAQ"><hi rend="large">A</hi>hau ah ꜩíc vínac</rs>.<choice><abbr type="superscription">Sor</abbr><expan instant="false">Señor</expan></choice> de vna casa <choice><abbr type="superscription">gre.</abbr><expan instant="false">grande</expan></choice>
@@ -5973,20 +5965,20 @@
                     <lb n="31"/><rs ana="NIM_CH'OKOJ_NIJA'IB"><hi rend="large">N</hi>ímchocoh níhaíb</rs><choice><abbr type="superscription">Sor</abbr><expan instant="false">Señor</expan></choice> de vna casa <choice><abbr type="superscription">grane.</abbr><expan instant="false">grande</expan></choice>
                     <lb n="32"/><rs ana="AJAW_AWILIX"><hi rend="large">A</hi>hau auílíx</rs><choice><abbr type="superscription">Sor</abbr><expan instant="false">Señor</expan></choice> de vna casa <choice><abbr type="superscription">grane.</abbr><expan instant="false">grande</expan></choice>
                     <lb n="33"/><rs ana="YAKOLATAM"><hi rend="large">Y</hi>acolatam</rs>. <choice><abbr type="superscription">Sor</abbr><expan instant="false">Señor</expan></choice> de vna casa grande.
-                    <!-- </p> -->
+                    
                 </p>
                 <p n="98">
-                    <!-- <p corresp="#p93"> -->
+                    
                     <lb n="34"/>y estas son las casa grandes de los
                     <lb n="35"/>de <rs ana="NIJA'IB">níhaíbab</rs>. y así se llamaron los
                     <lb n="36"/>nueue chínamítales de <rs ana="NIJA'IB">níhaíbab</rs>
                     <lb n="37"/>y tenía muchos chínamítales cada
                     <lb n="38"/>vno de los <choice><abbr type="superscription">SSes</abbr><expan instant="false">Señores</expan></choice><choice><abbr>q’</abbr><expan instant="false">que</expan></choice> prímero díxímos
                     <lb n="39"/>sus nombres.
-                    <!-- </p> -->
+                    
                 </p>
                 <p n="99">
-                    <!-- <p corresp="#p94"> -->
+                    
                     <lb n="40"/>y esta es la desçendençía de los de
                     <lb n="41"/><rs ana="AJAW_K'ICHE'">ahau quiche</rs>. su primer abuelo, y <choice><abbr type="superscription">Pe.</abbr><expan instant="false">Padre</expan></choice>
                     <lb n="42"/><rs ana="MAJUK'UTAJ">Mahucutah</rs>. el primer hombre.
@@ -6000,19 +5992,19 @@
                     <lb n="3"/><rs ana="K'OKAMEL_AKSIETE">Cocamel</rs>. <num>7.</num>
                     <lb n="4"/><rs ana="K'OYABAKOJ_AKOCHO">Coyabacoh</rs>. <num>8</num>.
                     <lb n="5"/><rs ana="WINAQ_BALAM_AKNUEVE">Vínac bam</rs>. <num>9</num>.
-                    <!-- </p> -->
+                    
                 </p>
                 <p n="100">
-                    <!-- <p corresp="#p95"> -->
+                    
                     <lb n="6"/>y estos fueron los Reyes de los de <rs ana="AJAW_K'ICHE'">ah<pc> –</pc>
                     <lb n="7"/>au quiche</rs>, y su desçendençías. y es<pc> –</pc>
                     <lb n="8"/>tos son los nombres delos<rs ana="CUATRO_CASAS_GRANDES"><choice><abbr type="superscription">SSes.</abbr><expan instant="false">Señores</expan></choice> de las
                     <lb n="9"/>grandes casas, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> solo son quatro</rs>.
                     <lb/>
-                    <!-- </p> -->
+                    
                 </p>
                 <p n="101">
-                    <!-- <p> -->
+                    
                     <lb n="10"/><rs ana="AJAW_AJTZIK_WINAQ"><hi rend="large">A</hi>h ꜩíc vínac</rs> el nombre del primer <choice><abbr type="superscription">Sor</abbr><expan instant="false">Señor</expan></choice>
                     <lb n="11"/>de vna grande casa.
                     <lb n="12"/><rs ana="AJAW_LOLMET"><hi rend="large">L</hi>olmet ahau</rs>. el segundo <choice><abbr type="superscription">Sor</abbr><expan instant="false">Señor</expan></choice> de vna
@@ -6022,10 +6014,10 @@
                     <lb n="16"/><rs ana="AJAW_JAQAWITZ"><hi rend="large">H</hi>acauíꜩ</rs>. el quarto <choice><abbr type="superscription">Sor</abbr><expan instant="false">Señor</expan></choice> de vna casa
                     <lb n="17"/>grande. queeran solo <rs ana="CUATRO_CASAS_GRANDES">quatro casas
                     <lb n="18"/>grandes</rs> de los de <rs ana="AJAW_K'ICHE'">ahau quiche</rs>.
-                    <!-- </p> -->
+                    
                 </p>
                 <p n="102">
-                    <!-- <p corresp="#p96"> -->
+                    
                     <lb n="19"/>y estos eran los tres grandes combí<pc> –</pc>
                     <lb n="20"/>tes, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> eran como padres por todos los
                     <lb n="21"/><choice><abbr type="superscription">SSes</abbr><expan instant="false">Señores</expan></choice> del quiche, y todos se juntaban
@@ -6033,10 +6025,10 @@
                     <lb n="23"/>todo lo mandaban, y dísponían, pe<pc> –</pc>
                     <lb n="24"/>queño, y grande, los tres juntos, o
                     <lb n="25"/>combítes.
-                    <!-- </p> -->
+                    
                 </p>
                 <p n="103">
-                    <!-- <p corresp="#p97"> -->
+                    
                     <lb n="26"/>Grande Junta, y combíte delos de <rs ana="KAWEQ">ca
                     <lb n="27"/>uíquíb</rs>. y el Segundo de los de <rs ana="NIJA'IB">níha<pc> –</pc>
                     <lb n="28"/>íb</rs>. y el terçero de los de <rs ana="AJAW_K'ICHE'">ahau quí<pc> –</pc>
@@ -6058,7 +6050,6 @@
                     <lb/>
                     <lb/>
                     <lb/>
-                    <!-- </p> -->
                 </p>
             </div>
         </body>
