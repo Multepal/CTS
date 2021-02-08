@@ -2,4 +2,6 @@
 <ti:textgroup xmlns:ti="http://chs.harvard.edu/xmlns/cts" urn="urn:cts:mayaLit:lit0001">
     <!-- Provides the name of the textgroup in each of the languages used in the works. -->
   <ti:groupname xml:lang="eng">Maya Literature</ti:groupname>
+  <ti:groupname xml:lang="spa">Literatura maya</ti:groupname>
+  <ti:groupname xml:lang="quc">Uch'ob'oj maya </ti:groupname>
  </ti:textgroup>
